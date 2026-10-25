@@ -1,0 +1,6475 @@
+N°02 04/2026 – ANALYSES
+
+Projections démographiques
+du Luxembourg :
+VERS UN MILLION D’HABITANTS
+D’ICI 2070
+
+IMPRESSUM
+Responsable de la publication
+Tom Haas
+Date de clôture statistique :
+24.02.2026 pour les prévisions macroéconomiques du STATEC
+ISSN 2658963X
+Sources :
+Commission européenne (Ageing Report 2024),
+AMECO (winter 2025), OCDE (2025),
+STATEC (Prévisions de moyen-terme février 2026)
+Auteurs :
+Dr Gabriel GOMES
+François PELTIER
+
+STATEC
+Institut national de la statistique et des études économiques
+Bâtiment Twist
+12, boulevard du Jazz
+L-4370 Belvaux
++352 247 - 84219
+info@statec.etat.lu
+www.statistiques.lu
+
+2
+
+TABLE DES MATIÈRES
+Résumé exécutif
+
+4
+
+Introduction
+
+5
+
+Le modèle éco-démographique
+
+7
+
+Nouvelle approche : un PIB potentiel endogène
+
+9
+
+Potentiel de croissance économique et croissance démographique
+
+10
+
+Le lien entre productivité et coût salarial
+
+10
+
+Le lien entre salaires et attractivité
+
+12
+
+Hypothèses économiques
+
+15
+
+Scénarios macroéconomiques
+
+15
+
+L’évolution des heures travaillées par employé
+
+17
+
+Hypothèses démographiques
+
+18
+
+Les migrations internationales
+
+20
+
+La fécondité
+
+23
+
+La mortalité
+
+27
+
+Projection de la population à l’horizon 2070
+
+29
+
+Évolution du solde migratoire
+
+29
+
+Évolution de la population totale
+
+30
+
+Structure d’âge de la population
+
+32
+
+Effectifs scolaires
+
+35
+
+Personnes âgées
+
+37
+
+Projection de l’emploi à l’horizon 2070
+
+39
+
+Un vieillissement plus actif
+
+41
+
+Projection du PIB potentiel à l’horizon 2070
+
+43
+
+Analyses de sensibilité
+
+45
+
+Analyse de sensibilité économique
+
+46
+
+Variation du coût de la vie relatif
+
+46
+
+Variation de la part de nouveaux travailleurs étrangers s’installant
+au Luxembourg
+
+50
+
+Variation du taux d’activité
+
+53
+
+Résumé des analyses de sensibilité économique
+
+56
+
+Analyse de sensibilité démographique : solde migratoire nul
+
+57
+
+Analyse de sensibilité démographique : fécondité
+
+61
+
+Analyse de sensibilité démographique : mortalité
+
+64
+
+Résumé des analyses de sensibilité démographique
+
+67
+
+Comparaison avec les projections d’Eurostat
+
+68
+
+Conclusion
+
+71
+
+RÉSUMÉ EXÉCUTIF
+Ce rapport présente une mise à jour des projections démographiques et économiques de long
+terme du Luxembourg à l’horizon 2070, fondée sur un modèle éco-démographique intégrant
+explicitement les interactions entre productivité, salaires, migrations, population, emploi et
+croissance économique.
+Par rapport à la publication de référence du STATEC de 2017, la principale évolution méthodologique consiste à endogénéiser la croissance du PIB potentiel. La productivité devient le
+paramètre central des scénarios, tandis que le PIB potentiel résulte des dynamiques d’emploi,
+de population et d’heures travaillées.
+Les projections montrent que la population du Luxembourg continuerait de croître au cours
+des prochaines décennies, pour atteindre entre environ 940 000 et 1 070 000 habitants en
+2070 selon les scénarios. Toutefois, cette croissance serait nettement plus modérée que celle
+observée depuis le début des années 2000, avec un rythme d’accroissement annuel passant
+durablement sous 1% à partir des années 2040.
+À long terme, la dynamique démographique reposerait presque exclusivement sur le solde
+migratoire. Le solde naturel deviendrait négatif à partir du milieu du siècle dans tous les
+scénarios, soulignant le rôle structurel de l’immigration dans la croissance démographique
+luxembourgeoise.
+Le vieillissement de la population constituerait une tendance majeure et inévitable. La population âgée de 65 ans et plus verrait son effectif presque tripler entre 2025 et 2070, portant le
+ratio de dépendance démographique des personnes âgées à un niveau compris entre 49% et
+58% selon les scénarios.
+Sur le plan économique, les trajectoires de long terme diffèrent sensiblement en fonction des
+hypothèses de productivité totale des facteurs et d’investissement. Les scénarios de forte productivité se traduisent par une croissance économique plus soutenue, des salaires relatifs plus
+attractifs et un solde migratoire plus élevé.
+Les analyses de sensibilité confirment que les hypothèses migratoires constituent le principal
+déterminant des trajectoires économiques et démographiques de long terme. À l’inverse, les
+variantes portant sur la fécondité et la mortalité n’ont qu’un impact limité sur la croissance
+potentielle à l’horizon considéré.
+Ces projections ne constituent pas des prévisions mais des trajectoires conditionnelles destinées à éclairer le débat public et les choix de politique économique à long terme.
+
+4
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Introduction
+
+5
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Le Luxembourg connaît une croissance économique et démographique élevée depuis le début des années 2000, l’évolution de sa population étant principalement portée par le solde
+migratoire. L’afflux continu de travailleurs étrangers a joué un rôle central dans le dynamisme
+du marché du travail, soutenant à la fois la croissance de l’emploi et la capacité productive de
+l’économie. Le double rôle des ressortissants étrangers — à la fois comme travailleurs et, dans
+de nombreux cas, comme résidents — a donc contribué de manière significative au potentiel
+de croissance du pays.
+Ces dernières années toutefois, ce moteur d’expansion est soumis à des pressions croissantes :
+un marché du logement sous tension, une congestion accrue du trafic pendulaire1 et une érosion progressive de la compétitivité salariale relative du Luxembourg. Ces facteurs risquent de
+réduire les flux migratoires futurs, entraînant un ralentissement de la dynamique de l’emploi
+et un affaiblissement de la croissance. Tenir compte des liens entre les évolutions démographiques et macroéconomiques est particulièrement important pour le bon établissement des
+projections à long terme.
+Les projections démographiques dites « standard », telles que celles d’Eurostat — qui traitent
+la migration comme une variable exogène — négligent implicitement les déterminants économiques des migrations qui revêtent une grande importance pour une économie comme
+le Luxembourg. Elles sont néanmoins utilisées dans l’Ageing Report (AR), le cadre commun de
+l’Union européenne (UE) conçu pour principalement évaluer les effets économiques et budgétaires du vieillissement à long terme. Si les migrations sont structurellement sous- ou surestimées, les ratios de dépendance et les dépenses de pensions projetées peuvent diverger
+fortement des dynamiques réelles de long terme. Les travaux antérieurs du STATEC (2017)2 ont
+déjà démontré qu’une approche économique et démographique intégrée est essentielle pour
+produire des projections réalistes de population et de marché du travail pour le Luxembourg.
+En effet, le modèle éco-démographique développé par le STATEC repose sur le lien, particulièrement fort au Luxembourg, entre dynamiques économiques et évolutions démographiques
+(graphique 1).
+Le présent document met à jour et étend ce modèle avec de nouveaux scénarios jusqu’en 2070,
+combinant une productivité exogène et un Produit Intérieur Brut (PIB) endogène déterminé
+par l’emploi et le nombre d’heures travaillées. Ainsi, il apporte comme contribution principale
+un modèle éco-démographique révisé, incluant des nouvelles analyses de sensibilité reflétant l’interaction spécifique au Luxembourg entre migration, salaires, compétitivité et activité
+économique.
+
+6
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+1
+
+Par trafic pendulaire, on entend l’ensemble des déplacements quotidiens effectués de manière répétée entre le
+domicile et le lieu de travail. Dans le contexte luxembourgeois, ce terme inclut en particulier les flux importants de
+travailleurs frontaliers venant de Belgique, de France et d’Allemagne.
+
+2
+
+Bulletin n° 3/2017 Projections macroéconomiques et démographiques de long terme : 2017-2060 :
+https://statistiques.public.lu/fr/publications/series/bulletin-statec/2017/bulletin-03-17.html
+
+LE MODÈLE ÉCO-DÉMOGRAPHIQUE
+Au cœur du modèle se trouvent deux relations économiques fondamentales. La première établit un lien entre la croissance de la productivité horaire relative du Luxembourg (comparée à
+celle de ses pays voisins) et l’évolution des coûts salariaux relatifs. La seconde, quant à elle, explore la relation entre les flux de travailleurs étrangers et l’attractivité salariale et économique
+du pays.
+Ces relations permettent d’estimer les flux futurs de main-d’œuvre étrangère. L’approche centrale du modèle suppose que la moitié de ces nouveaux travailleurs étrangers résideront à
+l’étranger (en tant que frontaliers), tandis que l’autre moitié s’installera au Luxembourg. À cette
+dernière composante, des réfugiés, correspondant à leur moyenne historique de 1 800 personnes, sont ajoutés tous les ans ainsi que des immigrés non-actifs : environ une personne
+pour dix nouveaux travailleurs étrangers.
+Le solde migratoire ainsi obtenu est ensuite réparti par âge et par sexe, selon les hypothèses
+démographiques3. Les taux de fécondité et de mortalité, également définis dans le cadre de
+ces hypothèses, permettent de projeter l’évolution de la population totale par âge et sexe sur
+le long terme.
+À partir de cette structure démographique projetée, le modèle applique des hypothèses sur les
+taux d’activité et d’emploi par tranche d’âge, issues du modèle de simulation de cohorte utilisé
+dans le rapport sur le vieillissement de la Commission européenne (AR) 4. L’emploi national est
+ainsi estimé, puis combiné avec l’emploi frontalier pour obtenir l’emploi total.
+En supposant une stabilité de l’évolution des heures travaillées par employé – égale à leur
+moyenne historique – le modèle calcule la croissance des heures travaillées totales. La croissance du PIB résulte alors de la combinaison entre cette croissance des heures travaillées
+(croissance extensive) et celle de la productivité horaire (croissance intensive), cette dernière
+étant définie de manière exogène selon les scénarios retenus.
+Enfin, puisque les flux de travailleurs étrangers dépendent eux-mêmes de la conjoncture économique, le modèle est réestimé de manière itérative : les projections de PIB influencent les
+flux migratoires, qui à leur tour modifient les trajectoires économiques. Ce processus est répété
+jusqu’à convergence, garantissant la cohérence interne des projections à long terme.
+
+3
+
+Le calendrier migratoire observé entre 2019 et 2023 est maintenu constant tout au long de la projection.
+
+4
+
+Les données observées fournies par l’IGSS sont prolongées à partir de l’évolution issue du « cohort simulation
+model » utilisé dans le Ageing Report.
+
+7
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 1 : LE MODÈLE DÉMOGRAPHIQUE DU STATEC
+
+Croissance de la
+productivité horaire
+
+Croissance du PIB
+potentiel
+
+Croissance des
+heures travaillées
+
+Croissance des
+salaires relatifs
+Heures travaillées
+par employé
+
+Flux des travailleurs
+étrangers
+
+50%
+
+Frontaliers
+
+Emploi national
+
+Refugiés et immigrés
+non-actifs
+Taux d’activité et
+d’emploi
+Solde migratoire
+
+Population
+Solde naturel
+
+Source : STATEC
+
+8
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+NOUVELLE APPROCHE : UN PIB POTENTIEL
+ENDOGÈNE
+Pour la présente mise à jour des projections démographiques de long terme, le STATEC s’est
+inspiré de la méthodologie introduite en 2017, qui établissait un lien étroit entre croissance
+économique et croissance démographique. Certains aspects de la modélisation ont néanmoins
+été adaptés5.
+Dans la publication de 2017, le choix méthodologique consistait à endogénéiser la productivité
+et à exogénéiser le PIB potentiel, l’objectif étant d’estimer la croissance de la productivité requise pour atteindre un niveau de PIB cible : la logique allait donc du PIB « souhaité » vers la
+productivité nécessaire pour y parvenir.
+Dans la présente étude, cette logique est inversée. Il ne s’agit plus de déterminer la productivité
+requise pour atteindre un niveau donné d’activité économique, mais d’évaluer la fourchette de
+PIB potentiel qui résulte de différentes hypothèses d’évolution de la productivité.
+La productivité est ainsi traitée comme une variable exogène, car elle constitue l’hypothèse
+clé que l’on souhaite faire varier — en intégrant notamment le rôle de l’investissement, luimême influencé par les politiques économiques, ainsi que celui de facteurs externes plus difficiles à modéliser, comme les innovations technologiques. À l’inverse, le PIB potentiel devient
+endogène, puisqu’il doit s’ajuster automatiquement aux dynamiques démographiques et migratoires ainsi qu’à l’évolution endogène de l’emploi et du volume de travail. Cette inversion
+permet de répondre à la nouvelle question d’intérêt : non plus « quelle productivité pour atteindre un PIB cible ? », mais « quel PIB potentiel peut-on anticiper compte tenu de différents
+scénarios d’évolution de la productivité ? ».
+Ce changement de perspective se justifie également par la nature même des déterminants de
+la productivité horaire. Celle-ci comporte une composante non-observable — la productivité
+totale des facteurs (PTF) — et une composante d’intensité capitalistique étant plus directement influençable par les décisions politiques, notamment en matière d’investissement.
+Dans ce contexte, la nouvelle approche vise à définir une fourchette réaliste d’évolution de
+ces deux dimensions : d’une part, ce que la PTF peut raisonnablement produire selon différents scénarios, et d’autre part, ce que l’investissement peut générer en termes de gains
+potentiels de productivité.
+
+5
+
+La source de données utilisée pour les estimations a changé de l’OCDE (données utilisées en 2017) à la base de
+données AMECO de la Commission européenne pour les données sur les pays voisins (des données du STATEC sont
+utilisées pour le Luxembourg).
+
+9
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Potentiel de croissance économique et
+croissance démographique
+En se limitant au facteur de production « travail », la croissance potentielle du PIB peut être
+décomposée en deux composantes : la quantité de travail fourni (en heures ou personnes,
+« croissance extensive » ) et la productivité de ce travail (« croissance intensive » ). La première
+composante reflète la causalité directe allant de la croissance démographique vers la croissance économique par le biais d’une hausse du nombre de travailleurs. La causalité inverse
+passe par la seconde composante, à savoir la productivité. La théorie économique indique que
+les salaires devraient évoluer tendanciellement au même rythme que la productivité. Des salaires élevés, notamment comparé à d’autres pays, peuvent constituer un facteur d’attrait pour
+les travailleurs étrangers, ce qui soutient l’immigration. Ainsi, l’économie via la productivité et
+les salaires, influence l’évolution démographique.
+Cette interrelation est particulièrement importante au Luxembourg, où l’évolution démographique est largement déterminée par les migrations. D’ailleurs, pour le calcul de la population,
+il est important de prendre en compte la résidence des travailleurs, puisque la force de travail
+frontalière ne contribue pas à l’évolution démographique nationale. Ces principes, illustrés plus
+en détail dans la publication de 2017, sont inchangés et la connexion économie-démographie
+demeure au cœur des projections actuelles. La modélisation des deux étapes essentielles à
+cette relation, productivité-salaires et salaires-emploi (résident et non résident), sont détaillées
+par la suite.
+
+Le lien entre productivité et coût salarial
+La théorie microéconomique classique postule que l’évolution des salaires doit tendanciellement suivre celle de la productivité. Le raisonnement « marginaliste » est intuitif : tant que la
+productivité d’une unité supplémentaire de travail est supérieure au salaire unitaire, l’entreprise a intérêt à l’employer ; si elle est inférieure, l’entreprise n’a pas intérêt à y recourir. Autrement dit, un employeur embauche si (et seulement si) le travail rapporte au moins le coût de
+ce travail.
+Comme le Luxembourg évolue dans un environnement ouvert et peut être considéré en concurrence avec les pays voisins pour attirer de la main-d’œuvre, la relation entre productivité et coût
+salarial a été modélisée en termes relatifs en utilisant le ratio du Luxembourg par rapport aux
+pays voisins (Allemagne, Belgique et France).
+Contrairement aux estimations de 2017, la modélisation actualisée repose sur des variables
+mesurées en termes horaires (productivité par heure et non par tête). D’ailleurs, suivant l’argument théorique présenté ci-dessus, cette relation entre productivité et salaires est considérée
+du point de vue du producteur. C’est pourquoi les prix de la valeur ajoutée brute (VAB) sont
+utilisés comme déflateur du coût salarial.
+
+10
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Le Graphique 2 illustre la relation de long-terme entre coût salarial réel et productivité. Conformément aux conclusions de la théorie classique, ce graphique montre une relation positive très
+forte entre le ratio de la productivité horaire et le coût salarial horaire.
+GRAPHIQUE 2 : LE LIEN ENTRE PRODUCTIVITÉ ET COÛT SALARIAL
+2.00
+
+Ratio
+
+1.75
+
+1.50
+
+1.25
+
+1.00
+1985
+
+1990
+
+1995
+
+Productivité horaire (vol.)
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+2025
+
+Coût salarial horaire (vol.)
+
+Source : STATEC. Note : Le coût salarial réel et la productivité sont exprimés par heure, en ratio entre Luxembourg et
+pays voisins.
+
+La relation entre coût salarial horaire et productivité horaire est estimée sous forme d’un modèle à correction d’erreurs (ECM) 6 dans lequel il y a une dynamique de court terme et une
+de long terme. En plus de la variable explicative principale qu’est le ratio de productivité, la
+spécification du modèle intègre une modification de la relation observée durant la décennie
+suivant la crise financière, qui est prise en compte dans la relation de long terme. Par ailleurs,
+les variations passées de la productivité sont ajoutées dans la dynamique de court terme. Ces
+ajustements visent à améliorer les propriétés statistiques des résidus de l’équation : une fois
+ces termes introduits, les résidus satisfont les tests usuels d’absence d’autocorrélation, de normalité et de stationnarité. Dans l’estimation obtenue, le coefficient associé à la relation de long
+terme entre productivité et salaires n’est pas statistiquement différent de 1, validant empiriquement la relation de proportionnalité attendue par la théorie.
+
+6
+
+L’équation estimée est la suivante : dlog(coût salarialt) = -0.79*log(coût salarialt-1) + 0.81* log(productivitét-1) +
+0.28*d10_d19 t-1 – 0.65*d10_d19 t-1*log(productivitét-1) + 0.54*dlog(productivitét) – 0.62*dlog(productivitét-1) + 0.06*d11
+– 0.03. Les variables sont définies comme indiqué dans le texte et le coefficient estimé de la relation de long-terme
+entre productivité et coût salarial est de 1.02.
+
+11
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Le lien entre salaires et attractivité
+Le deuxième mécanisme se focalise sur le rôle joué par les salaires dans l’attrait de travailleurs
+étrangers, qui sont majoritaires sur le marché du travail luxembourgeois (environ 75% des employés au Luxembourg, dont environ 2/3 de frontaliers et 1/3 de résidents étrangers).
+Pour estimer l’attrait des travailleurs étrangers, les migrants et les nouveaux frontaliers sont
+considérés ensemble en se fondant sur l’idée qu’une personne est d’abord attirée par la volonté de travailler au Luxembourg et que le choix de son lieu de résidence n’intervient que par
+la suite. Ainsi, comme le mécanisme principal repose sur les salaires, seules les personnes en
+âge de travailler (15-64) sont prises en compte. Par ailleurs, les fonctionnaires internationaux
+ainsi que les réfugiés sont exclus puisqu’il est considéré que d’autres facteurs que le salaire
+relatif expliquent leur implantation au Luxembourg. Pour les premiers, ce sont plus probablement les besoins des institutions européennes et internationales situées au Luxembourg qui
+déterminent leur nombre. Pour les seconds, les conditions dans leur pays d’origine (notamment
+guerres) sont considérées comme étant le déterminant fondamental.
+Le principal facteur explicatif considéré est le ratio des salaires au Luxembourg par rapport
+aux pays voisins. En effet, plus les salaires seraient élevés au Luxembourg comparé aux autres
+pays, plus il serait attractif de venir travailler au Grand-Duché. Comme cet argument se base
+sur le point de vue d’un employé, le salaire (hors cotisations patronales) est considéré et non
+le coût salarial comme dans la partie précédente. D’ailleurs, plutôt que le niveau nominal, c’est
+le pouvoir d’achat des salaires qui devrait importer aux travailleurs. Celui-ci dépend à la fois de
+la rémunération, mais aussi du niveau des prix dans un pays. Ainsi, les salaires sont exprimés
+en parités de pouvoir d’achat (PPA) afin de garantir une comparabilité à ce niveau entre pays.
+Dans l’établissement des projections, il est nécessaire d’opérer une transition entre le coût
+salarial déflaté par les prix de la VAB, utilisé dans la première équation, et le salaire exprimé
+en PPA utilisé dans la deuxième équation. Pour ce faire, le ratio des coûts salariaux réels est
+multiplié successivement par le ratio de la part du salaire (c’est‑à‑dire le salaire net des charges
+patronales, selon les données d’Eurostat) ainsi que par le ratio entre les prix de la VAB et les
+indices de PPA. Dans les quatre scénarios de base, ces ratios sont supposés constants, fixés à
+leur dernière valeur observée au début de l’horizon de projection. Le ratio des indices de PPA
+fait l’objet d’une attention particulière dans l’une des analyses de sensibilité.
+Le Graphique 3 illustre la seconde relation de long-terme. Exception faite de la 2e moitié des
+années 2010, une relation positive s’observe entre l’attractivité, mesurée comme le nombre de
+nouveaux travailleurs au Luxembourg, et le ratio des salaires au Luxembourg en PPA.
+
+12
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+15
+
+1.5
+
+10
+
+1.4
+
+5
+
+1.3
+
+0
+
+Ratio
+
+1.6
+
+1995
+
+2000
+Salaire horaire (PPA)
+
+2005
+
+2010
+
+2015
+
+2020
+
+Milliers de personnes
+
+GRAPHIQUE 3 : LE LIEN ENTRE SALAIRE ET ATTRACTIVITÉ
+
+2025
+
+Solde migratoire (éch. dr.)
+
+Source : STATEC
+
+Cette relation est estimée à nouveau par un ECM7. Dans la partie de long-terme, seul le ratio des salaires a été considéré comme variable explicative avec un coefficient estimé à 2.8.
+Dans la partie de court terme, des variables additionnelles reflètent davantage des facteurs
+conjoncturels. Ainsi, une hausse du chômage dans les pays voisins peut pousser des personnes
+à chercher un emploi ailleurs, notamment au Grand-Duché. A l’inverse, une forte croissance
+de l’activité économique au Luxembourg peut signaler une demande de travail croissante et
+attirer des travailleurs étrangers. De la même manière, l’écart de croissance de l’emploi entre le
+Luxembourg et ses pays voisins est également signe d’un dynamisme important, et une croissance de la productivité comparativement plus élevée peut être interprétée comme un signal
+de l’évolution future des salaires.
+Les projections de l’attrait de travailleurs étrangers sont établies sur la base de cette équation.
+Il convient ensuite de convertir le nombre d’employés attirés en variation de la population résidente. Dans une première étape, il est supposé que la moitié des nouveaux travailleurs étrangers s’installe au Luxembourg, tandis que l’autre moitié devient frontalière. Cette hypothèse
+repose sur le fait que, sur les trois dernières décennies, la part de nouveaux frontaliers dans le
+flux de nouveaux travailleurs étrangers a été en moyenne de 50%.
+
+7
+
+L’équation estimée est la suivante : Δln(travailleurs attirés t) = -0.43*ln(travailleurs attirés t-1) + 1.18*ln(salaires t-1) +
+1.95*Δln(PIB réel lux.t) + 16.49*différentiel croissance emploit + 4.42*différentiel croissance productivitét-1 + 0.23*Δ(taux
+chômage pays voisinst-2) – 0.35*d20 – 0.35*d_avant2010 + 3.33. Les variables sont définies comme indiqué dans le
+texte et le coefficient estimé de la relation de long-terme entre salaires et travailleurs attirés est de 2.78.
+
+13
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Dans une seconde étape, pour obtenir la variation totale de la population, il faut tenir compte
+des autres personnes qui viennent s’installer en plus des employés attirés. En effet, certains migrants arrivent avec des membres de leur famille — notamment des enfants — qui ne sont pas
+pris en compte dans l’équation initiale puisqu’ils ne sont pas en âge de travailler (20–64 ans).
+Il convient également d’ajouter les fonctionnaires internationaux et les réfugiés, qui avaient
+été exclus de l’estimation. Dans les projections, ces différents éléments sont intégrés à l’aide
+d’hypothèses constantes : la part moyenne de migrants en âge de travailler, une évolution des
+effectifs de fonctionnaires internationaux fondée sur leurs variations passées, et un nombre
+moyen de réfugiés8.
+
+8
+
+14
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+En réalité, il y a plutôt des vagues de réfugiés au fil des conflits internationaux. Cependant, ceux-ci ne sont pas
+prévisibles à l’horizon 2070. Ainsi, la moyenne appliquée de 1 800 nouveaux réfugiés par an doit être vu comme
+équilibrant des périodes de fort et faible afflux.
+
+HYPOTHÈSES ÉCONOMIQUES
+Scénarios macroéconomiques
+Dans le prolongement des travaux initiés en 2017, le STATEC a présenté à l’été 2024 une nouvelle
+série de scénarios macroéconomiques, conçus pour mieux refléter les incertitudes qui pèsent
+sur l’économie luxembourgeoise à long terme. Ces scénarios reposent sur deux variables clés :
+la productivité totale des facteurs (PTF) et le taux d’investissement, dont les combinaisons définissent la productivité horaire.
+La première hypothèse concerne l’évolution de la PTF à partir de 2040. Deux niveaux ont été
+considérés : une croissance nulle de la PTF (0%), traduisant un scénario de stagnation technologique ou d’absence de gains d’efficacité ; et une croissance modérée de 0.8%, correspondant à
+la cible de long-terme définie pour l’ensemble de l’UE dans le AR de 2024.
+La seconde hypothèse porte sur le taux d’investissement (% du PIB réel), avec également deux
+niveaux à partir de 2040 : un taux de 15%, proche de la moyenne basse des tendances observées ces dernières années au Luxembourg, et un taux de 20%, soit la valeur maximale des
+dernières années, qui refléterait à long-terme une politique volontariste de soutien à l’investissement (public et privé).
+La combinaison de ces deux variables donne lieu à quatre scénarios distincts :
+z Scénario 1 : faible productivité, faible investissement.
+Ce scénario reflète une économie en stagnation.
+z Scénario 2 : faible productivité, fort investissement.
+L’investissement compense en partie la stagnation de la productivité totale des facteurs.
+z Scénario 3 : forte productivité, faible investissement.
+Ce scénario suppose une amélioration de la productivité totale des facteurs, malgré le
+manque de dynamique de l’investissement.
+z Scénario 4 : forte productivité, fort investissement.
+Il s’agit du scénario le plus optimiste, dans lequel le Luxembourg parvient à combiner
+fort investissement et gains de productivité totale des facteurs. La productivité horaire
+connaît des taux de croissance relativement élevés.
+Le graphique 4 fournit un résumé du jeu d’hypothèses sous-jacentes aux 4 scénarios.
+
+15
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 4 : HYPOTHÈSES SOUS-JACENTES À L’ÉVOLUTION DE LA PRODUCTIVITÉ HORAIRE
+Taux d'investissement
+
+Productivité totale des facteurs
+20
+
+2
+
+% du PIB réel
+
+Variation annuelle, en %
+
+3
+
+1
+0
+
+18
+
+16
+
+14
+
+-1
+1990 2000 2010 2020 2030 2040 2050 2060 2070
+
+1990 2000 2010 2020 2030 2040 2050 2060 2070
+
+Observé + Projections à moyen-terme
+
+Observé + Projections à moyen-terme
+
+Scénarios 1 & 2
+
+Scénarios 1 & 3
+
+Scénarios 3 & 4
+
+Scénarios 2 & 4
+
+Source : STATEC.
+Note 1 : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+Note 2 : Une convergence linéaire est appliquée entre l’horizon du moyen terme (2028) et l’année cible (2040).
+
+Les taux d’activité, d’emploi et de chômage par tranche d’âge sont appliqués aux projections de
+la population résidente ventilée par âge et par sexe. Les taux utilisés proviennent des données
+de l’inspection générale de la sécurité sociale (IGSS), puis sont prolongés en s’appuyant sur les
+projections issues du Cohort Simulation Model9 de la Commission européenne. Le choix de ne
+pas utiliser directement les taux issus du modèle de la Commission s’explique par les discrépances observées entre les données administratives de l’IGSS et les données d’enquête sur lesquelles se base la Commission. L’hypothèse retenue pour le prolongement est que, même si les
+niveaux des taux diffèrent entre les deux sources, leur évolution reste cohérente, ce qui permet
+d’utiliser les tendances de la Commission pour projeter les taux dérivés des données de l’IGSS.
+
+9
+
+16
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Le Cohort Simulation Model est un modèle harmonisé utilisé par la Commission européenne et l’Ageing Working Group
+(AWG) pour projeter les évolutions de la population active sur le long terme. Il suit les cohortes d’individus selon
+l’âge, le sexe et l’année de naissance, intègre les effets des réformes passées, les changements générationnels, les
+données démographiques EUROPOP, et s’insère dans l’ensemble méthodologique du Ageing Report.
+
+L’évolution des heures travaillées par employé
+L’évolution du nombre d’heures travaillées par employé au Luxembourg suit une tendance
+structurellement décroissante depuis plusieurs années. Plusieurs facteurs expliquent ce recul :
+la réduction progressive du temps de travail légal ou conventionnel, l’augmentation du recours
+au travail à temps partiel, la montée en puissance des secteurs tertiaires à forte intensité de
+qualification mais à plus faible intensité horaire, ainsi que l’évolution des préférences individuelles en matière d’équilibre entre vie professionnelle et vie privée. Par ailleurs, le vieillissement de la main‑d’œuvre contribue également à réduire le volume moyen d’heures travaillées
+par employé. Sur l’horizon des projections, une hypothèse technique de convergence est retenue : l’évolution du nombre d’heures travaillées par employé est supposée se stabiliser, à
+l’horizon 2040, à un rythme annuel de ‑0.20%, correspondant à sa moyenne de long terme.
+GRAPHIQUE 5 : DÉCOMPOSITION DE LA PRODUCTIVITÉ HORAIRE
+
+Croissance de la
+productivité horaire
+
+Intensité du
+capital
+
+Taux
+d’investissement
+
+Croissance du PIB
+potentiel
+
+Croissance des
+heures travaillées
+
+Progrès
+technique (PTF)
+
+Faible
+
+Elevé
+
+Elevé
+
+Scénario 2
+
+Scénario 4
+
+Faible
+
+Scénario 1
+
+Scénario 3
+
+Source : STATEC
+
+17
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Hypothèses démographiques
+Les projections démographiques sont établies au niveau national et portent sur l’ensemble de
+la population résidente, qu’il s’agisse de nationaux ou d’étrangers. Il n’est donc pas nécessaire
+de formuler des hypothèses spécifiques concernant les différentes entités territoriales ni sur
+les acquisitions de la nationalité luxembourgeoise.
+Ces projections reposent sur des hypothèses relatives à la fécondité, à la mortalité ainsi qu’aux
+résultats des hypothèses économiques influençant le solde migratoire (différence entre immigration et émigration). La population de départ retenue est celle recensée au 31 décembre
+202410. À partir de ce point de référence, et sur la base des différentes hypothèses retenues,
+l’évolution annuelle de la population résidente au Luxembourg est projetée jusqu’en 2070, ventilée par âge et par sexe.
+Comme lors des précédentes projections socio-économiques, le STATEC s’écarte des hypothèses élaborées par EUROSTAT. Ce choix s’explique par le fait que le STATEC ne retient pas
+l’hypothèse de convergence entre les pays de l’Union européenne (en matière de fécondité, de
+mortalité et de migration) à l’horizon 2150, contrairement aux experts d’EUROSTAT. En outre,
+les hypothèses migratoires d’EUROSTAT ne tiennent pas compte de variables économiques majeures, particulièrement pertinentes dans le contexte du Grand-Duché.
+Le Luxembourg connaît une dynamique démographique soutenue depuis son essor économique lié au développement de la place financière et, plus largement, du secteur des services à partir du milieu des années 1980. Entre 1970 et le 31 décembre 2024, la population du
+Grand-Duché est ainsi passée de 338 500 à 681 973 habitants, soit du simple au double. Sur la
+même période, la croissance démographique dans l’UE-27 n’a été que d’environ 17%.
+
+10 Les résultats de cette publication ont comme date de référence le 31 décembre de l’année xxxx, soit le 1er janvier de
+l’année xxxx+1, par exemple le 31 décembre 2024 correspond au 1er janvier 2025.
+
+18
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+750
+
+3
+
+600
+
+2
+
+450
+
+1
+
+300
+
+0
+
+%
+
+Milliers de personnes
+
+GRAPHIQUE 6 : ÉVOLUTION DE LA POPULATION, 1970 À 2025
+
+1970
+
+1975
+
+1980
+
+1985
+Population
+
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+2025
+
+Croissance annuelle (éch. dr.)
+
+Source : STATEC
+La croissance considérable de la population du Grand-Duché — ainsi que l’écart de croissance
+qui se creuse progressivement par rapport à la moyenne européenne — s’observe surtout depuis le milieu des années quatre-vingt. Au cours des 15 premières années de la période analysée (de 1970 à 1985), la population du Grand-Duché n’a augmenté que de 8.2%, soit à peine plus
+que celle de l’UE-27 (+7.2% sur la même période). Entre 2000 et 2024, la population du Luxembourg s’est accrue de 55.0%, tandis que dans l’UE-27 cette progression n’a été que de 4.9%.
+La structure par âge de la population luxembourgeoise a également évolué de manière notable
+au cours des dernières décennies. Alors qu’en 1970 la part des personnes âgées de 65 ans et
+plus était de 13.1%, elle atteint 15.5% en 2025, soit une hausse de 2.4 points de % en un peu plus
+d’un demi‑siècle. Inversement, la part des moins de 15 ans diminue sur la même période, passant de 17.3% à 15.5%. Quant aux personnes en âge de travailler (15–64 ans), elles représentent
+en 2025 69.0% de la population totale, soit un niveau comparable à celui du début des 1970.
+Même si un vieillissement de la population est observable au Luxembourg, celui‑ci demeure à
+ce jour relativement limité. Ainsi, au sein de l’UE-27, la part des personnes âgées de 65 ans et
+plus est de 22.0% en 2024 et de 63.7% pour les personnes en âges de travailler.
+
+19
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+TABLEAU 1 : RÉPARTITION DE LA POPULATION ENTRE LES PRINCIPAUX GROUPES D’ÂGES, 1970-2025
+
+Année
+
+Moins de 15 ans
+
+15-64 ans
+
+65 ans et plus
+
+Rapport de dépendance des
+personnes âgées
+
+1970
+
+17.3%
+
+69.7%
+
+13.1%
+
+19.3%
+
+1981
+
+18.5%
+
+67.9%
+
+13.6%
+
+20.0%
+
+1991
+
+17.5%
+
+69.3%
+
+13.2%
+
+19.1%
+
+2001
+
+18.9%
+
+67.2%
+
+13.9%
+
+20.7%
+
+2011
+
+17.3%
+
+68.7%
+
+14.0%
+
+20.4%
+
+2025
+
+15.5%
+
+69.0%
+
+15.5%
+
+22.4%
+
+Source : STATEC
+Note : Le rapport de dépendance des personnes âgées est défini comme le rapport entre les personnes âgées
+de 65+ ans et celles âgées de 15 à 64 ans
+
+Les migrations internationales
+Le dynamisme démographique du Luxembourg est largement attribuable à l’immigration. En
+2024, le taux de solde migratoire net11 du pays dépasse largement celui observé dans l’Union
+européenne dans son ensemble : 11.7‰ par an au Luxembourg, contre 5.2‰ dans l’UE-27. Dix
+ans plus tôt, ce taux s’élevait respectivement à 19.9‰ et 1.5‰.
+Le graphique 7 montre l’évolution du solde migratoire et la croissance annuelle du PIB sur la période allant de 1970 à 2024. Le solde migratoire reflète étroitement l’évolution économique du
+pays. Les périodes de forte croissance — comme la première moitié des années 1960, le début
+des années 1970, ainsi que l’essor exceptionnel à partir du milieu des années 1980 — sont associées à des soldes migratoires très élevés. À l’inverse, les phases de ralentissement économique
+(deuxième moitié des années 1960, années 1975–1985, période 2001–2003) s’accompagnent
+d’un recul du solde migratoire. Plus récemment, la crise sanitaire de la COVID-19 a également
+freiné les mouvements migratoires.
+
+11 Ratio entre le solde migratoire (y compris l’ajustement statistique) et la population.
+
+20
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+
+-5
+
+%
+
+Milliers de personnes
+
+GRAPHIQUE 7 : ÉVOLUTION DU SOLDE MIGRATOIRE ET DE LA CROISSANCE
+ANNUELLE DU PIB, 1985 À 2025
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+Solde migratoire
+
+2010
+
+2015
+
+2020
+
+2025
+
+Evolution du PIB (éch. dr.)
+
+Source : STATEC
+
+Le solde migratoire peut être détaillé entre immigration et émigration (graphique 8). Entre 1970
+et 2024, le nombre d’arrivées a plus que triplé (+245%) tandis que les départs vers l’étranger
+ont connu une hausse de 162%. La population du Luxembourg se caractérise donc par des flux
+migratoires prononcés menant à un « renouvellement » de la population.
+GRAPHIQUE 8 : SOLDE MIGRATOIRE, IMMIGRATION ET ÉMIGRATION, 1970 À 2025
+
+30
+
+Milliers de personnes
+
+20
+
+10
+
+0
+
+-10
+
+-20
+1970
+
+1975
+
+1980
+Immigration
+
+1985
+
+1990
+
+1995
+Emigration
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+2025
+
+Solde migratoire
+
+Source : STATEC
+
+21
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Les facteurs influençant les migrations vers le Luxembourg peuvent varier considérablement
+selon le motif de l’immigration. Actuellement, le principal facteur d’arrivée au Grand-Duché est
+le travail. Les migrations motivées par une activité professionnelle dépendent avant tout de la
+conjoncture économique du pays d’accueil (périodes de crise ou de forte croissance, pénurie
+de main-d’œuvre qualifiée, etc.), soit des facteurs dits « pull ». Elles sont également liées à la
+situation socio-économique des pays d’origine (chômage élevé, écarts importants de salaires,
+manque de postes disponibles dans certains domaines, etc.), soit des facteurs dits « push ».
+Certains éléments peuvent encore favoriser ce type de mobilité : l’existence de réseaux familiaux ou communautaires, la diffusion d’informations sur la situation économique du Luxembourg, ou encore des traditions migratoires anciennes, comme celles entretenues entre le
+Luxembourg et le Portugal.
+Le regroupement familial constitue également un autre motif important d’immigration. Ces
+mouvements concernent principalement les résidents étrangers venus initialement pour travailler et qui font ensuite venir leur famille.
+Le solde migratoire ne se répartit pas de manière homogène entre les âges. En moyenne, sur
+la période 2019–2023, on observe une forte concentration des excédents migratoires dans le
+groupe des 20 à 34 ans. Les soldes relativement élevés aux jeunes âges (enfants en bas âges)
+indiquent que la migration, en plus d’être professionnelle, est aussi liée à des dynamiques
+familiales.
+A partir de 50 ans, les excédents migratoires sont faibles et se rapprochent de zéro (voire légèrement négatifs). Aucun mouvement de retour massif après la fin de la vie professionnelle
+n’est donc constaté. Cette structure par âge du solde migratoire est maintenue constante, pour
+chaque sexe, sur l’ensemble de la période de projection.
+Les hommes ayant tendance à migrer légèrement plus que les femmes, le solde migratoire total
+est réparti comme suit : 48% pour les femmes et 52% pour les hommes. Cette répartition est
+également considérée comme constante tout au long de la projection.
+
+22
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 9 : RÉPARTITION PAR ÂGE DES SOLDES MIGRATOIRES (MOYENNE 2019 - 2023) (EN %)
+8
+
+%
+
+6
+
+4
+
+2
+
+0
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+Femmes
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+95+
+
+Hommes
+
+Source : STATEC
+
+Afin de montrer l’impact des migrations sur la croissance démographique, une variante à ces
+hypothèses sera également prise en compte (solde migratoire nul) et sera détaillée dans la partie « analyse de sensibilité ».
+
+La fécondité
+Outre les migrations, l’évolution future de la population dépend également du solde naturel,
+c’est-à-dire de la différence entre les naissances et les décès.
+Au Luxembourg, l’augmentation du nombre de naissances observée ces dernières années s’explique exclusivement par la hausse du nombre de femmes en âge d’avoir des enfants, et non
+par une progression de la fécondité. Sur les dix dernières années, la population féminine âgée
+de 15 à 49 ans est passée de 139 023 au 31 décembre 2014 à 165 277 au 31 décembre 2024, soit
+une augmentation de 18.9%.
+L’Indicateur conjoncturel de fécondité (ICF)12 diminue fortement au Luxembourg entre le début
+de la décennie 1970 et le milieu des années 1970. Le déclin s’interrompt à cette période et l’indicateur se stabilise avant de remonter à partir du milieu des années 1980 jusqu’en 2000 (de 1.41
+en 1987 à 1.78 en 2000). Depuis l’an 2000, l’ICF est globalement orienté à la baisse et atteint un
+niveau historiquement bas en 2023 et 2024, avec seulement 1.25 enfant par femme. Ce phénomène est également observé au sein de l’UE-27.
+Au début des années 2010, cette diminution peut être partiellement attribuée à l’impact de
+
+12 L’indicateur conjoncturel de fécondité, ou somme des naissances réduites, mesure le nombre d’enfants qu’aurait
+une femme tout au long de sa vie, si les taux de fécondité observés l’année considérée à chaque âge demeuraient
+inchangés.
+
+23
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+la crise économique et financière. Durant ces périodes, les couples — en particulier les plus
+jeunes — ont tendance à reporter les projets de fondation ou d’agrandissement de la famille,
+notamment en raison d’un marché du travail moins favorable et d’un accès plus difficile au
+logement. Toutefois, même lorsque les indicateurs économiques se sont améliorés (avant la
+pandémie de la COVID-19), la fécondité n’est pas repartie à la hausse. Cette baisse persistante a
+conduit les démographes à rechercher d’autres explications. Il ressort que les transformations
+sociétales actuelles et les grands enjeux qui les accompagnent influencent non seulement l’âge
+à la maternité, mais aussi le nombre d’enfants désiré.
+Ce recul de la fécondité est largement lié au report de l’âge à la maternité. L’allongement de la
+durée des études, conjugué à une participation croissante des femmes au marché du travail, a
+en effet conduit les couples à avoir leurs enfants plus tard et donc potentiellement à en avoir
+moins.
+Compte tenu de ces évolutions, le STATEC a revu à la baisse l’hypothèse de fécondité retenue
+dans les projections démographiques de 201713 qui projetait un indice conjoncturel de fécondité de 1.71 enfant en 2060.
+Aujourd’hui, le niveau de l’ICF est donc relativement bas au Luxembourg — comme dans la
+majorité des pays européens — par rapport au passé, ce qui rend les projections délicates : il
+est conceptuellement difficile de projeter indéfiniment une baisse. Par ailleurs, si certains pays
+européens ont observé autrefois une « seconde transition démographique » 14, ce phénomène
+ne semble plus d’actualité.
+Même si l’ICF a diminué ces dernières années, le STATEC ne considère pas que cette tendance se
+poursuivra durablement. L’ICF de départ correspond à la fécondité observée en 2023 (1.25 enfant par femme). Le STATEC projette ensuite une remontée progressive pour atteindre, à l’horizon 2038 (soit dans 15 ans), la moyenne observée durant les cinq dernières années (2019–2023),
+soit 1.33 enfant par femme. À l’horizon 2070, un niveau de 1.50 enfant par femme est projeté.
+
+13 Bulletin n° 3/2017 Projections macroéconomiques et démographiques de long terme : 2017-2060 :
+https://statistiques.public.lu/fr/publications/series/bulletin-statec/2017/bulletin-03-17.html
+14 Cette seconde transition démographique est caractérisée par le fait que même si les femmes donnent naissance
+à des enfants de plus en plus tard, elles en ont également de plus en plus à des âges élevés pour atteindre des
+niveaux observés dans les décennies précédentes. Un « effet de rattrapage » est donc observé.
+
+24
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 10 : INDICATEUR CONJONCTUREL DE FÉCONDITÉ (ICF), 1970-2070
+
+2.00
+
+Enfants par femme
+
+1.75
+
+1.50
+
+1.25
+
+1.00
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+Observé
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Projeté
+
+Source : STATEC
+
+L’augmentation modérée de la fécondité projetée repose sur l’hypothèse que la baisse récente de
+la fécondité pourrait être influencée par un phénomène d’anticipation lié à la pandémie de COVID-19. En effet, les couples auraient eu légèrement plus d’enfants durant la période 2020–2021,
+ce qui aurait entraîné une diminution temporaire des naissances dans les années suivantes. Cette
+tendance observée au Luxembourg apparaît également dans d’autres pays européens, notamment en Allemagne et en Suède15. Dans ces deux pays, comme au Luxembourg, aucune baisse
+nette de la fécondité n’a été enregistrée à la fin de 2020 ou au début de 2021 ; au contraire, de légères augmentations mensuelles des taux de fécondité ont été constatées. Selon les chercheurs,
+ces évolutions positives pourraient s’expliquer par l’impact relativement limité de la mortalité,
+par le rôle amortisseur des politiques sociales protectrices et par les programmes de soutien
+économique rapidement mis en place durant les premières phases de la pandémie. Ainsi, les incertitudes liées au marché du travail et à la situation financière des ménages auraient pesé moins
+fortement sur les décisions de fécondité que ce qui était initialement anticipé16.
+Un deuxième facteur justifiant une augmentation progressive de la fécondité d’ici 2070 réside
+dans les résultats d’une étude17 menée dans 18 pays européens ainsi qu’aux États-Unis : dans
+tous les pays observés, les femmes ont en moyenne moins d’enfants qu’elles ne le souhaiteraient. Une autre étude, publiée par l’OCDE18, montre également que dans les pays membres,
+15 Bujard, M. & Andersson, G. (2022). Fertility Declines Near the End of the COVID-19 Pandemic : Evidence of the 2022
+Birth Declines in Germany and Sweden. BiB Working Paper 6/2022.
+16 Tavares, L. P., Azevedo, A. B., & Arpino, B. (2022). Fertility, economic uncertainty and the Covid-19 pandemic : Before
+and after. SocArXiv, 11 May 2022. Advance online publication.
+17 Beaujouan, E. & Berghammer, C. (2019). The Gap Between Lifetime Fertility Intentions and Completed Fertility in
+Europe and the United States : A Cohort Approach. Population Research and Policy Review (2019) 38 :507–535.
+18 OCDE (2016). Ideal and actual number of children.
+
+25
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+le nombre idéal d’enfants se situe en moyenne entre 2.20 et 2.30 par couple, y compris pour le
+Luxembourg. Or, les données de 2022 indiquent un taux de fécondité de seulement 1.46 naissance par femme dans l’UE-27. Une reprise de la fécondité apparaît donc envisageable dans le
+futur.
+Néanmoins, l’augmentation anticipée par le STATEC (comme par EUROSTAT au niveau européen) reste modérée et demeure très en-deçà des 2.1 enfants nécessaires pour assurer le
+remplacement des générations. Les experts ne s’attendent pas à atteindre ce niveau, pour plusieurs raisons :
+z les difficultés à concilier vie professionnelle et vie familiale ;
+z l’augmentation des incertitudes et insécurités, tant au niveau individuel
+qu’international ;
+z l’instabilité des carrières professionnelles et des relations de couple ;
+z le coût élevé du logement.
+Le calendrier de la fécondité projeté reste proche de celui observé en moyenne entre 2014 et
+2023. Les naissances demeureraient les plus fréquentes autour de l’âge de 30 ans. De légères
+hausses de fécondité à des âges plus avancés sont toutefois anticipées : ainsi, en 2070, 7.7%
+des naissances concerneraient des mères âgées de 40 ans ou plus, contre 6.2% actuellement.
+GRAPHIQUE 11 : CALENDRIER DE LA FÉCONDITÉ
+
+8
+
+%
+
+6
+
+4
+
+2
+
+0
+15
+
+20
+
+25
+
+30
+
+Moyenne 2014-2023
+
+35
+
+40
+
+45
+
+50
+
+2070
+
+Source : STATEC
+
+Deux variantes à cette hypothèse de base seront également prises en compte (une haute et une
+basse). Elles seront détaillées dans la partie « analyse de sensibilité ».
+
+La mortalité
+Historiquement, l’augmentation de l’espérance de vie à la naissance est due presque
+
+26
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+exclusivement à la baisse de la mortalité infantile et juvénile. Toutefois, au cours des dernières
+décennies, ce sont surtout les personnes âgées de 60 ans et plus qui bénéficient de la diminution de la mortalité. Ainsi, l’espérance de vie à 60 ans est passée de 20.7 ans à 26.5 ans pour les
+femmes entre 1981 et 2022 (respectivement de 16.0 à 23.3 ans pour les hommes).
+En 1981, l’espérance de vie à la naissance était de 76.7 ans pour les femmes et de 70.0 ans pour
+les hommes. En 2022, elle atteint 85.0 ans pour les femmes et 81.0 ans pour les hommes, soit
+des gains de 8.3 ans et 11.0 ans respectivement.
+Il en découle un rétrécissement de l’écart d’espérance de vie entre les sexes. Cet écart passe de
+6.7 ans en 1981 à 4.0 ans en 2022, soit une réduction de 2.7 ans en l’espace de quarante ans.
+La convergence des comportements de santé entre hommes et femmes laisse penser que cet
+écart continuera à se réduire.
+Il n’existe pas de consensus parmi les démographes concernant l’évolution de la mortalité à
+très long terme. Plusieurs questions demeurent ouvertes : (1) existe‑t‑il une limite biologique
+à la longévité, et si oui laquelle ? (2) quel sera l’impact des futures avancées médicales ? (3) des
+programmes de santé publique ? (4) des comportements vis‑à‑vis du tabac ? (5) ou encore de
+l’obésité ?
+Les projections passées ont généralement sous‑estimé les gains d’espérance de vie19, car il était
+difficile d’imaginer une baisse durable et soutenue de la mortalité. Par ailleurs, comme l’a montré la pandémie de COVID‑19 (mais de manière limitée au Luxembourg) ou certaines canicules,
+des facteurs externes peuvent influencer temporairement ou durablement l’espérance de vie.
+De nombreux éléments peuvent contribuer à une réduction de la mortalité :
+z progrès des technologies médicales et nouveaux traitements ;
+z avancées de la recherche biomédicale ;
+z renforcement de la prévention ;
+z adoption d’une meilleure hygiène de vie par une part croissante de la population ;
+z alimentation plus saine.
+Projeter la mortalité demeure donc une tâche délicate, même si certaines tendances se dégagent. Plusieurs études montrent que les personnes ayant des niveaux d’éducation élevés ou
+exerçant des professions ne requérant pas d’efforts physiques vivent en moyenne plus longtemps20. Au Luxembourg, la croissance du secteur tertiaire et l’augmentation du niveau de formation devraient ainsi favoriser une poursuite de la baisse de la mortalité aux âges élevés.
+
+19 MAJERUS, P., Etude comparative des analyses ex post des projections démographiques luxembourgeoises, belges,
+françaises, britanniques et néerlandaises du vingtième siècle, STATEC, Économie et statistiques, n° 82/2015, 2015.
+20 INSEE, L’espérance de vie par niveau de vie : chez les hommes, 13 ans d’écart entre les plus aisés et les plus
+modestes, 2018.
+
+27
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Il est également probable que la mortalité des enfants approchera bientôt un plancher incompressible. Le taux de mortalité infantile en Europe, et particulièrement au Luxembourg, est
+déjà extrêmement faible. À certains âges, les niveaux de mortalité sont en effet proches d’une
+limite minimale. Pour les jeunes adultes, notamment la population active, les gains potentiels
+résident dans l’amélioration de la sécurité au travail ou dans la prévention des accidents de la
+route. Néanmoins, les marges de progression y sont limitées. Un ralentissement des gains d’espérance de vie à la naissance est donc envisageable à l’avenir.
+Selon l’hypothèse retenue par le STATEC, l’espérance de vie à la naissance pour les femmes
+augmenterait de 85.0 ans en 2022 à 90.3 ans en 2070. Pour les hommes, elle progresserait de
+81.0 ans à 86.7 ans sur la même période. L’écart entre les deux sexes passerait ainsi de 4.0 ans à
+3.6 ans. Le graphique 12, qui présente à la fois les valeurs historiques et les projections jusqu’en
+2070, illustre un ralentissement des gains d’espérance de vie par rapport aux tendances observées dans le passé.
+GRAPHIQUE 12 : ESPÉRANCE DE VIE À LA NAISSANCE 1970-2070
+
+100
+
+Nombre d'années
+
+90
+
+Femmes
+
+80
+
+Hommes
+70
+
+Observé
+
+2070
+
+2060
+
+2050
+
+2040
+
+2030
+
+2020
+
+2010
+
+2000
+
+1990
+
+1980
+
+1970
+
+60
+
+Projection 2024
+
+Source : STATEC
+
+Tout comme pour la fécondité, deux variantes à cette hypothèse de base seront également
+prises en compte afin d’étudier l’impact d’une baisse plus importante ou d’une stagnation de
+la mortalité sur les chiffres de population. Elles seront détaillées dans la partie « analyse de
+sensibilité ».
+
+28
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Projection de la population à l’horizon 2070
+Sur le long terme (2025–2070), le STATEC a élaboré quatre scénarios faisant varier les hypothèses de progrès technique et de taux d’investissement. Ces scénarios produisent différentes
+trajectoires de productivité relative et, par conséquent, de salaire relatif. Les différences entre
+ces scénarios affectent ainsi directement le niveau du solde migratoire, et indirectement le
+solde naturel. De ce fait, les dynamiques démographiques varient entre les scénarios.
+
+Évolution du solde migratoire
+Le solde migratoire — principal moteur de l’évolution démographique — dépend étroitement des dynamiques économiques, notamment celles liées à l’évolution des salaires relatifs.
+D’après les quatre scénarios, ce solde demeurerait en dessous de la moyenne d’environ 10 000
+personnes connue entre 2010 et 2020 (graphique 13). En 2070, le solde migratoire serait de :
+z Scénario 1 : 3 284, soit une contraction de 58% par rapport à 2025 ;
+z Scénario 2 : 3 692, ce qui représente une baisse de 53% ;
+z Scénario 3 : 6 083, soit une réduction de 22% ;
+z Scénario 4 : 7 454, correspondant à une diminution de 5%.
+GRAPHIQUE 13 : ÉVOLUTION DES SALAIRES RELATIFS ET DU SOLDE MIGRATOIRE, 2000-2070
+
+Salaire horaire (PPA)
+Milliers de personnes
+
+1.6
+
+Ratio
+
+1.4
+1.2
+1.0
+2000
+
+Solde migratoire
+
+15
+10
+5
+0
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1
+
+Scénario 2
+
+Scénario 3
+
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 4
+
+Scénario 1
+
+Scénario 2
+
+Scénario 3
+
+Scénario 4
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+29
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Évolution de la population totale
+Dans chacun de ces scénarios, la population totale se rapprocherait du million d’habitants à
+l’horizon 2070 (graphique 14) :
+z Le scénario 1 conduit à la population la moins élevée, projetée à 944 000 habitants, ce
+qui représente une croissance de 37% par rapport au 31 décembre 2025 ;
+z Selon le scénario 2, la population serait de quelque 30 000 personnes en dessous
+du million d’habitants en 2070, soit une augmentation de 40% par rapport à 2025 ;
+z Le scénario 3 projette une population d’environ 1 020 000 personnes à l’horizon 2070,
+soit une hausse de 48% depuis fin 2025.
+z Enfin, le scénario 4 aboutit à la population la plus élevée, estimée à près de 1 067 000
+habitants en 2070, correspondant à une progression de 54% par rapport au 31 décembre 2025.
+GRAPHIQUE 14 : ÉVOLUTION DE LA POPULATION, 2000-2070
+
+Variation annuelle, en %
+
+Milliers de personnes
+1 200
+
+2.5
+2.0
+
+1 000
+
+1.5
+
+800
+
+1.0
+600
+
+0.5
+
+400
+
+0.0
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1
+
+Scénario 2
+
+Scénario 3
+
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 4
+
+Scénario 1
+
+Scénario 2
+
+Scénario 3
+
+Scénario 4
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+Comme par le passé, la croissance de la population continuerait d’être principalement portée
+par le solde migratoire. Toutefois, les taux d’accroissement annuel seraient inférieurs à ceux
+observés ces dernières années, passant sous le seuil de 1 % dès le début des années 2040. À
+partir de 2050 — avec une légère variation selon les scénarios — le solde naturel deviendrait
+négatif, c’est-à-dire que le nombre de décès dépasserait celui des naissances (Graphique 15).
+
+30
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 15 : CONTRIBUTIONS À LA CROISSANCE DE LA POPULATION, 1990-2070
+
+Scénario 1
+
+Scénario 2
+3
+Croissance de la population,
+contribution en points de %
+
+Croissance de la population,
+contribution en points de %
+
+3
+2
+1
+0
+-1
+1990
+
+2000
+
+2010
+
+Solde naturel
+
+2020
+
+2030
+
+2040
+
+Solde migratoire
+
+2050
+
+2060
+
+2070
+
+2
+1
+0
+-1
+1990
+
+Population (var. ann., en %)
+
+2000
+
+2010
+
+Solde naturel
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Population (var. ann., en %)
+
+Scénario 4
+
+Scénario 3
+3
+Croissance de la population,
+contribution en points de %
+
+3
+Croissance de la population,
+contribution en points de %
+
+2020
+
+Solde migratoire
+
+2
+1
+0
+-1
+1990
+
+2000
+
+2010
+
+Solde naturel
+
+2020
+
+2030
+
+2040
+
+Solde migratoire
+
+2050
+
+2060
+
+2070
+
+Population (var. ann., en %)
+
+2
+1
+0
+-1
+1990
+
+2000
+
+2010
+
+Solde naturel
+
+2020
+
+2030
+
+2040
+
+Solde migratoire
+
+2050
+
+2060
+
+2070
+
+Population (var. ann., en %)
+
+Source : STATEC
+
+31
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Structure d’âge de la population
+En 2025, l’âge moyen de la population est de 40.1 ans et il devrait augmenter au fur et à mesure
+des années (graphique 16, tableau 2). Plus le solde migratoire est élevé, plus cet âge moyen devrait être bas : 47.9 ans en 2070 dans le scénario 1 contre 46.1 ans dans le scénario 4.
+GRAPHIQUE 16 : PYRAMIDE DES ÂGES, 2025 VS 2070
+
+Scénario 1
+95+
+90
+
+Scénario 2
+
+Hommes
+
+95+
+90
+
+Femmes
+
+80
+
+80
+
+70
+
+70
+
+60
+
+60
+
+50
+
+50
+
+40
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+
+35 500 25 500 15 500
+
+5 500
+
+4 500
+
+14 500 24 500 34 500
+
+Hommes
+
+Femmes
+
+35 500 25 500 15 500
+
+Scénario 3
+95+
+90
+
+95+
+90
+
+Femmes
+
+80
+
+80
+
+70
+
+70
+
+60
+
+60
+
+50
+
+50
+
+40
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+5 500
+
+4 500
+
+4 500
+
+14 500 24 500 34 500
+
+Scénario 4
+
+Hommes
+
+35 500 25 500 15 500
+
+5 500
+
+14 500 24 500 34 500
+2070
+
+2025
+
+Hommes
+
+Femmes
+
+35 500 25 500 15 500
+2070
+
+5 500
+
+4 500
+
+14 500 24 500 34 500
+
+2025
+
+Source : STATEC
+Note de lecture : Les couleurs claires correspondent à 2025, les couleurs foncées à 2070
+
+TABLEAU 2 : AGE MOYEN, 2025-2070 (EN ANNÉES)
+Scénario
+
+2025
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+1
+
+40.1
+
+41
+
+42.8
+
+44.9
+
+46.6
+
+47.9
+
+2
+
+40.1
+
+41
+
+42.7
+
+44.7
+
+46.3
+
+47.6
+
+3
+
+40.1
+
+41
+
+42.7
+
+44.5
+
+45.8
+
+46.7
+
+4
+
+40.1
+
+41
+
+42.6
+
+44.3
+
+45.4
+
+46.1
+
+Source : STATEC
+
+32
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+L’analyse de ces projections met en évidence une relation directe entre le niveau du solde migratoire et l’ampleur de la croissance de la population en âge de travailler, définie ici comme
+les personnes âgées de 20 à 64 ans (graphique 17). Plus le solde migratoire est faible, plus la
+progression de cette tranche d’âge demeure limitée. Ainsi, dans le scénario 4, qui présente le
+solde migratoire le plus élevé, l’effectif des 20-64 ans augmenterait de 33% entre 2025 et 2070.
+À l’inverse, le scénario 1, fondé sur le solde migratoire le plus bas, n’entraînerait qu’une hausse
+plus modérée, de 13% sur la même période. Les scénarios 2 et 3 afficheraient des augmentations intermédiaires, estimées respectivement à 17% et 26%.
+Ces dynamiques se refléteraient également dans la part relative des 20-64 ans au sein de la population totale. En 2025, ce groupe représente environ 64% de la population. Sur l’ensemble de
+l’horizon de projection, cette proportion diminuerait progressivement pour atteindre, en 2070,
+53% dans le scénario 1 et 55% dans le scénario 4 (graphique 17).
+GRAPHIQUE 17 : ÉVOLUTION DE LA POPULATION EN ÂGE DE TRAVAILLER (20 À 64 ANS), 2000-2070
+Population 20-64 ans
+
+Part des 20-64 ans dans la population
+
+70
+
+500
+
+65
+
+400
+
+60
+
+%
+
+Milliers de personnes
+
+600
+
+55
+
+300
+
+50
+
+200
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1
+
+Scénario 2
+
+Scénario 3
+
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 4
+
+Scénario 1
+
+Scénario 2
+
+Scénario 3
+
+Scénario 4
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+L’évolution de la population de moins de 20 ans dépendrait également du niveau d’immigration
+nette, celle‑ci influençant à la fois les entrées directes dans ce groupe d’âge et l’effectif des
+femmes en âge de procréer. La progression serait la plus élevée dans le scénario 4 (+34%) et la
+plus faible dans le scénario 1 (+11%).
+S’agissant des personnes âgées de 65 ans et plus, ce groupe connaîtrait la croissance relative la
+plus marquée dans l’ensemble des scénarios de long terme (Graphique 18). Dans chaque scénario, son effectif serait presque triplé d’ici 2070. L’augmentation projetée atteint son maximum
+dans le scénario 4 (+171%) suivie de près par le scénario 3 (+170%), le scénario 2 (+169%) et le
+scénario 1 (+168%).
+
+33
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 18 : ÉVOLUTION DE LA POPULATION PAR ÂGE
+Population
+
+Part dans la population
+2.0
+1.5
+
+10
+%
+
+Milliers de personnes
+
+15
+
+5
+
+1.0
+0.5
+
+0
+
+0.0
+0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 9095+
+
+0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 9095+
+
+Âge
+
+Âge
+
+2000
+
+2025
+
+Scénario 1
+
+Scénario 2
+
+Scénario 3
+
+Scénario 4
+
+2000
+
+2025
+
+Scénario 1
+
+Scénario 2
+
+Scénario 3
+
+Scénario 4
+
+Source : STATEC
+Note : L’année 2070 est considérée pour la représentation des scénarios.
+
+Le vieillissement de la population apparaît également dans le ratio de dépendance démographique des personnes âgées, défini comme le rapport entre la population de 65 ans ou plus
+et celle en âge de travailler (20‑64 ans) 21. En 2025, ce ratio s’élevait à 24 %. À l’horizon 2070, il
+se situerait entre 49% et 58%, selon le scénario retenu (tableau 3). Cette évolution traduit une
+diminution progressive du nombre d’actifs résidents disponibles pour soutenir la population
+âgée non active. La dégradation du ratio de dépendance des personnes âgées résulte principalement de trois dynamiques : (1) l’augmentation continue de l’espérance de vie, (2) l’arrivée à
+l’âge de la retraite d’un nombre élevé d’immigrants et (3) dans une moindre mesure l’essoufflement de la croissance de la population.
+TABLEAU 3 : RATIO DE DÉPENDANCE DÉMOGRAPHIQUE DES PERSONNES ÂGÉES
+(65+ ANS/20-64 ANS), 2025-2070
+Scénario
+
+2025
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+1
+
+24
+
+27
+
+33
+
+40
+
+49
+
+58
+
+2
+
+24
+
+27
+
+33
+
+39
+
+48
+
+56
+
+3
+
+24
+
+27
+
+33
+
+38
+
+46
+
+52
+
+4
+
+24
+
+27
+
+33
+
+38
+
+44
+
+49
+
+Source : STATEC
+
+21 Ce ratio est calculé uniquement sur la base des personnes résidant au Luxembourg et ne prend pas en compte les
+travailleurs frontaliers ni les résidents étrangers percevant une pension luxembourgeoise. Il ne reflète donc que
+partiellement le potentiel impact du vieillissement sur les pensions.
+
+34
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Effectifs scolaires
+Les taux de scolarisation22 présentés dans cette publication correspondent à ceux observés
+dans l’Enquête sur les Forces de Travail. Le taux mesuré en 2025 a été maintenu constant sur
+l’ensemble de la période de projection, l’évolution de la population scolarisée est donc exclusivement dépendante de la dynamique démographique des cohortes concernées. Par ailleurs,
+le taux de scolarisation avant 18 ans est supposé être de 100%, conformément à l’obligation
+scolaire en vigueur jusqu’à cet âge.
+GRAPHIQUE 19 : TAUX DE SCOLARISATION PAR ÂGE (15-29 ANS)
+
+100
+90
+80
+70
+
+%
+
+60
+50
+40
+30
+20
+10
+0
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+Âge
+
+Source : STATEC-LFS
+
+En 2070, la population scolaire âgée de 4 à 18 ans atteindrait environ 144 000 individus dans le
+scénario le plus élevé (scénario 4), soit une progression de 31% par rapport à 2025. Les effectifs
+resteraient également supérieurs à ceux observés actuellement dans les trois autres scénarios : environ 135 000 élèves dans le scénario 3, 124 000 dans le scénario 2 et 120 000 dans le
+scénario le plus bas (scénario 1), soit une augmentation de près de 10% par rapport à 2025.
+De manière analogue, les effectifs des groupes d’âge 19-24 ans et 25-29 ans augmenteraient
+dans l’ensemble des scénarios par rapport à 2025, indiquant une croissance généralisée des
+populations en formation ou en début de parcours professionnel. Cette évolution serait intégralement liée à celle de la population, les taux de scolarisation étant supposés constants sur
+toute la période de projection.
+
+22 Le taux de scolarisation est la proportion de jeunes d’un âge donné scolarisés par rapport à la population totale du
+même âge.
+
+35
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Néanmoins, en lien avec le déclin du solde migratoire, les scénarios de stagnation du progrès
+technique (scénarios 1 et 2) conduiraient à un ralentissement — voire une baisse — des effectifs dans les trois groupes d’âge (4-18, 19-24 et 25-29) à partir des années 2050.
+GRAPHIQUE 20 : PROJECTIONS DES EFFECTIFS SCOLAIRES, 2000-2070
+
+19-24 ans
+
+4-18 ans
+45
+
+140
+
+40
+120
+
+35
+30
+
+100
+
+25
+20
+
+80
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+25-29 ans
+14
+12
+10
+8
+
+Observé + Projections à moyen-terme
+
+6
+
+Scénario 1
+
+Scénario 2
+
+2000
+
+Scénario 3
+
+Scénario 4
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+36
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Personnes âgées
+Les écarts observés entre les différents scénarios demeurent limités en valeur absolue. Les
+hypothèses portant sur le solde migratoire n’exercent donc qu’une influence marginale sur la
+proportion de personnes âgées. Cette faible sensibilité s’explique principalement par le fait que
+la majorité des immigrés arrivant durant la période de projection n’aurait pas encore atteint
+l’âge de 65 ans en 2070.
+Dans l’ensemble des scénarios élaborés par le STATEC, la population âgée de 65 ans et plus
+passerait d’environ 107 000 personnes en 2025 à près de 288 000 en 2070, soit une hausse
+d’environ 169%. Les différences entre scénarios restent très réduites : le scénario le plus bas
+(scénario 1) projette environ 287 000 personnes, tandis que le scénario le plus élevé (scénario 4) en estime 289 000.
+La croissance serait encore plus marquée pour les classes d’âge les plus avancées. Le nombre
+de personnes âgées de 75 ans et plus serait multiplié par 3.4, tandis que celui des 85 ans et plus
+serait multiplié par 4.1. Ainsi, l’effectif des 75 ans et plus, estimé à environ 48 000 en début de
+période, atteindrait près de 163 000 individus en 2070. Pour les 85 ans et plus, l’augmentation
+moyenne des quatre scénarios serait d’environ 58 000 personnes.
+Enfin, la population des 95 ans et plus — qui comptait un peu plus de mille personnes au 31 décembre 2025 — serait multipliée par 2.4 à l’horizon 2070.
+GRAPHIQUE 21 : PROJECTIONS DES PERSONNES ÂGÉES, 2025-2070
+75 ans et +
+
+65 ans et +
+200
+Milliers de personnes
+
+Milliers de personnes
+
+300
+250
+200
+150
+
+150
+
+100
+
+50
+
+100
+Scénario 1
+
+Scénario 2
+
+Scénario 3
+
+Scénario 4
+
+Scénario 1
+
+Scénario 3
+
+Scénario 4
+
+95 ans et +
+
+85 ans et +
+60
+
+3
+
+50
+
+2.5
+
+Milliers de personnes
+
+Milliers de personnes
+
+Scénario 2
+
+40
+30
+20
+10
+
+2
+1.5
+1
+0.5
+
+Scénario 1
+
+Scénario 2
+
+Scénario 3
+
+Scénario 1
+
+Scénario 4
+2025
+
+Scénario 2
+
+Scénario 3
+
+Scénario 4
+
+2070
+
+Source : STATEC
+
+37
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+La part relative des personnes âgées de 65 ans et plus connaîtrait également une progression
+substantielle au cours de la période de projection. Alors qu’elles représentent environ 15% de la
+population totale en 2025, leur proportion atteindrait, en 2070, 27% dans le scénario 4 et près
+de 30% dans le scénario 1.
+La proportion des 75 ans et plus, qui s’établit à près de 7% en début de période, augmenterait
+pour atteindre près de 17% dans le scénario 1, tandis que la valeur la plus basse serait observée
+dans le scénario 4 (15%).
+Pour les 85 ans et plus, leur part — actuellement de 2% — progresserait pour atteindre 6% dans
+le scénario 1 et 5% dans le scénario 4 à l’horizon 2070.
+Enfin, les personnes âgées de 95 ans et plus, qui ne représentent que 0.2% de la population au
+début de la projection, conserveraient une part relativement faible tout au long de la période,
+bien qu’en légère hausse, pour atteindre environ 0.3% en 2070 dans l’ensemble des scénarios.
+
+38
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Projection de l’emploi à l’horizon 2070
+L’emploi dépend directement des hypothèses retenues sur la productivité totale des facteurs
+et sur le taux d’investissement : les scénarios 3 et 4, ayant une productivité horaire plus élevée
+(graphique 22), présentent une dynamique d’emploi plus soutenue (graphique 23). À première
+vue, ce résultat peut sembler contre‑intuitif : on pourrait s’attendre à ce que les gains de productivité les plus élevés se traduisent par une substitution du capital au travail et donc par une
+progression plus faible, voire un recul, de l’emploi. Cependant, ce n’est pas ce que l’on observe
+dans le contexte luxembourgeois.
+GRAPHIQUE 22 : ÉVOLUTION DE LA PRODUCTIVITÉ HORAIRE
+
+4
+
+3
+
+Variation annuelle, en %
+
+2
+
+1
+
+0
+
+-1
+1990
+
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1
+
+Scénario 2
+
+Scénario 3
+
+Scénario 4
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+39
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 23 : PROJECTIONS DE L’EMPLOI TOTAL
+
+900
+
+Milliers de personnes
+
+800
+
+700
+
+600
+
+500
+
+400
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1
+
+Scénario 2
+
+Scénario 3
+
+Scénario 4
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+Historiquement, les gains de productivité au Luxembourg ont alimenté un cercle vertueux, particulièrement marqué au cours des années 2000. L’amélioration de la productivité a soutenu
+la hausse des salaires, renforcé l’attractivité du pays pour les travailleurs étrangers et stimulé
+la dynamique du marché du travail. À mesure que l’emploi progressait, la capacité productive
+de l’économie se renforçait, ce qui encourageait à son tour l’investissement et l’expansion du
+tissu économique. Ainsi, contrairement à ce que suggère une lecture strictement mécanique
+de la productivité, les gains observés au Luxembourg ont historiquement attiré davantage de
+travailleurs, plutôt que de les remplacer.
+Cette logique demeure dans les projections : dans les scénarios de forte productivité, l’emploi
+augmente davantage car la croissance économique est plus soutenue, l’attractivité du marché du
+travail reste élevée, et les besoins en main‑d’œuvre progressent de pair avec les gains d’efficacité. L’effet positif sur l’activité économique et sur la demande de travail l’emporte donc sur l’effet
+théorique de substitution capital‑travail. À l’inverse, dans les scénarios où la productivité progresse faiblement, les salaires et la croissance sont moins dynamiques, ce qui freine l’attrait du
+Luxembourg pour les travailleurs étrangers et conduit à une évolution plus modérée de l’emploi.
+Dans ce contexte, l’emploi total atteindrait entre environ 735 000 personnes en 2070 dans le
+scénario 1 et 927 000 dans le scénario 4, soit une hausse comprise entre 41% et 78% par rapport
+à 2025.
+
+40
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Un vieillissement plus actif
+Au Luxembourg, la hausse générale du niveau d’éducation — liée à l’expansion du système scolaire et à l’arrivée de travailleurs hautement qualifiés — tend à retarder l’entrée sur le marché
+du travail tout en prolongeant les carrières professionnelles. Parallèlement, le marché de l’emploi évolue vers une prédominance des métiers de type « cols blancs » , généralement moins
+exigeants physiquement 23.
+Dans ce contexte, et dans un environnement marqué par le vieillissement démographique résultant de l’allongement de l’espérance de vie (graphique 12), des taux de fécondité durablement faibles (graphique 10) et d’un solde migratoire appelé à se stabiliser à des niveaux plus
+faibles que ceux de la dernière décennie (graphique 13), les projections de long terme anticipent une augmentation du taux d’activité des personnes âgées de 55 ans et plus. Les taux
+d’activité des autres groupes d’âge sont, quant à eux, supposés diminuer au cours de l’horizon
+des projections (graphique 24). Cette hypothèse fera l’objet d’une analyse de sensibilité.
+GRAPHIQUE 24 : ÉVOLUTION DU TAUX D’ACTIVITÉ PAR GROUPE D’ÂGE
+
+100
+
+80
+
+%
+
+60
+
+40
+
+20
+
+0
+20-24
+
+25-29
+
+30-34
+
+35-39
+
+40-44
+
+45-49
+
+50-54
+
+55-59
+
+60-64
+
+Groupe d'âge
+2025
+
+2070
+
+Source : STATEC
+
+Le taux d’activité des 55-59 ans passerait ainsi d’environ 65% en 2025 à 70% en 2070. Pour les
+60-64 ans, l’augmentation serait encore plus marquée, de 26% à 33% sur la même période.
+Sous l’effet de cette hausse et du vieillissement de la population, l’emploi national connaîtrait
+ainsi un vieillissement structurel (graphique 25). La part des seniors dans l’emploi national progresserait légèrement : les 55-59 ans représenteraient 11% de l’emploi en 2070 (contre 9% en
+2025), et les 60-64 ans, 5% (contre 3% en 2025). Au-delà de 65 ans, le taux d’activité et la part
+dans l’emploi total resteraient faibles et relativement stables.
+
+23 Voir Rapport du STATEC Travail et Cohésion Sociale 2025 pour plus d’informations.
+
+41
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 25 : ÉVOLUTION DE L’EMPLOI NATIONAL PAR GROUPE D’ÂGE
+
+Emploi national
+
+2
+
+Ecart de la part dans l'emploi national : 2070 vs 2025
+
+50
+1
+
+40
+Point de %
+
+Milliers de personnes
+
+60
+
+30
+20
+10
+
+0
+
+-1
+
+0
+20-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64
+2025
+Source : STATEC
+
+42
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+2070
+
+-2
+20-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64
+
+Projection du PIB potentiel à l’horizon 2070
+La croissance du PIB potentiel est calculée selon l’approche utilisée dans le Ageing Report de la
+Commission européenne, fondée sur une fonction de production de type Cobb‑Douglas24. Le
+PIB potentiel
+
+est ainsi déterminé à partir du volume de travail
+
+(emploi total × heures travail-
+
+et de la productivité totale des facteurs
+
+lées par personne), du stock de capital productif
+
+,
+
+selon l’expression suivante :
+où α représente l’élasticité du PIB par rapport au capital. Conformément à la méthodologie de
+la Commission européenne utilisée dans le Ageing Report 202425, ce paramètre est fixé à 0.35, ce
+qui implique une élasticité de 0.65 du PIB par rapport au facteur travail dont l’évolution diffère
+selon le scénario de productivité.
+Ainsi, la trajectoire du PIB potentiel résulte de l’interaction entre les hypothèses sur la productivité totale des facteurs et le taux d’investissement. En 2070, le potentiel de croissance annuelle
+à long-terme serait presque nul dans le scénario 1 et proche de 2% dans le scénario 4.
+GRAPHIQUE 26 : CONTRIBUTIONS À LA CROISSANCE DU PIB POTENTIEL
+Scénario 1
+
+Scénario 2
+7
+Croissance du PIB potentiel,
+contribution en points de %
+
+Croissance du PIB potentiel,
+contribution en points de %
+
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+1990
+
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+6
+5
+4
+3
+2
+1
+0
+-1
+1990
+
+2000
+
+2010
+
+Scénario 3
+
+2040
+
+2050
+
+2060
+
+2070
+
+2050
+
+2060
+
+2070
+
+7
+Croissance du PIB potentiel,
+contribution en points de %
+
+Croissance du PIB potentiel,
+contribution en points de %
+
+2030
+
+Scénario 4
+
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+1990
+
+2020
+
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+Travail
+
+2060
+
+2070
+Capital
+
+6
+5
+4
+3
+2
+1
+0
+-1
+1990
+
+PTF
+
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+PIB potentiel (var. ann., en %)
+
+Source : STATEC
+
+24 Une fonction de production Cobb‑Douglas est une forme fonctionnelle couramment utilisée en économie pour
+représenter la relation entre les quantités de facteurs de production (généralement le capital et le travail) et le niveau
+de production obtenu. Cette forme présente plusieurs propriétés utiles : les élasticités sont constantes et la fonction est
+toujours croissante en K et L. En raison de sa simplicité et de sa capacité à approcher correctement les comportements
+agrégés de production, elle est largement utilisée dans les modèles macroéconomiques et de projection.
+25 European Commission, The 2024 Ageing Report – Economic and Budgetary Projections for the EU Member States
+(2023–2070).
+
+43
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+TABLEAU 4 : RÉSUMÉ DES QUATRE SCÉNARIOS PRINCIPAUX
+
+Croissance
+potentielle
+du PIB
+
+Croissance de
+la productivité
+
+Croissance
+de l’emploi
+
+Ratio de
+Solde
+salaire (PPA) migratoire
+
+Emploi
+national
+
+Emploi
+frontalier
+
+Population
+totale
+
+Ratio de
+dépendance
+(65+ / 20-64)
+
+Scénario 4
+
+2.20%
+
+1.30%
+
+1.30%
+
+152%
+
+7 454
+
+401 296
+
+525 466
+
+1 066 516
+
+49%
+
+Scénario 3
+
+1.80%
+
+1.10%
+
+1.10%
+
+142%
+
+6 084
+
+378 616
+
+476 589
+
+1 022 428
+
+52%
+
+Scénario 2
+
+1.10%
+
+0.60%
+
+0.90%
+
+118%
+
+3 692
+
+349 117
+
+421 673
+
+966 018
+
+56%
+
+Scénario 1
+
+0.80%
+
+0.40%
+
+0.80%
+
+109%
+
+3 284
+
+338 074
+
+397 407
+
+944 039
+
+58%
+
+Source : STATEC
+Note : Les taux de croissance du PIB, de la productivité et de l’emploi correspondent à la moyenne 2025-2070. Toutes
+les autres variables indiquées sur le tableau correspondent à l’année 2070.
+
+44
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Analyses de sensibilité
+En complément des quatre scénarios de projection présentés précédemment, plusieurs analyses de sensibilité ont été réalisées. Elles permettent d’illustrer dans quelle mesure les trajectoires projetées de population, d’emploi et de PIB potentiel réagissent à des changements des
+hypothèses retenues. Ces analyses couvrent à la fois les dimensions démographiques (fécondité, mortalité et migrations) et économiques (salaires, part du flux de nouveaux travailleurs
+étrangers qui deviennent résidents et taux d’activité des seniors).
+La liste complète des analyses de sensibilité considérées est présentée dans le graphique 27.
+Chacune de ces analyses est ensuite détaillée dans les sections qui suivent, afin de mettre en
+évidence les mécanismes à l’œuvre et les effets quantitatifs sur les projections de long terme.
+GRAPHIQUE 27 : RÉSUMÉ DES ANALYSES DE SENSIBILITÉ
+
+Sensibilités économiques
+Hausse du coût de la
+vie relatif au Luxembourg
+
+Croissance des salaires
+relatifs
+
+Part de nouveaux
+travailleurs étrangers
+résidents
+
+Baisse du coût de la
+vie relatif au Luxembourg
+1/3 de nouveaux travailleurs
+étrangers résidents
+2/3 de nouveaux travailleurs
+étrangers résidents
+Hausse du taux d’activité
+
+Taux d’activité
+Baisse du taux d’activité
+
+Sensibilités démographiques
+Solde migratoire
+
+Solde migratoire nul à partir
+de 2040
+Hausse de la fécondité
+
+Taux de fécondité
+Baisse de la fécondité
+
+Hausse de la mortalité
+Taux de mortalité
+Baisse de la mortalité
+
+45
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Analyse de sensibilité économique
+Variation du coût de la vie relatif
+En l’absence de prévisions sur l’évolution future des parités de pouvoir d’achat, les quatre
+scénarios de base retenaient l’hypothèse d’un ratio de PPA constant pour le Luxembourg par
+rapport aux pays voisins, fixé sur l’ensemble de l’horizon de projection à la dernière valeur disponible (2024) 26. Cette hypothèse est cohérente avec les évolutions depuis 2020, mais pourrait
+s’avérer restrictive au regard de la tendance observée au cours des trois dernières décennies.
+En effet, au début des années 1990, le coût de la vie au Luxembourg était environ 10% inférieur
+à celui de la moyenne des pays voisins. Depuis lors, il a augmenté de manière continue, avant de
+se stabiliser, à partir de 2020, à un niveau environ 20% supérieur au coût de la vie moyen dans
+ces pays (graphique 28) 27.
+Plusieurs facteurs expliquent l’évolution relative du coût de la vie au Luxembourg. D’une part, la
+hausse soutenue des coûts de construction, particulièrement marquée au cours de la dernière
+décennie, a renforcé les tensions sur le marché du logement, contribuant à la progression des
+prix immobiliers et des loyers28. D’autre part, l’augmentation des coûts salariaux a contribué à
+renchérir les biens et services au Luxembourg, accentuant ainsi le différentiel de prix avec les
+pays voisins.
+Dans ce contexte, l’analyse de sensibilité explore un scénario dans lequel le coût de la vie relatif
+(mesuré par le ratio de parité de pouvoir d’achat) continuerait d’augmenter au Luxembourg au
+même rythme que celui observé au cours des vingt dernières années. Une situation inverse est
+également étudiée : le coût de la vie au Luxembourg convergerait progressivement vers celui
+des pays voisins, atteignant un niveau identique à l’horizon 2070.
+
+26 Les parités de pouvoir d’achat (PPA) mesurent les différences de niveaux de prix entre pays en comparant le coût
+d’un même panier de biens et services. Elles sont obtenues en comparant les niveaux de prix d’un panier de biens
+et services comparables sélectionnés pour être représentatifs des modes de consommation dans les différents
+pays. Les PPA permettent de produire des indicateurs significatifs (basés sur le prix ou le volume) nécessaires aux
+comparaisons entre pays, reflétant véritablement les différences de pouvoir d’achat, par exemple, des ménages.
+27 Cette évolution pèse sur le coût de la vie relatif des ménages qui résident au Grand‑Duché. Dans la modélisation,
+l’équation d’attractivité des travailleurs étrangers tient (indirectement) compte de cet effet via la comparaison
+des salaires exprimés en parité de pouvoir d’achat (PPA) : une augmentation du coût de la vie au Luxembourg par
+rapport aux pays voisins réduit l’attrait du pays pour les travailleurs étrangers.
+28 La rubrique « Construction » de l’indicateur de parité de pouvoir d’achat d’Eurostat couvre uniquement les
+nouvelles constructions et non les transactions de logements existants. Elle inclut par ailleurs des bâtiments non
+résidentiels, ce qui complique l’établissement d’un lien direct avec les prix immobiliers résidentiels. En outre, le ratio
+Luxembourg/pays voisins pour cette catégorie n’enregistre une hausse marquée qu’à partir de 2017, ce qui nuance
+la contribution du logement dans la perte de pouvoir d’achat observée depuis le début des années 2000.
+
+46
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 28 : ÉVOLUTION DU COÛT DE LA VIE RELATIF DU LUXEMBOURG PAR RAPPORT À LA
+MOYENNE DES PAYS VOISINS
+
+1.8
+
+1.6
+
+Ratio
+
+1.4
+
+1.2
+
+1.0
+
+0.8
+1980
+
+1990
+
+2000
+
+2010
+
+2020
+
+2030
+
+Observé
+
+Stabilisation (hypothèse principale)
+
+Hausse
+
+Baisse
+
+2040
+
+2050
+
+2060
+
+2070
+
+Source : OCDE-Eurostat
+Note : Le graphique présente le ratio de parité de pouvoir d’achat entre le Luxembourg et la moyenne des pays voisins
+(France, Allemagne et Belgique). Une valeur supérieure (inférieure) à 1 indique un coût de la vie plus élevé (bas) au
+Luxembourg par rapport à la moyenne des pays.
+
+GRAPHIQUE 29 : ÉVOLUTION DES SALAIRES RELATIFS EN PPA SELON L’HYPOTHÈSE RETENUE SUR
+LE COÛT DE LA VIE RELATIF
+Stabilisation (hypothèse principale) vs baisse
+
+2.0
+
+2.0
+
+1.8
+
+1.8
+
+1.6
+
+1.6
+
+1.4
+
+1.4
+
+Ratio
+
+Ratio
+
+Stabilisation (hypothèse principale) vs hausse
+
+1.2
+
+1.2
+
+1.0
+
+1.0
+
+0.8
+
+0.8
+
+0.6
+2010
+
+0.6
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé
+Scénario 1 (stabilisation)
+
+Scénario 1 (baisse)
+
+Scénario 4 (stabilisation)
+
+Scénario 4 (baisse)
+
+Source : STATEC
+
+47
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+L’évolution des salaires relatifs est fortement sensible aux hypothèses retenues concernant la
+dynamique du coût de la vie relatif. Une augmentation plus rapide du coût de la vie au Luxembourg par rapport à la moyenne des pays voisins se traduirait par une perte de compétitivité
+salariale en termes de parité de pouvoir d’achat (PPA) (graphique 29, panneau de gauche). Dans
+le scénario 1, le plus pessimiste, les salaires luxembourgeois exprimés en PPA deviendraient inférieurs à la moyenne des pays voisins à partir de 2050, le ratio passant en‑dessous de l’unité. À
+l’inverse, dans le scénario 4, le plus optimiste, le ratio de salaires suivrait une trajectoire proche
+de celle observée dans le scénario de productivité le plus défavorable, convergeant progressivement vers 1 à l’horizon 2070.
+Une diminution du coût de la vie relatif aurait, en revanche, un effet nettement favorable sur les
+salaires relatifs projetés. Dans ce cas, le ratio de salaires obtenu dans le scénario 1 deviendrait
+comparable à celui du scénario 4, sous l’hypothèse d’une stabilisation du coût de la vie relatif
+(graphique 29, panneau de droite). Par ailleurs, dans le scénario 4 combiné à une baisse du coût
+de la vie relatif, les salaires luxembourgeois projetés en PPA atteindraient un niveau proche du
+double de la moyenne des pays voisins à l’horizon 2070.
+Les hypothèses relatives au coût de la vie influencent l’ensemble des résultats macroéconomiques principalement par l’intermédiaire des salaires relatifs, et donc de l’attractivité du
+Luxembourg pour les travailleurs étrangers. Une hausse (respectivement une baisse) du coût
+de la vie relatif se traduit ainsi par une diminution (une augmentation) du solde migratoire par
+rapport à l’hypothèse principale (graphique 30). L’ampleur de cet effet diffère toutefois sensiblement selon le scénario de productivité considéré.
+Cette asymétrie s’explique en grande partie par la composition du solde migratoire. Dans le
+scénario 1, caractérisé par des salaires relatifs déjà moins attractifs, le solde migratoire repose
+davantage sur des composantes peu sensibles aux incitations économiques, telles que les fonctionnaires internationaux et les réfugiés. Dans ce contexte, une hausse supplémentaire du coût
+de la vie relatif réduit peu l’attractivité salariale marginale du Luxembourg pour les travailleurs
+étrangers, de sorte que l’impact sur le solde migratoire total demeure limité.
+À l’inverse, dans le scénario 4, les salaires relatifs plus élevés soutiennent une attractivité migratoire plus forte, principalement portée par les travailleurs étrangers sensibles aux différences de rémunération en parité de pouvoir d’achat. La part des fonctionnaires internationaux
+et des réfugiés y est donc relativement plus faible. Dans ce cadre, une augmentation du coût de
+la vie relatif entraîne une réduction plus marquée des flux de travailleurs étrangers, ce qui se
+traduit par une baisse plus prononcée du solde migratoire.
+Cette asymétrie reflète ainsi à la fois des rendements décroissants de l’attractivité salariale et
+des différences de composition des flux migratoires : lorsque les salaires relatifs sont déjà peu
+attractifs, les effets d’une dégradation supplémentaire du coût de la vie sont atténués, tandis
+qu’ils sont amplifiés lorsque l’attractivité initiale repose majoritairement sur des flux sensibles
+aux conditions économiques.
+Cette dynamique migratoire se répercute ensuite sur les trajectoires de population (graphique 31) et d’emploi total (graphique 32), avant d’affecter, in fine, la croissance potentielle de
+
+48
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+l’économie (graphique 33).
+
+COMPARAISON DES PRINCIPAUX RÉSULTATS SELON L’HYPOTHÈSE RETENUE SUR
+LE COÛT DE LA VIE RELATIF
+Observé
+Scénario 1 (stabilisation)
+
+Scénario 1 (hausse)
+
+Observé
+Scénario 1 (stabilisation)
+
+Scénario 1 (baisse)
+
+Scénario 4 (stabilisation)
+
+Scénario 4 (hausse)
+
+Scénario 4 (stabilisation)
+
+Scénario 4 (baisse)
+
+GRAPHIQUE 30 : SOLDE MIGRATOIRE
+Stabilisation (hypothèse principale) vs baisse
+Milliers de personnes
+
+Milliers de personnes
+
+Stabilisation (hypothèse principale) vs hausse
+16
+14
+12
+10
+8
+6
+4
+2
+0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+
+2070
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé
+Scénario 1 (stabilisation)
+GRAPHIQUE 31 : POPULATION
+
+Scénario 1 (baisse)
+
+Scénario 4 (stabilisation)
+
+Stabilisation (hypothèse principale) vs hausse
+
+Stabilisation (hypothèse principale) vs baisse
+1 400
+Milliers de personnes
+
+Milliers de personnes
+
+1 400
+1 200
+1 000
+800
+600
+
+1 200
+1 000
+800
+600
+
+400
+
+400
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+Observé
+Scénario 1 (stabilisation)
+
+GRAPHIQUE 32 : EMPLOI TOTAL
+
+2060
+
+2070
+
+2010
+
+Scénario 1 (baisse)
+
+2020
+
+2040
+
+2050
+
+2060
+
+2070
+
+Scénario 4 (baisse)
+
+Stabilisation (hypothèse principale) vs baisse
+
+Stabilisation (hypothèse principale) vs hausse
+1 400
+Milliers de personnes
+
+Milliers de personnes
+
+2030
+
+Scénario 4 (stabilisation)
+
+1 400
+1 200
+1 000
+800
+600
+400
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+1 200
+1 000
+800
+600
+400
+2010
+
+2070
+
+Scénario 4 (stabilisation)
+Scénario 4 (hausse)
+Stabilisation (hypothèse principale) vs hausse
+Variation annuelle, en %
+
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+-0.5
+2010
+
+Source : STATEC
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé
+Scénario 1 (stabilisation)
+Scénario 1 (baisse)
+Scénario 4 (stabilisation)
+Scénario 4 (baisse)
+Stabilisation (hypothèse principale) vs baisse
+
+Observé
+Scénario
+(stabilisation) POTENTIELLE
+Scénario 1 (hausse)
+GRAPHIQUE
+33 : 1CROISSANCE
+
+Variation annuelle, en %
+
+Scénario 4 (baisse)
+
+2070
+
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+-0.5
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé
+Scénario 1 (stabilisation)
+
+Scénario 1 (hausse)
+
+Scénario 4 (stabilisation)
+
+Scénario 4 (hausse)
+
+49
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Variation de la part de nouveaux travailleurs étrangers s’installant
+au Luxembourg
+Au cours des trois dernières décennies, la part des nouveaux travailleurs frontaliers dans le
+flux total de nouveaux travailleurs étrangers s’est établie en moyenne autour de 50%. Dans les
+projections associées aux quatre scénarios principaux, il est donc retenu, à titre d’hypothèse
+centrale, que la moitié des nouveaux travailleurs étrangers viennent s’ajouter au stock existant
+de frontaliers, tandis que l’autre moitié s’installe comme résidents au Luxembourg.
+Sous cette hypothèse, la part des frontaliers dans l’emploi total continuerait d’augmenter sur
+l’ensemble de la période de projection. À l’horizon 2070, elle atteindrait environ 57% dans le
+scénario 4 et 54% dans le scénario 1, contre près de 43% en 2025.
+Afin d’évaluer la sensibilité des résultats à cette hypothèse centrale, deux variantes alternatives sont considérées (graphique 34), sans modification de l’approche méthodologique
+sous-jacente :
+z 33% des nouveaux travailleurs étrangers s’installent au Luxembourg
+(et 67% deviennent frontaliers) ;
+z 66% des nouveaux travailleurs étrangers s’installent au Luxembourg
+(et 34% deviennent frontaliers).
+GRAPHIQUE 34 : HYPOTHÈSES SUR LA PART DE NOUVEAUX TRAVAILLEURS ÉTRANGERS
+S’INSTALLANT AU LUXEMBOURG
+
+100
+
+80
+
+%
+
+60
+
+40
+
+20
+
+0
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+66%
+50% (hypothèse principale)
+33%
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+50
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Ces hypothèses alternatives produisent des effets opposés sur le solde migratoire (graphique
+35) et sur l’emploi frontalier (graphique 36). Alors qu’une plus forte installation des travailleurs
+étrangers accroît la population résidente, une part plus élevée de frontaliers limite l’impact sur
+celle-ci tout en soutenant davantage l’emploi. En conséquence, la population totale (graphique
+37) apparaît plus sensible à ces variantes que l’emploi total (graphique 38). Ce mécanisme explique pourquoi, in fine, la croissance du PIB potentiel est relativement peu affectée par la
+répartition retenue entre résidents et frontaliers.
+
+51
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+COMPARAISON DES PRINCIPAUX RÉSULTATS SELON L’HYPOTHÈSE RETENUE SUR
+LA PART DE NOUVEAUX TRAVAILLEURS ÉTRANGERS S’INSTALLANT AU LUXEMBOURG
+Observé + Projections à moyen-terme
+Scénario 1 (50%)
+Scénario 4 (50%)
+
+Observé + Projections à moyen-terme
+Scénario 1 (50%)
+Scénario 4 (50%)
+
+Scénario 1 (33%)
+Scénario 4 (33%)
+
+Scénario 1 (66%)
+Scénario 4 (66%)
+
+GRAPHIQUE 35 : SOLDE MIGRATOIRE
+50% (hypothèse principale) vs 33%
+
+50% (hypothèse principale) vs 66%
+Milliers de personnes
+
+Milliers de personnes
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+2010
+
+Observé + Projections à moyen-terme
+Scénario 1 (50%) GRAPHIQUE 36 : EMPLOI
+Scénario 1 (33%)
+FRONTALIER
+Scénario 4 (50%)
+Scénario 4 (33%)
+
+2020
+
+50% (hypothèse principale) vs 33%
+
+2060
+
+2070
+
+Scénario 1 (66%)
+Scénario 4 (66%)
+
+50% (hypothèse principale) vs 66%
+Milliers de personnes
+
+Milliers de personnes
+
+2050
+
+800
+
+600
+400
+200
+0
+
+600
+400
+200
+0
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+2010
+
+Observé + Projections à moyen-terme
+Scénario 1 (50%) GRAPHIQUE 37 : POPULATION
+Scénario 1 (33%)
+Scénario 4 (50%)
+Scénario 4 (33%)
+50% (hypothèse principale) vs 33%
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1 (50%)
+Scénario 1 (66%)
+Scénario 4 (50%)
+Scénario 4 (66%)
+50% (hypothèse principale) vs 66%
+1200
+Milliers de personnes
+
+1200
+1000
+800
+600
+400
+
+1000
+800
+600
+400
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+2010
+
+Observé + Projections à moyen-terme
+Scénario 1 (50%)
+Scénario 1 (33%)
+GRAPHIQUE 38 : EMPLOI
+Scénario 4 (50%)
+Scénario 4 (33%)
+
+2020
+
+50% (hypothèse principale) vs 33%
+Milliers de personnes
+
+400
+
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+2050
+
+2060
+
+2070
+
+Scénario 1 (66%)
+Scénario 4 (66%)
+
+50% (hypothèse principale) vs 66%
+
+600
+
+52
+
+2040
+
+1 000
+
+800
+
+2010
+
+2030
+
+Observé + Projections à moyen-terme
+Scénario 1 (50%)
+Scénario 4 (50%)
+
+1 000
+Milliers de personnes
+
+2040
+
+Observé + Projections à moyen-terme
+Scénario 1 (50%)
+Scénario 4 (50%)
+
+800
+
+Milliers de personnes
+
+2030
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+800
+600
+400
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+: STATEC
+Observé +Source
+Projections
+à moyen-terme
+Observé + Projections à moyen-terme
+Scénario 1Note
+(50%)
+1 (33%) » correspond aux
+Scénario
+1 (50%)
+1 (66%)
+: « Observé + ProjectionsScénario
+à moyen-terme
+données
+observées ainsi qu’à cellesScénario
+issues des
+projecdu STATEC publiées le 24Scénario
+février 4
+2026.
+Scénario 4tions
+(50%)
+(33%)
+Scénario 4 (50%)
+Scénario 4 (66%)
+
+GRAPHIQUE 39 : ÉVOLUTION DE LA CROISSANCE POTENTIELLE SELON L’HYPOTHÈSE RETENUE SUR
+LA PART DE NOUVEAUX TRAVAILLEURS ÉTRANGERS S’INSTALLANT AU LUXEMBOURG
+50% (hypothèse principale) vs 33%
+
+50% (hypothèse principale) vs 66%
+3.0
+Variation annuelle, en %
+
+Variation annuelle, en %
+
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+Observé + Projections à moyen-terme
+Scénario 1 (50%)
+Scénario 4 (50%)
+
+2060
+
+2070
+
+Scénario 1 (33%)
+Scénario 4 (33%)
+
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+Observé + Projections à moyen-terme
+Scénario 1 (50%)
+Scénario 4 (50%)
+
+2060
+
+2070
+
+Scénario 1 (66%)
+Scénario 4 (66%)
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+Variation du taux d’activité
+Une autre dimension économique prise en compte concerne l’évolution des taux d’activité.
+Dans les quatre scénarios principaux, les taux d’activités de la population âgée de 50 ans et plus
+sont supposés augmenter sur l’horizon de projection, tandis que les taux des autres groupes
+d’âge diminuent (à l’exception des 40-44 ans, graphique 40).
+Pour évaluer la sensibilité des résultats à cette hypothèse, l’analyse se déroule en deux étapes.
+Dans un premier temps, on calcule l’écart-type des taux d’activité par groupe d’âge sur la période 2007-2025. Dans un second temps, deux variantes sont élaborées :
+1. Variante basse : les taux d’activité en fin de projection sont réduits de deux écarts-type
+par rapport à ceux des scénarios principaux. Ils convergent linéairement vers cette valeur à partir de 2030. Les taux d’activité finaux sont donc inférieurs à ceux des scénarios
+de référence.
+2. Variante haute : les taux d’activité en 2070 sont augmentés de deux écarts-type.
+Comme dans la variante basse, ils convergent linéairement vers cette nouvelle valeur à
+partir de 2030. Les taux finaux sont alors supérieurs à ceux des scénarios principaux.
+Le graphique 40 présente la comparaison entre les taux d’activité issus de ces deux variantes et
+ceux considérés dans les scénarios principaux, par groupe d’âge et sur le total de la population
+en âge de travailler (20-64 ans).
+
+53
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 40 : HYPOTHÈSES SUR LES TAUX D’ACTIVITÉ
+Taux d'activité par groupe d'âge en 2070
+
+Evolution du taux d'activité 20-64 ans
+80
+
+100
+80
+
+75
+%
+
+%
+
+60
+
+70
+
+40
+20
+
+65
+0
+
+2010
+20-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64
+Hypothèse principale
+
+Variante haute
+
+Variante basse
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Hypothèse principale
+
+Variante haute
+
+Variante basse
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+Les hypothèses relatives au taux de participation ont un effet limité sur les projections du solde
+migratoire (graphique 41), celles‑ci étant principalement déterminées à long terme par les
+écarts salariaux entre le Luxembourg et les pays voisins. De ce fait, les projections de la population totale sont presque identiques à celles des scénarios principaux (graphique 41).
+En revanche, l’emploi total est directement influencé par le taux de participation. Les projections de la variante basse (haute) sont ainsi inférieures (supérieures) à celles des scénarios principaux (graphique 43). Ces écarts en matière d’emploi se répercutent directement sur l’activité,
+relevant (abaissant) la croissance potentielle annuelle d’environ +0.1 (-0.1) point de pourcentage
+par rapport aux scénarios principaux.
+
+54
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+COMPARAISON DES PRINCIPAUX RÉSULTATS SELON L’HYPOTHÈSE RETENUE SUR
+LE TAUX D’ACTIVITÉ
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 1 (var. basse)
+Scénario 4
+Scénario 4 (var. basse)
+
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 1 (var. haute)
+Scénario 4
+Scénario 4 (var. haute)
+
+GRAPHIQUE 41 : SOLDE MIGRATOIRE
+Hypothèse principale vs variante haute
+Milliers de personnes
+
+Milliers de personnes
+
+Hypothèse principale vs variante basse
+16
+14
+12
+10
+8
+6
+4
+2
+0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+
+2070
+
+2010
+
+Observé + Projections à moyen-terme
+Scénario42
+1 : POPULATION
+GRAPHIQUE
+Scénario 4
+
+2020
+
+Hypothèse principale vs variante basse
+Milliers de personnes
+
+Milliers de personnes
+
+2060
+
+2070
+
+Hypothèse principale vs variante haute
+
+1000
+800
+600
+400
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+1000
+800
+600
+400
+
+2070
+
+2010
+
+Observé + Projections à moyen-terme
+Scénario 1 (var. basse)
+Scénario 4
+Scénario 4 (var. basse)
+Hypothèse principale vs variante basse
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+1000
+Milliers de personnes
+
+900
+800
+700
+600
+500
+400
+2010
+
+2020
+
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 1 (var. haute)
+Scénario 4
+Scénario 4 (var. haute)
+Hypothèse principale vs variante haute
+
+Scénario
+GRAPHIQUE
+43 :1 EMPLOI
+
+Milliers de personnes
+
+2050
+
+1200
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+800
+600
+400
+
+2070
+
+2010
+
+Observé + Projections à moyen-terme
+Scénario
+Scénario 1 (var. basse)
+GRAPHIQUE
+441 : CROISSANCE POTENTIELLE
+Scénario 4
+Scénario 4 (var. basse)
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 1 (var. haute)
+Scénario 4
+Scénario 4 (var. haute)
+
+Hypothèse principale vs variante basse
+
+Hypothèse principale vs variante haute
+3.0
+Variation annuelle, en %
+
+3.0
+Variation annuelle, en %
+
+2040
+
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 1 (var. haute)
+Scénario 4
+Scénario 4 (var. haute)
+
+Scénario 1 (var. basse)
+Scénario 4 (var. basse)
+
+1200
+
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+2010
+
+2030
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Observé + Projections à moyen-terme
+Source : STATEC
+Scénario 1
+Scénario 1 (var. basse)
+Scénario 1
+Scénario 1 (var. haute)
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projecScénario 4
+Scénario 4 (var. basse)
+Scénario 4
+Scénario 4 (var. haute)
+tions du STATEC
+publiées le 24 février 2026.
+
+55
+
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Résumé des analyses de sensibilité économique
+
+Croissance
+potentielle
+du PIB
+
+Croissance
+Croissance
+de la
+de l'emploi
+productivité
+
+Ratio de
+salaire
+(PPA)
+
+Solde
+migratoire
+
+Emploi
+national
+
+Emploi
+frontalier
+
+Population
+totale
+
+Ratio de
+dépendance
+(65+ / 20-64)
+
+Scénario 4
+
+2.2%
+
+1.3%
+
+1.3%
+
+152%
+
+7 454
+
+401 296
+
+525 466
+
+1 066 516
+
+49%
+
+Hausse du
+coût de la vie
+
+1.9%
+
+1.4%
+
+0.8%
+
+105%
+
+4 174
+
+354 540
+
+391 569
+
+975 305
+
+55%
+
+Baisse du
+coût de la vie
+
+2.8%
+
+1.1%
+
+2.0%
+
+193%
+
+13 356
+
+473 292
+
+789 447
+
+1 205 150
+
+43%
+
+1/3 de nouveaux trav.
+étr. résidents
+
+2.3%
+
+1.3%
+
+1.4%
+
+152%
+
+7 057
+
+438 710
+
+540 442
+
+1 058 503
+
+50%
+
+2/3 de nouveaux trav.
+étr. résidents
+
+2.1%
+
+1.3%
+
+1.2%
+
+153%
+
+7 874
+
+365 496
+
+511 841
+
+1 076 971
+
+49%
+
+Taux d'activité bas
+
+2.1%
+
+1.3%
+
+1.2%
+
+153%
+
+9 793
+
+455 276
+
+423 079
+
+1 178 459
+
+45%
+
+Taux d'activité haut
+
+2.3%
+
+1.2%
+
+1.5%
+
+152%
+
+5 982
+
+356 115
+
+646 702
+
+970 387
+
+54%
+
+Scénario
+
+Croissance
+potentielle
+du PIB
+
+Croissance
+Croissance
+de la
+de l'emploi
+productivité
+
+Ratio de
+salaire
+(PPA)
+
+Solde
+migratoire
+
+Emploi
+national
+
+Emploi
+frontalier
+
+Population
+totale
+
+Ratio de
+dépendance
+(65+ / 20-64)
+
+Scénario 1
+
+0.8%
+
+0.4%
+
+0.8%
+
+108.7%
+
+3 284
+
+338 074
+
+397 407
+
+944 039
+
+58%
+
+Hausse du
+coût de la vie
+
+0.6%
+
+0.4%
+
+0.5%
+
+73%
+
+2 724
+
+321 496
+
+340 620
+
+910 157
+
+60%
+
+Baisse du
+coût de la vie
+
+1.0%
+
+0.3%
+
+1.1%
+
+140%
+
+4 622
+
+364 212
+
+475 371
+
+996 038
+
+54%
+
+1/3 de nouveaux trav.
+étr. résidents
+
+0.9%
+
+0.4%
+
+0.9%
+
+109%
+
+3 156
+
+372 708
+
+405 665
+
+940 873
+
+58%
+
+2/3 de nouveaux trav.
+étr. résidents
+
+0.7%
+
+0.4%
+
+0.6%
+
+109%
+
+3 429
+
+305 551
+
+389 472
+
+948 534
+
+57%
+
+Taux d'activité bas
+
+0.8%
+
+0.4%
+
+0.7%
+
+109%
+
+3 733
+
+364 430
+
+342 073
+
+1 002 530
+
+55%
+
+Taux d'activité haut
+
+0.9%
+
+0.4%
+
+0.9%
+
+109%
+
+2 761
+
+308 431
+
+457 747
+
+878 142
+
+61%
+
+Source : STATEC
+Note : Les taux de croissance du PIB, de la productivité et de l’emploi correspondent à la moyenne 2025-2070. Toutes
+les autres variables indiquées sur le tableau correspondent à l’année 2070.
+
+56
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Analyse de sensibilité démographique : solde migratoire nul
+En complément des scénarios présentés précédemment à l’horizon 2070, le STATEC a élaboré
+un scénario supplémentaire dans lequel le solde migratoire devient nul à partir de 2040 (graphique 45).
+GRAPHIQUE 45 : ÉVOLUTION DU SOLDE MIGRATOIRE – COMPARAISON ENTRE L’APPROCHE
+ENDOGÈNE RETENUE DANS LES SCÉNARIOS PRINCIPAUX ET L’HYPOTHÈSE EXOGÈNE D’UN SOLDE
+MIGRATOIRE NUL À PARTIR DE 2040
+16
+
+Milliers de personnes
+
+14
+12
+10
+8
+6
+4
+2
+0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 4
+Solde migratoire nul à partir de 2040
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+Dans les scénarios principaux, le solde migratoire est déterminé de manière endogène par la
+dynamique économique : il converge vers environ 3 500 personnes par an dans le scénario 1
+et 7 500 dans le scénario 4 à l’horizon 2070, reflétant le ralentissement progressif anticipé de
+la croissance économique luxembourgeoise. Le scénario de sensibilité suppose une rupture
+exogène : le solde migratoire est ramené à zéro à partir de 2040 et maintenu à ce niveau
+jusqu’en 2070.
+Bien que les projections du STATEC anticipent une légère hausse de la fécondité (cf. partie sur
+l’hypothèse de fécondité), celle-ci ne suffirait pas à elle seule à assurer une croissance de la
+population résidente. Sans apports migratoires à partir de 2040, la population du Grand-Duché passerait par un pic d’environ 800 000 habitants au tournant des années 2040, avant de
+décliner pour retomber en 2070 à un niveau proche de celui observé aujourd’hui, soit environ
+730 000 habitants (graphique 46). À titre de comparaison, les scénarios principaux projettent
+une population de 950 000 habitants dans le scénario 1 et de 1 070 000 dans le scénario 4. Ces
+résultats confirment le rôle déterminant de la migration dans la dynamique démographique
+luxembourgeoise, qui a contribué à environ 80% de la croissance de la population au cours des
+dernières décennies.
+
+57
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 46 : ÉVOLUTION DE LA POPULATION – COMPARAISON ENTRE L’APPROCHE
+ENDOGÈNE RETENUE DANS LES SCÉNARIOS PRINCIPAUX ET L’HYPOTHÈSE EXOGÈNE D’UN SOLDE
+MIGRATOIRE NUL À PARTIR DE 2040
+
+Milliers de personnes
+
+1200
+
+1000
+
+800
+
+600
+
+400
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 4
+Solde migratoire nul
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+Ce scénario sans migration est commun aux quatre scénarios principaux, dans la mesure où
+les hypothèses relatives à la croissance naturelle — naissances et décès — sont identiques d’un
+scénario à l’autre. Seul le solde migratoire, endogène dans les scénarios principaux, est ici remplacé par une hypothèse exogène de migration nulle.
+En l’absence de migration, le vieillissement démographique serait particulièrement marqué.
+L’âge moyen de la population atteindrait environ 52 ans en 2070, contre 48 ans dans le scénario
+1 et 46 ans dans le scénario 4, reflétant le rôle structurel de l’immigration qui rajeunit habituellement la pyramide des âges via l’arrivée de travailleurs jeunes et de leurs familles.
+Sur le plan économique, un solde migratoire nul entraînerait une contraction considérable de
+l’emploi en 2070 par rapport aux scénarios principaux : -23% dans le scénario 1 et -31% dans le
+scénario 4 (graphique 47). L’écart plus prononcé dans le scénario 4 s’explique par le fait que ce
+scénario génère, via une croissance plus soutenue, un solde migratoire nettement plus élevé
+dans les projections principales — supprimer cette immigration revient donc à priver l’économie d’une part plus importante de sa main-d’œuvre. À noter que dans le scénario 1 sans
+migration, l’emploi entrerait en déclin absolu après 2050, tandis que dans le scénario 4 il se
+stabiliserait.
+
+58
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 47 : ÉVOLUTION DE L’EMPLOI – COMPARAISON ENTRE L’APPROCHE ENDOGÈNE
+RETENUE DANS LES SCÉNARIOS PRINCIPAUX ET L’HYPOTHÈSE EXOGÈNE D’UN SOLDE MIGRATOIRE
+NUL À PARTIR DE 2040
+
+Milliers de personnes
+
+900
+
+800
+
+700
+
+600
+
+500
+
+400
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1
+
+Scénario 1 (solde migratoire nul)
+
+Scénario 4
+
+Scénario 4 (solde migratoire nul)
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+Ces effets sur l’emploi se répercutent directement sur la croissance potentielle du PIB (graphique 48). L’absence de migration ampute le potentiel de croissance d’environ 0.5 point de
+pourcentage par an dans chacun des scénarios. À partir de 2048, la croissance potentielle deviendrait négative dans le scénario 1, atteignant -0.4% en 2070. Dans le scénario 4, elle resterait
+positive mais tomberait à environ 1.3% en 2070. Un résultat notable est la convergence des
+deux scénarios sans migration après 2050 : en l’absence d’apports migratoires, les hypothèses
+de productivité qui distinguent les scénarios ont un impact bien moindre sur la croissance,
+soulignant que c’est précisément la migration qui amplifie et différencie les trajectoires économiques à long terme.
+
+59
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 48 : ÉVOLUTION DE LA CROISSANCE POTENTIELLE – COMPARAISON ENTRE
+L’APPROCHE ENDOGÈNE RETENUE DANS LES SCÉNARIOS PRINCIPAUX ET L’HYPOTHÈSE EXOGÈNE
+D’UN SOLDE MIGRATOIRE NUL À PARTIR DE 2040
+3.0
+2.5
+Variation annuelle, en %
+
+2.0
+1.5
+1.0
+0.5
+0.0
+-0.5
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1
+
+Scénario 1 (solde migratoire nul)
+
+Scénario 4
+
+Scénario 4 (solde migratoire nul)
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+60
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Analyse de sensibilité démographique : fécondité
+Le STATEC a également élaboré deux variantes fondées sur des hypothèses alternatives concernant l’évolution de l’indicateur conjoncturel de fécondité (ICF), en complément du scénario
+central qui suppose que l’ICF atteindra 1.50 enfant par femme en 2070. Ces variantes, qui considèrent le même calendrier de fécondité des scénarios principaux, reposent sur les hypothèses
+suivantes (graphique 49) :
+z Hypothèse haute : une augmentation linéaire de l’ICF jusqu’à 2.10 enfants par femme en
+2070. Ce niveau correspond au seuil de remplacement des générations dans une population fermée, c’est‑à‑dire qu’en l’absence de migration, la population se maintiendrait à
+long terme ;
+z Hypothèse basse : une diminution linéaire de l’ICF jusqu’à 1.06 enfant par femme en
+2070, valeur observée à Malte en 2023 où la fécondité la plus basse au sein de l’UE-27 est
+observée actuellement.
+GRAPHIQUE 49 : HYPOTHÈSES SUR LE TAUX DE FÉCONDITÉ
+
+Enfants par femme
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+2000
+
+2010
+
+2020
+
+2030
+
+Observé
+
+Hypothèse principale
+
+Fécondité haute
+
+Fécondité basse
+
+2040
+
+2050
+
+2060
+
+2070
+
+Source : STATEC
+
+Comme le montre le graphique 50, les variations de la fécondité n’ont qu’un impact limité
+sur le solde migratoire. En effet, les flux migratoires étant déterminés par la dynamique du
+marché du travail, ils restent peu sensibles aux hypothèses de fécondité sur l’horizon de projection, la fécondité n’influençant la population en âge de travailler qu’avec un décalage de
+plusieurs décennies.
+
+61
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Dans la variante basse, la population projetée en 2070 serait de :
+z 885 000 personnes dans le scénario 1 (‑6% par rapport à l’hypothèse principale) ;
+z 999 000 résidents dans le scénario 4 (‑6%).
+Dans la variante haute, la population atteindrait en 2070 :
+z 1 032 000 personnes dans le scénario 1 (+9%) ;
+z 1 166 000 personnes dans le scénario 4 (+9%).
+GRAPHIQUE 50 : ÉVOLUTION DU SOLDE MIGRATOIRE SELON L’HYPOTHÈSE RETENUE SUR LE TAUX
+DE FÉCONDITÉ AU LUXEMBOURG
+Hypothèse principale vs fécondité haute
+Milliers de personnes
+
+Milliers de personnes
+
+Hypothèse principale vs fécondité basse
+16
+14
+12
+10
+8
+6
+4
+2
+0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 1 (fécondité haute)
+Scénario 4
+Scénario 4 (fécondité haute)
+
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 1 (fécondité basse)
+Scénario 4
+Scénario 4 (fécondité basse)
+Source : STATEC
+
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+L’examen du graphique 51 montre que les variations de la fécondité, qu’elles soient orientées
+à la hausse ou à la baisse, n’ont qu’un impact relativement limité sur la taille de la population
+projetée à l’horizon 2070.
+GRAPHIQUE 51 : ÉVOLUTION DE LA POPULATION SELON L’HYPOTHÈSE RETENUE SUR LE TAUX DE
+FÉCONDITÉ AU LUXEMBOURG
+Hypothèse principale vs fécondité basse
+Milliers de personnes
+
+Milliers de personnes
+
+Hypothèse principale vs fécondité haute
+
+1200
+
+1200
+1000
+800
+600
+400
+
+1000
+800
+600
+400
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+
+Observé + Projections à moyen-terme
+
+Scénario 1
+
+Scénario 1 (fécondité basse)
+
+Scénario 1
+
+Scénario 1 (fécondité haute)
+
+Scénario 4
+
+Scénario 4 (fécondité basse)
+
+Scénario 4
+
+Scénario 4 (fécondité haute)
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+62
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+L’impact de la fécondité sur l’emploi reste également modeste (graphique 52). Les enfants nés
+sur la période de projection n’intégreront le marché du travail que vers la fin de l’horizon, de
+sorte que les variantes de fécondité ne se traduisent pas encore, à cet horizon, par des différences sensibles dans la population active. Les écarts observés entre variantes sont donc principalement imputables aux différences de population migrante accompagnant les ménages, et
+non à un effet direct sur l’offre de travail domestique.
+GRAPHIQUE 52 : ÉVOLUTION DE L’EMPLOI SELON L’HYPOTHÈSE RETENUE SUR LE TAUX DE
+FÉCONDITÉ AU LUXEMBOURG
+
+900
+800
+700
+600
+500
+400
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+Hypothèse principale vs fécondité haute
+
+1000
+Milliers de personnes
+
+Milliers de personnes
+
+Hypothèse principale vs fécondité basse
+
+800
+600
+400
+2010
+
+2070
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+
+Observé + Projections à moyen-terme
+
+Scénario 1
+
+Scénario 1 (fécondité basse)
+
+Scénario 1
+
+Scénario 1 (fécondité haute)
+
+Scénario 4
+
+Scénario 4 (fécondité basse)
+
+Scénario 4
+
+Scénario 4 (fécondité haute)
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+De même, l’impact sur la croissance potentielle du PIB reste négligeable (graphique 53). Ces
+résultats soulignent que, pour le Luxembourg, les hypothèses relatives à la fécondité ont une
+portée limitée sur les projections économiques à l’horizon 2070 — contrairement aux hypothèses migratoires, dont l’effet est immédiat et déterminant comme illustré dans la section
+précédente.
+GRAPHIQUE 53 : ÉVOLUTION DE LA CROISSANCE POTENTIELLE SELON L’HYPOTHÈSE RETENUE SUR
+LE TAUX DE FÉCONDITÉ AU LUXEMBOURG
+Hypothèse principale vs fécondité haute
+Variation annuelle, en %
+
+Variation annuelle, en %
+
+Hypothèse principale vs fécondité basse
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+
+Observé + Projections à moyen-terme
+
+Scénario 1
+
+Scénario 1 (fécondité basse)
+
+Scénario 1
+
+Scénario 1 (fécondité haute)
+
+Scénario 4
+
+Scénario 4 (fécondité basse)
+
+Scénario 4
+
+Scénario 4 (fécondité haute)
+
+Source : STATEC
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC publiées le 24 février 2026.
+
+63
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Analyse de sensibilité démographique : mortalité
+Comme pour la fécondité, le STATEC projette deux autres variantes par rapport à l’hypothèse
+centrale de mortalité : une basse et une haute. Ces deux hypothèses alternatives concernent
+principalement les personnes âgées de plus de 65 ans (graphique 54). L’hypothèse basse prévoit une diminution du niveau de la mortalité, c’est-à-dire une augmentation de l’espérance de
+vie à la naissance. Cette espérance serait, au terme de la projection en 2070, de 93.5 ans pour
+les femmes et de 90.7 ans pour les hommes.
+L’hypothèse haute prévoit une mortalité plus importante par rapport à celle projetée dans le
+scénario de référence. Dans cette variante, les taux de mortalité observés en 2022 seront maintenus constants tout au long de la projection. L’espérance de vie à la naissance en 2070 serait
+donc de 85.0 ans pour les femmes et de 81.0 ans pour les hommes.
+GRAPHIQUE 54 : HYPOTHÈSES SUR L’ESPÉRANCE DE VIE EN 2070
+Hommes
+
+Femmes
+
+Nombre d'années
+
+100
+
+90
+80
+70
+
+90
+
+80
+
+Observé
+Mortalité basse
+
+Hypothèse principale
+Mortalité haute
+
+Observé
+Mortalité basse
+
+2070
+
+2060
+
+2050
+
+2040
+
+2030
+
+2020
+
+2010
+
+2000
+
+1990
+
+1980
+
+1970
+
+2070
+
+2060
+
+2050
+
+2040
+
+2030
+
+2020
+
+2010
+
+2000
+
+1990
+
+1980
+
+70
+1970
+
+Nombre d'années
+
+100
+
+Hypothèse principale
+Mortalité haute
+
+Source : STATEC
+
+Les variantes de mortalité n’ont pas d’impact sur le solde migratoire (graphique 55). En effet,
+les flux de travailleurs étrangers étant déterminés par les facteurs économiques, ils demeurent
+insensibles aux hypothèses de mortalité, qui n’affectent pas la population en âge de travailler
+sur l’horizon considéré.
+Les variantes de mortalité ont en revanche un impact sur la taille totale de la population (graphique 56). En 2070, la population serait plus importante dans la variante basse (mortalité réduite, espérance de vie à 93.5 ans pour les femmes et 90.7 ans pour les hommes) et moins
+importante dans la variante haute (mortalité constante au niveau de 2022), par rapport au
+scénario central.
+Conformément à l’absence d’impact sur le solde migratoire, les variantes de mortalité n’induisent pas de différences notables en termes d’emploi (graphique 57). La mortalité différentielle selon les variantes étant concentrée dans les âges avancés, au-delà de 65 ans, elle
+n’affecte pas la population en âge de travailler.
+Il en découle également une absence d’impact sur la croissance potentielle du PIB (graphique
+58). Les hypothèses de mortalité auraient ainsi des effets essentiellement démographiques
+— sur la taille et la structure par âge de la population — sans répercussion significative sur la
+
+64
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+dynamique économique à l’horizon 2070.
+
+COMPARAISON DES PRINCIPAUX RÉSULTATS SELON L’HYPOTHÈSE RETENUE SUR
+LE TAUX DE MORTALITÉ
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 1 (mortalité basse)
+Scénario 4
+Scénario 4 (mortalité basse)
+
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 1 (mortalité haute)
+Scénario 4
+Scénario 4 (mortalité haute)
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+2010
+
+Hypothèse principale vs mortalité basse
+Milliers de personnes
+
+Milliers de personnes
+
+GRAPHIQUE 55 : SOLDE MIGRATOIRE
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1 (mortalité basse)
+Scénario 4
+Scénario 4 (mortalité basse)
+Hypothèse principale vs mortalité basse
+
+1200
+
+Milliers de personnes
+
+Milliers de personnes
+
+GRAPHIQUE
+Scénario 56
+1 : POPULATION
+
+1000
+800
+600
+400
+
+Hypothèse principale vs mortalité haute
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+2010
+
+2020
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 1 (mortalité haute)
+Scénario 4
+Scénario 4 (mortalité haute)
+Hypothèse principale vs mortalité haute
+1200
+1000
+800
+600
+
+2050
+
+2060
+
+2070
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+Observé + Projections à moyen-terme
+
+Observé + Prév. MT
+
+Scénario 1
+
+Scénario 1 (mortalité basse)
+
+Scénario 1
+
+Scénario 1 (mortalité haute)
+
+Scénario 4 (mortalité basse)
+
+Scénario 4
+
+Scénario 4 (mortalité haute)
+
+GRAPHIQUE
+574: EMPLOI
+Scénario
+
+Hypothèse principale vs mortalité basse
+900
+
+Milliers de personnes
+
+Milliers de personnes
+
+2040
+
+400
+
+2010
+
+800
+700
+600
+500
+400
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+800
+600
+400
+
+2070
+
+2010
+
+Hypothèse principale vs mortalité basse
+
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 1 (mortalité haute)
+Scénario 4
+Scénario 4 (mortalité haute)
+
+Variation annuelle, en %
+
+3.0
+
+2070
+
+Hypothèse principale vs mortalité haute
+
+1000
+
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 1 (mortalité basse)
+Scénario
+Scénario 4 (mortalité basse)
+GRAPHIQUE
+584: CROISSANCE POTENTIELLE
+
+Variation annuelle, en %
+
+2030
+
+3.0
+
+Hypothèse principale vs mortalité haute
+
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+Observé + Projections à moyen-terme
+Source : STATEC
+
+Observé + Projections à moyen-terme
+Scénario 1
+Scénario 1 (mortalité basse)
+Scénario 1
+Scénario 1 (mortalité haute)
+Note : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projecScénario 4
+Scénario 4 (mortalité basse)
+Scénario 4
+Scénario 4 (mortalité haute)
+tions du STATEC
+publiées le 24 février 2026.
+
+65
+
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Cette variation de la mortalité a surtout des impacts parmi le groupe d’âge « 65+ ans ». En effet,
+la mortalité est déjà actuellement relativement faible dans les jeunes âges et les âges actifs. Dès
+lors, la stagnation du niveau de mortalité se concentre principalement dans les âges plus avancés. Pour rappel, la part des 65 ans et plus dans la population totale s’élevait au 31 décembre
+2024 à 15.2%.
+TABLEAU 5 : ANALYSE DE SENSIBILITÉ « MORTALITÉ » (PART DES 65 ANS ET PLUS PARMI LA
+POPULATION TOTALE, 2070)
+Scénarios
+
+Variante centrale
+
+Variante basse
+
+Variante haute
+
+Scénario 1
+
+28.60%
+
+30.30%
+
+25.60%
+
+Scénario 4
+
+26.50%
+
+27.30%
+
+23.00%
+
+Source : STATEC
+
+66
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Résumé des analyses de
+sensibilité démographique
+
+Croissance
+potentielle
+du PIB
+
+Croissance
+Croissance
+de la
+de l'emploi
+productivité
+
+Ratio de
+salaire
+(PPA)
+
+Solde
+migratoire
+
+Emploi
+national
+
+Emploi
+frontalier
+
+Population
+totale
+
+Ratio de
+dépendance
+(65+ / 20-64)
+
+Scénario 4
+
+2.20%
+
+1.30%
+
+1.30%
+
+152%
+
+7 454
+
+401 296
+
+525 466
+
+1 066 516
+
+49%
+
+Solde migratoire nul
+
+1.60%
+
+1.40%
+
+0.40%
+
+159%
+
+0
+
+228 708
+
+407 443
+
+720 371
+
+80%
+
+Fécondité
+basse
+
+2.20%
+
+1.30%
+
+1.20%
+
+153%
+
+7 218
+
+386 384
+
+520 663
+
+998 788
+
+51%
+
+Fécondité
+haute
+
+2.30%
+
+1.30%
+
+1.40%
+
+152%
+
+7 782
+
+422 741
+
+532 580
+
+1 166 108
+
+47%
+
+Mortalité
+basse
+
+2.20%
+
+1.30%
+
+1.30%
+
+152%
+
+7 462
+
+402 500
+
+525 883
+
+1 088 262
+
+53%
+
+Mortalité
+haute
+
+2.20%
+
+1.30%
+
+1.30%
+
+152%
+
+7 482
+
+399 546
+
+524 769
+
+1 014 004
+
+41%
+
+Croissance
+potentielle
+du PIB
+
+Croissance
+Croissance
+de la
+de l'emploi
+productivité
+
+Ratio de
+salaire
+(PPA)
+
+Solde
+migratoire
+
+Emploi
+national
+
+Emploi
+frontalier
+
+Population
+totale
+
+Ratio de
+dépendance
+(65+ / 20-64)
+
+Scénario 1
+
+0.80%
+
+0.40%
+
+0.80%
+
+108.70%
+
+3 284
+
+338 074
+
+397 407
+
+944 039
+
+58%
+
+Solde migratoire nul
+
+0.40%
+
+0.50%
+
+0.20%
+
+109.50%
+
+0
+
+228 708
+
+338 942
+
+720 371
+
+80%
+
+Fécondité
+basse
+
+0.80%
+
+0.40%
+
+0.70%
+
+109.00%
+
+3 210
+
+324 721
+
+395 678
+
+884 616
+
+60%
+
+Fécondité
+haute
+
+0.90%
+
+0.40%
+
+0.80%
+
+108.40%
+
+3 389
+
+357 310
+
+399 966
+
+1 031 778
+
+55%
+
+Mortalité
+basse
+
+0.80%
+
+0.40%
+
+0.80%
+
+108.70%
+
+3 287
+
+339 095
+
+397 569
+
+965 494
+
+61%
+
+Mortalité
+haute
+
+0.80%
+
+0.40%
+
+0.80%
+
+108.70%
+
+3 293
+
+336 302
+
+396 973
+
+891 632
+
+48%
+
+Source : STATEC
+Note : Les taux de croissance du PIB, de la productivité et de l’emploi correspondent à la moyenne 2025-2070. Toutes
+les autres variables indiquées sur le tableau correspondent à l’année 2070.
+
+67
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Comparaison avec les projections d’Eurostat
+Les différences observées entre les résultats du STATEC et ceux d’EUROSTAT sont expliquées
+principalement par la projection du solde migratoire (bien que de légères différences soient
+aussi observées pour la fécondité et la mortalité), pour lequel les deux institutions suivent des
+approches fondamentalement différentes. EUROSTAT adopte une approche basée sur les tendances passées : le solde migratoire est estimé à partir de la moyenne des flux observés au
+cours des dix dernières années, ajustée vers une valeur de long terme commune à l’ensemble
+des pays de l’UE. Cette méthode, robuste pour des pays à démographie que l’on pourrait qualifier de « standard » , ne capture pas le lien étroit qui existe au Luxembourg entre conjoncture
+économique et flux migratoires : elle peut conduire à des révisions lorsque les années récentes
+de référence sont inhabituelles (comme lors des années COVID ou de forte croissance). Le STATEC intègre au contraire le solde migratoire dans son modèle éco-démographique : les flux
+de travailleurs étrangers répondent à l’attractivité relative des revenus luxembourgeois, ellemême déterminée par les gains de productivité par rapport aux pays voisins. Cette approche
+ancre les projections migratoires dans des fondamentaux économiques et les rend moins sensibles aux chocs ponctuels, ce qui se traduit par une plus grande stabilité des prévisions d’une
+publication à l’autre.
+Dans les scénarios du STATEC, le solde migratoire se situerait entre 3 300 et 7 500 personnes
+en 2070, selon le scénario retenu. La projection d’EUROSTAT suit une trajectoire intermédiaire :
+après un pic d’environ 10 000 personnes en 2031, le solde diminuerait progressivement pour atteindre un peu plus de 3 000 personnes en 2070, un niveau proche du scénario bas du STATEC.
+L’un des atouts majeurs de la méthodologie du STATEC est la stabilité relative de ses projections
+d’une publication à l’autre. Cette stabilité contraste avec les révisions parfois importantes observées dans les publications successives d’EUROSTAT pour le Luxembourg.
+Les graphiques 59 et 60 illustrent ces révisions en comparant les projections de population et de
+solde migratoire issues des différentes publications d’EUROSTAT (EUROPOP2019, EUROPOP2023
+et EUROPOP2025) avec celles du STATEC (publication 2017 et nouvelles projections 2025). Pour
+faciliter la comparaison avec les publications successives d’EUROSTAT, les graphiques 59 et
+60 représentent, pour le STATEC, la moyenne des quatre scénarios plutôt qu’un scénario de
+référence unique. Ce choix méthodologique reflète une spécificité de l’approche du STATEC :
+contrairement à EUROSTAT, qui publie un scénario central, le STATEC ne retient pas de scénario
+privilégié et considère l’ensemble des scénarios comme identiquement plausibles. Il convient
+par ailleurs de noter que la projection 2017 du STATEC affichait des niveaux de population projetés sensiblement plus élevés que les nouvelles projections 2025. Cette différence s’explique par
+un changement d’approche méthodologique : dans la publication de 2017, la croissance du PIB
+était une hypothèse exogène fixée à des niveaux allant de 0% jusqu’à 4.5% par an. La moyenne
+des scénarios de 2017 correspond donc à une croissance économique bien supérieure à celle
+des quatre scénarios de productivité établis en 2024, où la croissance du PIB est désormais endogenéisée et aboutit à des trajectoires de croissance plus modérées (entre 0% et 2% par an)29.
+
+68
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+29 STATEC, Séminaire économique – Nouveaux scénarios économiques et démographiques de long terme, juillet 2024.
+Disponible sur : https ://statistiques.public.lu/fr/actualites/2024/seminaire-economique-nouveaux-scenarioseconomiques.html
+
+Les révisions d’EUROSTAT pour le Luxembourg s’expliquent principalement par des changements dans les hypothèses de solde migratoire. En l’absence de modélisation économique
+sous-jacente, ces hypothèses reposent sur les tendances récentes observées : lorsque les années de référence incluent une période atypique (forte croissance ou crise économique), la
+projection peut être significativement révisée lors de la publication suivante. La sensibilité de
+la méthodologie d’EUROSTAT à ces effets de période est particulièrement marquée pour le
+Luxembourg, où la migration est à la fois très élevée et étroitement liée au cycle économique.
+À titre de comparaison historique, les projections d’EUROPOP2015 pour la population luxembourgeoise en 2025 surestimaient la population réelle (environ 690 000 habitants). Les nouvelles projections d’EUROSTAT (EUROPOP2025) et celles du STATEC (2025) démarrent désormais
+sur une base commune de 691 000 habitants et convergent à court terme, les divergences n’apparaissant significativement qu’à partir du milieu du siècle.
+En endogénéisant le solde migratoire, le STATEC réduit mécaniquement ce risque de révision :
+la migration projetée répond à des fondamentaux économiques structurels plutôt qu’à des
+tendances récentes potentiellement transitoires. Cela confère aux projections du STATEC une
+cohérence interne plus robuste, tout en maintenant la pluralité des scénarios pour tenir compte
+des incertitudes sur la trajectoire de croissance à long terme.
+
+69
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+GRAPHIQUE 59 : RÉVISIONS DES PROJECTIONS DE LA POPULATION
+Eurostat
+
+STATEC
+
+1100
+
+1000
+
+Milliers de personnes
+
+Milliers de personnes
+
+1100
+
+900
+800
+700
+600
+500
+
+1000
+900
+800
+700
+600
+500
+400
+
+400
+2000
+
+2020
+
+2010
+
+Observé
+
+2030
+
+Europop 2019
+
+2040
+
+2050
+
+2060
+
+Europop 2023
+
+2000
+
+2070
+
+2010
+
+Observé
+
+Europop 2025
+
+2020
+
+2030
+
+2040
+
+STATEC 2017
+
+2050
+
+STATEC 2024
+
+2060
+
+2070
+
+STATEC 2025
+
+Sources : STATEC, Eurostat
+
+GRAPHIQUE 60 : RÉVISIONS DES PROJECTIONS DU SOLDE MIGRATOIRE
+Eurostat
+
+STATEC
+
+15
+
+14
+
+Milliers de personnes
+
+Milliers de personnes
+
+16
+12
+10
+8
+6
+4
+2
+
+10
+
+5
+
+0
+
+0
+2000
+
+2010
+
+Observé
+
+2020
+
+2030
+
+Europop 2019
+
+2040
+
+2050
+
+Europop 2023
+
+Sources : STATEC, Eurostat
+
+70
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+2060
+
+2070
+
+Europop 2025
+
+2000
+
+2010
+
+Observé
+
+2020
+
+2030
+
+STATEC 2017
+
+2040
+
+2050
+
+STATEC 2024
+
+2060
+
+2070
+
+STATEC 2025
+
+Conclusion
+
+71
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Le présent exercice de projections de long terme met en évidence plusieurs enseignements
+structurants concernant les trajectoires démographiques et économiques du Luxembourg à
+l’horizon 2070. En s’inscrivant dans la continuité méthodologique des travaux du STATEC publiés en 2017, cette mise à jour apporte un changement de perspective fondamental en endogénéisant la croissance économique et en faisant de la productivité le paramètre central des
+différents scénarios.
+Les principaux résultats peuvent être synthétisés comme suit :
+z Une interdépendance forte et persistante entre économie et démographie
+La croissance économique, la dynamique de l’emploi et l’évolution démographique
+restent étroitement liées. La migration constitue le principal canal de transmission entre
+ces deux dimensions, via l’attractivité salariale et les besoins en main-d’œuvre.
+z Une croissance démographique positive mais nettement ralentie
+À l’horizon 2070, la population du Luxembourg atteindrait un niveau compris entre environ 940 000 et 1 070 000 habitants selon les scénarios. Toutefois, les taux de croissance
+seraient durablement inférieurs à ceux observés au cours des deux dernières décennies,
+passant sous le seuil de 1% dès le début des années 2040.
+z Un rôle déterminant du solde migratoire
+La croissance future de la population reposerait quasi exclusivement sur la migration.
+À partir de 2050, le solde naturel deviendrait négatif dans tous les scénarios, ce qui
+confirme que la migration demeure le principal moteur de la croissance démographique
+de long terme au Luxembourg.
+z Un vieillissement démographique marqué et généralisé
+La population âgée de 65 ans et plus verrait son effectif presque tripler d’ici 2070,
+quelles que soient les hypothèses retenues. Le ratio de dépendance démographique des
+personnes âgées augmenterait fortement, passant d’environ 24% en 2025 à un niveau
+compris entre 49% et 58% en 2070 selon les scénarios.
+z Des trajectoires économiques différenciées selon les hypothèses de productivité et
+d’investissement
+Les scénarios caractérisés par des gains de productivité plus élevés conduisent à une
+croissance économique plus soutenue, à des salaires relatifs plus attractifs et à un solde
+migratoire plus élevé. À l’inverse, les scénarios de stagnation du progrès technique se
+traduisent par un ralentissement marqué de l’emploi et, à terme, par une croissance
+potentielle quasi nulle.
+
+72
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+z Un maintien du cercle vertueux productivité–salaires–emploi dans les scénarios
+favorables
+Contrairement à une lecture strictement mécanique de la productivité, les scénarios de
+forte productivité génèrent davantage d’emploi. Les gains d’efficacité soutiennent les
+salaires, renforcent l’attractivité du marché du travail luxembourgeois et stimulent la
+demande de main-d’œuvre, ce qui l’emporte sur les effets théoriques de substitution
+capital-travail.
+z Une sensibilité élevée aux hypothèses migratoires, mais limitée aux hypothèses
+démographiques naturelles
+Les analyses de sensibilité montrent que les migrations constituent le déterminant clé
+des trajectoires de population, d’emploi et de croissance potentielle. À l’inverse, les variantes portant sur la fécondité et la mortalité n’ont qu’un impact limité sur les résultats
+économiques à l’horizon 2070.
+z Un scénario sans migration aux conséquences économiques et démographiques
+majeures
+L’hypothèse d’un solde migratoire nul à partir de 2040 conduit à une stagnation puis à un
+recul de la population, à une contraction marquée de l’emploi et à une croissance potentielle fortement réduite, voire négative dans les scénarios de faible productivité. Ce résultat souligne la dépendance structurelle de l’économie luxembourgeoise à l’immigration.
+En conclusion, ces projections ne constituent pas des prévisions mais des trajectoires conditionnelles fondées sur des hypothèses explicites. Elles visent à éclairer le débat public en mettant en évidence les contraintes structurelles et les marges de manœuvre de long terme. Les
+résultats soulignent l’importance des politiques favorisant l’investissement, le progrès technologique, l’attractivité du territoire et la participation au marché du travail pour soutenir durablement le potentiel de croissance du Luxembourg à l’horizon 2070.
+
+73
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+74
+Projections
+démographiques du
+Luxembourg :
+vers un million
+d’habitants d’ici 2070
+
+Institut national de la statistique
+et des études économiques
+www.statistiques.lu
+
+

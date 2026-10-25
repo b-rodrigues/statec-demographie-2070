@@ -1,0 +1,27 @@
+type_sensibilite,scenario_reference,variante,pib_growth,prod_growth,emp_growth,wage_ratio_ppa,net_migration_2070,population_2070,old_age_dep_ratio
+Économique,Scénario 4 (Forte productivité),Scénario 4 (Référence),2.2,1.3,1.3,152,7454,1066516,49
+Économique,Scénario 4 (Forte productivité),Hausse du coût de la vie relatif,1.9,1.4,0.8,105,4174,975305,55
+Économique,Scénario 4 (Forte productivité),Baisse du coût de la vie relatif,2.8,1.1,2,193,13356,1205150,43
+Économique,Scénario 4 (Forte productivité),1/3 nouveaux trav. résidents,2.3,1.3,1.4,152,7057,1058503,50
+Économique,Scénario 4 (Forte productivité),2/3 nouveaux trav. résidents,2.1,1.3,1.2,153,7874,1076971,49
+Économique,Scénario 4 (Forte productivité),Taux d'activité bas,2.1,1.3,1.2,153,9793,1178459,45
+Économique,Scénario 4 (Forte productivité),Taux d'activité haut,2.3,1.2,1.5,152,5982,970387,54
+Économique,Scénario 1 (Faible productivité),Scénario 1 (Référence),0.8,0.4,0.8,108.7,3284,944039,58
+Économique,Scénario 1 (Faible productivité),Hausse du coût de la vie relatif,0.6,0.4,0.5,73,2724,910157,60
+Économique,Scénario 1 (Faible productivité),Baisse du coût de la vie relatif,1,0.3,1.1,140,4622,996038,54
+Économique,Scénario 1 (Faible productivité),1/3 nouveaux trav. résidents,0.9,0.4,0.9,109,3156,940873,58
+Économique,Scénario 1 (Faible productivité),2/3 nouveaux trav. résidents,0.7,0.4,0.6,109,3429,948534,57
+Économique,Scénario 1 (Faible productivité),Taux d'activité bas,0.8,0.4,0.7,109,3733,1002530,55
+Économique,Scénario 1 (Faible productivité),Taux d'activité haut,0.9,0.4,0.9,109,2761,878142,61
+Démographique,Scénario 4 (Forte productivité),Scénario 4 (Référence),2.2,1.3,1.3,152,7454,1066516,49
+Démographique,Scénario 4 (Forte productivité),Solde migratoire nul dès 2040,1.6,1.4,0.4,159,0,720371,80
+Démographique,Scénario 4 (Forte productivité),Fécondité basse,2.2,1.3,1.2,153,7218,998788,51
+Démographique,Scénario 4 (Forte productivité),Fécondité haute,2.3,1.3,1.4,152,7782,1166108,47
+Démographique,Scénario 4 (Forte productivité),Mortalité basse,2.2,1.3,1.3,152,7462,1088262,53
+Démographique,Scénario 4 (Forte productivité),Mortalité haute,2.2,1.3,1.3,152,7482,1014004,41
+Démographique,Scénario 1 (Faible productivité),Scénario 1 (Référence),0.8,0.4,0.8,108.7,3284,944039,58
+Démographique,Scénario 1 (Faible productivité),Solde migratoire nul dès 2040,0.4,0.5,0.2,109.5,0,720371,80
+Démographique,Scénario 1 (Faible productivité),Fécondité basse,0.8,0.4,0.7,109,3210,884616,60
+Démographique,Scénario 1 (Faible productivité),Fécondité haute,0.9,0.4,0.8,108.4,3389,1031778,55
+Démographique,Scénario 1 (Faible productivité),Mortalité basse,0.8,0.4,0.8,108.7,3287,965494,61
+Démographique,Scénario 1 (Faible productivité),Mortalité haute,0.8,0.4,0.8,108.7,3293,891632,48

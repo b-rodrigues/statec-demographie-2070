@@ -1,0 +1,5 @@
+scenario_id,scenario_name,ptf_growth,investment_rate,pib_growth_pct,prod_growth_pct,emp_growth_pct,wage_ratio_ppa_pct,net_migration_2070,national_employment_2070,crossborder_employment_2070,total_employment_2070,population_2070,old_age_dep_ratio_65_20_64
+SC1,"Scénario 1 : Faible productivité, faible investissement",0,Faible (16%),0.8,0.4,0.8,109,3284,338074,397407,735481,944039,58
+SC2,"Scénario 2 : Faible productivité, fort investissement",0,Fort (20%),1.1,0.6,0.9,118,3692,349117,421673,770790,966018,56
+SC3,"Scénario 3 : Forte productivité, faible investissement",0.8,Faible (16%),1.8,1.1,1.1,142,6084,378616,476589,855205,1022428,52
+SC4,"Scénario 4 : Forte productivité, fort investissement",0.8,Fort (20%),2.2,1.3,1.3,152,7454,401296,525466,926762,1066516,49

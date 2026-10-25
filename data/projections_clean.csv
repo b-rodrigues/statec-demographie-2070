@@ -1,0 +1,1345 @@
+year,source,scenario_id,scenario_name,indicator,age_group,sex,value,unit,data_type
+2025,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,8927,personnes,projected
+2026,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,8948,personnes,projected
+2027,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,9561,personnes,projected
+2028,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,10169,personnes,projected
+2029,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,10773,personnes,projected
+2030,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,11376,personnes,projected
+2031,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,11966,personnes,projected
+2032,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,11759,personnes,projected
+2033,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,11370,personnes,projected
+2034,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,11008,personnes,projected
+2035,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,10607,personnes,projected
+2036,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,10330,personnes,projected
+2037,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,9952,personnes,projected
+2038,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,9581,personnes,projected
+2039,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,9226,personnes,projected
+2040,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,8880,personnes,projected
+2041,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,8535,personnes,projected
+2042,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,8189,personnes,projected
+2043,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,7833,personnes,projected
+2044,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,7483,personnes,projected
+2045,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,7121,personnes,projected
+2046,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,6755,personnes,projected
+2047,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,6384,personnes,projected
+2048,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,6007,personnes,projected
+2049,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,5634,personnes,projected
+2050,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,5268,personnes,projected
+2051,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,4893,personnes,projected
+2052,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,4524,personnes,projected
+2053,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,4169,personnes,projected
+2054,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,3847,personnes,projected
+2055,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,3531,personnes,projected
+2056,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,3188,personnes,projected
+2057,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,2946,personnes,projected
+2058,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,2657,personnes,projected
+2059,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,2407,personnes,projected
+2060,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,2205,personnes,projected
+2061,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,2010,personnes,projected
+2062,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,1844,personnes,projected
+2063,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,1659,personnes,projected
+2064,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,1528,personnes,projected
+2065,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,1405,personnes,projected
+2066,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,1209,personnes,projected
+2067,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,1110,personnes,projected
+2068,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,998,personnes,projected
+2069,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,917,personnes,projected
+2070,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),accroissement_total,Total,Total,809,personnes,projected
+2000,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,3431,personnes,observed
+2001,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,3310,personnes,observed
+2002,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,2649,personnes,observed
+2003,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,5450,personnes,observed
+2004,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,4326,personnes,observed
+2005,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,6150,personnes,observed
+2006,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,5352,personnes,observed
+2007,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,6001,personnes,observed
+2008,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,7700,personnes,observed
+2009,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,6583,personnes,observed
+2010,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,7849,personnes,observed
+2011,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,11004,personnes,observed
+2012,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,10036,personnes,observed
+2013,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,10348,personnes,observed
+2014,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,11049,personnes,observed
+2015,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,11159,personnes,observed
+2016,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,9446,personnes,observed
+2017,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,10548,personnes,observed
+2018,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,10659,personnes,observed
+2019,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,11075,personnes,observed
+2020,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,7620,personnes,observed
+2021,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,9376,personnes,observed
+2022,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,14206,personnes,observed
+2023,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,10376,personnes,observed
+2024,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,9281,personnes,observed
+2025,STATEC (Observé),OBS,Observé (STATEC LUSTAT),accroissement_total,Total,Total,7844,personnes,observed
+2026,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",accroissement_total,Total,Total,304284,personnes,projected
+2027,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",accroissement_total,Total,Total,10451,personnes,projected
+2028,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",accroissement_total,Total,Total,11406,personnes,projected
+2029,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,-283242,personnes,projected
+2030,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,11376,personnes,projected
+2031,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,11190,personnes,projected
+2032,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,10882,personnes,projected
+2033,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,10697,personnes,projected
+2034,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,10327,personnes,projected
+2035,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,9927,personnes,projected
+2036,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,9618,personnes,projected
+2037,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,9279,personnes,projected
+2038,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,8940,personnes,projected
+2039,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,8631,personnes,projected
+2040,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,8170,personnes,projected
+2041,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,7583,personnes,projected
+2042,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,7090,personnes,projected
+2043,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,6690,personnes,projected
+2044,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,6319,personnes,projected
+2045,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,5981,personnes,projected
+2046,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,5611,personnes,projected
+2047,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,5425,personnes,projected
+2048,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,5056,personnes,projected
+2049,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,4716,personnes,projected
+2050,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,4501,personnes,projected
+2051,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,4224,personnes,projected
+2052,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,3853,personnes,projected
+2053,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,3607,personnes,projected
+2054,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,3298,personnes,projected
+2055,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,3021,personnes,projected
+2056,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,2806,personnes,projected
+2057,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,2528,personnes,projected
+2058,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,2312,personnes,projected
+2059,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,2127,personnes,projected
+2060,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,1880,personnes,projected
+2061,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,1757,personnes,projected
+2062,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,1696,personnes,projected
+2063,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,1541,personnes,projected
+2064,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,1418,personnes,projected
+2065,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,1326,personnes,projected
+2066,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,1202,personnes,projected
+2067,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,1048,personnes,projected
+2068,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,987,personnes,projected
+2069,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,924,personnes,projected
+2070,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,accroissement_total,Total,Total,617,personnes,projected
+2026,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",accroissement_total,Total,Total,304284,personnes,projected
+2027,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",accroissement_total,Total,Total,10451,personnes,projected
+2028,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",accroissement_total,Total,Total,11406,personnes,projected
+2029,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,-283242,personnes,projected
+2030,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,11375,personnes,projected
+2031,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,11251,personnes,projected
+2032,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,10974,personnes,projected
+2033,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,10758,personnes,projected
+2034,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,10542,personnes,projected
+2035,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,10110,personnes,projected
+2036,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,9926,personnes,projected
+2037,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,9617,personnes,projected
+2038,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,9279,personnes,projected
+2039,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,9000,personnes,projected
+2040,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,8662,personnes,projected
+2041,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,8138,personnes,projected
+2042,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,7675,personnes,projected
+2043,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,7213,personnes,projected
+2044,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,6843,personnes,projected
+2045,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,6596,personnes,projected
+2046,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,6257,personnes,projected
+2047,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,6042,personnes,projected
+2048,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,5702,personnes,projected
+2049,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,5332,personnes,projected
+2050,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,5209,personnes,projected
+2051,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,4839,personnes,projected
+2052,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,4500,personnes,projected
+2053,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,4285,personnes,projected
+2054,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,4006,personnes,projected
+2055,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,3730,personnes,projected
+2056,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,3452,personnes,projected
+2057,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,3236,personnes,projected
+2058,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,3020,personnes,projected
+2059,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,2743,personnes,projected
+2060,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,2589,personnes,projected
+2061,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,2465,personnes,projected
+2062,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,2404,personnes,projected
+2063,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,2157,personnes,projected
+2064,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,2126,personnes,projected
+2065,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,1972,personnes,projected
+2066,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,1880,personnes,projected
+2067,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,1757,personnes,projected
+2068,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,1633,personnes,projected
+2069,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,1540,personnes,projected
+2070,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,accroissement_total,Total,Total,1325,personnes,projected
+2026,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",accroissement_total,Total,Total,304284,personnes,projected
+2027,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",accroissement_total,Total,Total,10451,personnes,projected
+2028,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",accroissement_total,Total,Total,11406,personnes,projected
+2029,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,-283242,personnes,projected
+2030,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,11375,personnes,projected
+2031,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,11252,personnes,projected
+2032,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,11036,personnes,projected
+2033,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,10821,personnes,projected
+2034,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,10635,personnes,projected
+2035,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,10265,personnes,projected
+2036,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,10112,personnes,projected
+2037,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,9772,personnes,projected
+2038,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,9618,personnes,projected
+2039,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,9371,personnes,projected
+2040,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,9063,personnes,projected
+2041,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,8632,personnes,projected
+2042,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,8231,personnes,projected
+2043,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,7953,personnes,projected
+2044,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,7645,personnes,projected
+2045,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,7398,personnes,projected
+2046,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,7245,personnes,projected
+2047,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,7028,personnes,projected
+2048,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,6813,personnes,projected
+2049,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,6597,personnes,projected
+2050,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,6412,personnes,projected
+2051,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,6258,personnes,projected
+2052,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,5980,personnes,projected
+2053,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,5826,personnes,projected
+2054,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,5703,personnes,projected
+2055,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,5487,personnes,projected
+2056,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,5333,personnes,projected
+2057,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,5118,personnes,projected
+2058,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,5086,personnes,projected
+2059,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,4901,personnes,projected
+2060,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,4778,personnes,projected
+2061,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,4779,personnes,projected
+2062,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,4778,personnes,projected
+2063,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,4716,personnes,projected
+2064,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,4717,personnes,projected
+2065,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,4716,personnes,projected
+2066,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,4717,personnes,projected
+2067,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,4562,personnes,projected
+2068,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,4624,personnes,projected
+2069,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,4716,personnes,projected
+2070,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,accroissement_total,Total,Total,4501,personnes,projected
+2026,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",accroissement_total,Total,Total,304284,personnes,projected
+2027,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",accroissement_total,Total,Total,10451,personnes,projected
+2028,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",accroissement_total,Total,Total,11406,personnes,projected
+2029,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,-283242,personnes,projected
+2030,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,11376,personnes,projected
+2031,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,11313,personnes,projected
+2032,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,11036,personnes,projected
+2033,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,10975,personnes,projected
+2034,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,10820,personnes,projected
+2035,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,10574,personnes,projected
+2036,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,10327,personnes,projected
+2037,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,10173,personnes,projected
+2038,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,9988,personnes,projected
+2039,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,9834,personnes,projected
+2040,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,9649,personnes,projected
+2041,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,9341,personnes,projected
+2042,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,9001,personnes,projected
+2043,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,8725,personnes,projected
+2044,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,8446,personnes,projected
+2045,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,8354,personnes,projected
+2046,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,8139,personnes,projected
+2047,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,8107,personnes,projected
+2048,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,7800,personnes,projected
+2049,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,7707,personnes,projected
+2050,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,7614,personnes,projected
+2051,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,7460,personnes,projected
+2052,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,7245,personnes,projected
+2053,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,7152,personnes,projected
+2054,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,7028,personnes,projected
+2055,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6905,personnes,projected
+2056,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6813,personnes,projected
+2057,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6597,personnes,projected
+2058,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6597,personnes,projected
+2059,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6474,personnes,projected
+2060,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6320,personnes,projected
+2061,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6412,personnes,projected
+2062,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6474,personnes,projected
+2063,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6381,personnes,projected
+2064,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6474,personnes,projected
+2065,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6473,personnes,projected
+2066,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6536,personnes,projected
+2067,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6473,personnes,projected
+2068,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6474,personnes,projected
+2069,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6597,personnes,projected
+2070,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,accroissement_total,Total,Total,6474,personnes,projected
+2025,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,39.8,années,projected
+2026,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,40,années,projected
+2027,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,40.2,années,projected
+2028,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,40.4,années,projected
+2029,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,40.6,années,projected
+2030,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,40.8,années,projected
+2031,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,41,années,projected
+2032,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,41.2,années,projected
+2033,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,41.4,années,projected
+2034,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,41.6,années,projected
+2035,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,41.8,années,projected
+2036,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,42,années,projected
+2037,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,42.3,années,projected
+2038,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,42.5,années,projected
+2039,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,42.7,années,projected
+2040,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,43,années,projected
+2041,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,43.2,années,projected
+2042,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,43.5,années,projected
+2043,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,43.7,années,projected
+2044,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,43.9,années,projected
+2045,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,44.1,années,projected
+2046,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,44.3,années,projected
+2047,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,44.5,années,projected
+2048,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,44.7,années,projected
+2049,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,44.9,années,projected
+2050,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,45.1,années,projected
+2051,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,45.3,années,projected
+2052,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,45.5,années,projected
+2053,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,45.7,années,projected
+2054,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,45.9,années,projected
+2055,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,46.1,années,projected
+2056,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,46.4,années,projected
+2057,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,46.6,années,projected
+2058,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,46.8,années,projected
+2059,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,47.1,années,projected
+2060,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,47.3,années,projected
+2061,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,47.5,années,projected
+2062,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,47.7,années,projected
+2063,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,48,années,projected
+2064,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,48.2,années,projected
+2065,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,48.4,années,projected
+2066,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,48.6,années,projected
+2067,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,48.8,années,projected
+2068,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,49,années,projected
+2069,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,49.2,années,projected
+2070,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),age_median,Total,Total,49.4,années,projected
+2070,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",crossborder_employment_2070,Total,Total,397407,personnes,projected
+2070,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",crossborder_employment_2070,Total,Total,421673,personnes,projected
+2070,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",crossborder_employment_2070,Total,Total,476589,personnes,projected
+2070,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",crossborder_employment_2070,Total,Total,525466,personnes,projected
+2070,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",emp_growth_pct,Total,Total,0.8,%,projected
+2070,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",emp_growth_pct,Total,Total,0.9,%,projected
+2070,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",emp_growth_pct,Total,Total,1.1,%,projected
+2070,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",emp_growth_pct,Total,Total,1.3,%,projected
+2029,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,714761,personnes,projected
+2030,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,709814,personnes,projected
+2031,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,707392,personnes,projected
+2032,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,704991,personnes,projected
+2033,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,702590,personnes,projected
+2034,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,700189,personnes,projected
+2035,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,703025,personnes,projected
+2036,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,705778,personnes,projected
+2037,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,708613,personnes,projected
+2038,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,711366,personnes,projected
+2039,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,713975,personnes,projected
+2040,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,716583,personnes,projected
+2041,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,720557,personnes,projected
+2042,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,724366,personnes,projected
+2043,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,728050,personnes,projected
+2044,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,731445,personnes,projected
+2045,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,734632,personnes,projected
+2046,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,737592,personnes,projected
+2047,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,740283,personnes,projected
+2048,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,742684,personnes,projected
+2049,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,744796,personnes,projected
+2050,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,746638,personnes,projected
+2051,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,746638,personnes,projected
+2052,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,747280,personnes,projected
+2053,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,747631,personnes,projected
+2054,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,747776,personnes,projected
+2055,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,747714,personnes,projected
+2056,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,747487,personnes,projected
+2057,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,747073,personnes,projected
+2058,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,746514,personnes,projected
+2059,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,745872,personnes,projected
+2060,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,745085,personnes,projected
+2061,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,744237,personnes,projected
+2062,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,743326,personnes,projected
+2063,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,742395,personnes,projected
+2064,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,741339,personnes,projected
+2065,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,740345,personnes,projected
+2066,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,739372,personnes,projected
+2067,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,738379,personnes,projected
+2068,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,737385,personnes,projected
+2069,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,736392,personnes,projected
+2070,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,emploi_total,Total,Total,735481,personnes,projected
+2029,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,714761,personnes,projected
+2030,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,717839,personnes,projected
+2031,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,723111,personnes,projected
+2032,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,728094,personnes,projected
+2033,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,732807,personnes,projected
+2034,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,737230,personnes,projected
+2035,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,746974,personnes,projected
+2036,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,756427,personnes,projected
+2037,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,765446,personnes,projected
+2038,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,774112,personnes,projected
+2039,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,782427,personnes,projected
+2040,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,790308,personnes,projected
+2041,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,791419,personnes,projected
+2042,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,792510,personnes,projected
+2043,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,793560,personnes,projected
+2044,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,794588,personnes,projected
+2045,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,795472,personnes,projected
+2046,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,796294,personnes,projected
+2047,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,796971,personnes,projected
+2048,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,797524,personnes,projected
+2049,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,797849,personnes,projected
+2050,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,798091,personnes,projected
+2051,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,796574,personnes,projected
+2052,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,795760,personnes,projected
+2053,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,794761,personnes,projected
+2054,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,793740,personnes,projected
+2055,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,792513,personnes,projected
+2056,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,791285,personnes,projected
+2057,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,789892,personnes,projected
+2058,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,788458,personnes,projected
+2059,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,786941,personnes,projected
+2060,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,785424,personnes,projected
+2061,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,783844,personnes,projected
+2062,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,782265,personnes,projected
+2063,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,780748,personnes,projected
+2064,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,779169,personnes,projected
+2065,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,777651,personnes,projected
+2066,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,776134,personnes,projected
+2067,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,774762,personnes,projected
+2068,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,773390,personnes,projected
+2069,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,772017,personnes,projected
+2070,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,emploi_total,Total,Total,770790,personnes,projected
+2029,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,714761,personnes,projected
+2030,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,720313,personnes,projected
+2031,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,728679,personnes,projected
+2032,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,737273,personnes,projected
+2033,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,746074,personnes,projected
+2034,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,755165,personnes,projected
+2035,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,770321,personnes,projected
+2036,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,785705,personnes,projected
+2037,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,801150,personnes,projected
+2038,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,816762,personnes,projected
+2039,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,832414,personnes,projected
+2040,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,848150,personnes,projected
+2041,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,852149,personnes,projected
+2042,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,855858,personnes,projected
+2043,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,859422,personnes,projected
+2044,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,862717,personnes,projected
+2045,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,865723,personnes,projected
+2046,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,868438,personnes,projected
+2047,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,870947,personnes,projected
+2048,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,873104,personnes,projected
+2049,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,874991,personnes,projected
+2050,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,876506,personnes,projected
+2051,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,876179,personnes,projected
+2052,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,876432,personnes,projected
+2053,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,876456,personnes,projected
+2054,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,876212,personnes,projected
+2055,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,875761,personnes,projected
+2056,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,875082,personnes,projected
+2057,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,874279,personnes,projected
+2058,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,873248,personnes,projected
+2059,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,872155,personnes,projected
+2060,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,870834,personnes,projected
+2061,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,869534,personnes,projected
+2062,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,868089,personnes,projected
+2063,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,866561,personnes,projected
+2064,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,864971,personnes,projected
+2065,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,863382,personnes,projected
+2066,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,861709,personnes,projected
+2067,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,860119,personnes,projected
+2068,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,858467,personnes,projected
+2069,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,856878,personnes,projected
+2070,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,emploi_total,Total,Total,855205,personnes,projected
+2029,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,714761,personnes,projected
+2030,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,729044,personnes,projected
+2031,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,745872,personnes,projected
+2032,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,762700,personnes,projected
+2033,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,779529,personnes,projected
+2034,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,796419,personnes,projected
+2035,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,819561,personnes,projected
+2036,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,842599,personnes,projected
+2037,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,865596,personnes,projected
+2038,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,888365,personnes,projected
+2039,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,911051,personnes,projected
+2040,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,933531,personnes,projected
+2041,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,935601,personnes,projected
+2042,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,937650,personnes,projected
+2043,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,939492,personnes,projected
+2044,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,941251,personnes,projected
+2045,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,942866,personnes,projected
+2046,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,944294,personnes,projected
+2047,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,945557,personnes,projected
+2048,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,946695,personnes,projected
+2049,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,947544,personnes,projected
+2050,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,948248,personnes,projected
+2051,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,947192,personnes,projected
+2052,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,946840,personnes,projected
+2053,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,946261,personnes,projected
+2054,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,945557,personnes,projected
+2055,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,944708,personnes,projected
+2056,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,943797,personnes,projected
+2057,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,942804,personnes,projected
+2058,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,941665,personnes,projected
+2059,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,940548,personnes,projected
+2060,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,939264,personnes,projected
+2061,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,938002,personnes,projected
+2062,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,936718,personnes,projected
+2063,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,935373,personnes,projected
+2064,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,934110,personnes,projected
+2065,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,932765,personnes,projected
+2066,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,931481,personnes,projected
+2067,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,930281,personnes,projected
+2068,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,929018,personnes,projected
+2069,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,927880,personnes,projected
+2070,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,emploi_total,Total,Total,926762,personnes,projected
+2070,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",national_employment_2070,Total,Total,338074,personnes,projected
+2070,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",national_employment_2070,Total,Total,349117,personnes,projected
+2070,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",national_employment_2070,Total,Total,378616,personnes,projected
+2070,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",national_employment_2070,Total,Total,401296,personnes,projected
+2070,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",old_age_dep_ratio_65_20_64,Total,Total,58,%,projected
+2070,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",old_age_dep_ratio_65_20_64,Total,Total,56,%,projected
+2070,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",old_age_dep_ratio_65_20_64,Total,Total,52,%,projected
+2070,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",old_age_dep_ratio_65_20_64,Total,Total,49,%,projected
+2070,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",pib_growth_pct,Total,Total,0.8,%,projected
+2070,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",pib_growth_pct,Total,Total,1.1,%,projected
+2070,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",pib_growth_pct,Total,Total,1.8,%,projected
+2070,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",pib_growth_pct,Total,Total,2.2,%,projected
+2025,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,681973,personnes,projected
+2026,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,690899,personnes,projected
+2027,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,699848,personnes,projected
+2028,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,709419,personnes,projected
+2029,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,719584,personnes,projected
+2030,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,730362,personnes,projected
+2031,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,741738,personnes,projected
+2032,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,753705,personnes,projected
+2033,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,765451,personnes,projected
+2034,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,776823,personnes,projected
+2035,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,787827,personnes,projected
+2036,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,798423,personnes,projected
+2037,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,808757,personnes,projected
+2038,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,818698,personnes,projected
+2039,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,828272,personnes,projected
+2040,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,837509,personnes,projected
+2041,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,846383,personnes,projected
+2042,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,854908,personnes,projected
+2043,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,863089,personnes,projected
+2044,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,870930,personnes,projected
+2045,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,878414,personnes,projected
+2046,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,885534,personnes,projected
+2047,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,892291,personnes,projected
+2048,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,898675,personnes,projected
+2049,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,904684,personnes,projected
+2050,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,910321,personnes,projected
+2051,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,915580,personnes,projected
+2052,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,920480,personnes,projected
+2053,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,925011,personnes,projected
+2054,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,929170,personnes,projected
+2055,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,933017,personnes,projected
+2056,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,936547,personnes,projected
+2057,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,939745,personnes,projected
+2058,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,942689,personnes,projected
+2059,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,945342,personnes,projected
+2060,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,947757,personnes,projected
+2061,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,949958,personnes,projected
+2062,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,951963,personnes,projected
+2063,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,953811,personnes,projected
+2064,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,955474,personnes,projected
+2065,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,956999,personnes,projected
+2066,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,958402,personnes,projected
+2067,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,959625,personnes,projected
+2068,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,960729,personnes,projected
+2069,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,961728,personnes,projected
+2070,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),population,Total,Total,962648,personnes,projected
+2000,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,439000,personnes,observed
+2001,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,439539,personnes,observed
+2001,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,444000,personnes,observed
+2002,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,448300,personnes,observed
+2003,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,455000,personnes,observed
+2004,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,461200,personnes,observed
+2005,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,469100,personnes,observed
+2006,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,476200,personnes,observed
+2007,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,483800,personnes,observed
+2008,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,493500,personnes,observed
+2009,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,502100,personnes,observed
+2010,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,511800,personnes,observed
+2011,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,512353,personnes,observed
+2011,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,524900,personnes,observed
+2012,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,537000,personnes,observed
+2013,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,549700,personnes,observed
+2014,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,563000,personnes,observed
+2015,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,576200,personnes,observed
+2016,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,590667,personnes,observed
+2017,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,602005,personnes,observed
+2018,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,613894,personnes,observed
+2019,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,626108,personnes,observed
+2020,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,634730,personnes,observed
+2021,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,645397,personnes,observed
+2022,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,660809,personnes,observed
+2023,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,672050,personnes,observed
+2024,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,681973,personnes,observed
+2025,STATEC (Observé),OBS,Observé (STATEC LUSTAT),population,Total,Total,690959,personnes,observed
+2026,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",population,Total,Total,995243,personnes,projected
+2027,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",population,Total,Total,1005694,personnes,projected
+2028,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",population,Total,Total,1017100,personnes,projected
+2029,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,733858,personnes,projected
+2030,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,745234,personnes,projected
+2031,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,756424,personnes,projected
+2032,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,767306,personnes,projected
+2033,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,778003,personnes,projected
+2034,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,788330,personnes,projected
+2035,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,798257,personnes,projected
+2036,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,807875,personnes,projected
+2037,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,817154,personnes,projected
+2038,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,826094,personnes,projected
+2039,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,834725,personnes,projected
+2040,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,842895,personnes,projected
+2041,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,850478,personnes,projected
+2042,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,857568,personnes,projected
+2043,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,864258,personnes,projected
+2044,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,870577,personnes,projected
+2045,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,876558,personnes,projected
+2046,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,882169,personnes,projected
+2047,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,887594,personnes,projected
+2048,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,892650,personnes,projected
+2049,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,897366,personnes,projected
+2050,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,901867,personnes,projected
+2051,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,906091,personnes,projected
+2052,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,909944,personnes,projected
+2053,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,913551,personnes,projected
+2054,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,916849,personnes,projected
+2055,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,919870,personnes,projected
+2056,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,922676,personnes,projected
+2057,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,925204,personnes,projected
+2058,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,927516,personnes,projected
+2059,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,929643,personnes,projected
+2060,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,931523,personnes,projected
+2061,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,933280,personnes,projected
+2062,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,934976,personnes,projected
+2063,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,936517,personnes,projected
+2064,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,937935,personnes,projected
+2065,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,939261,personnes,projected
+2066,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,940463,personnes,projected
+2067,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,941511,personnes,projected
+2068,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,942498,personnes,projected
+2069,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,943422,personnes,projected
+2070,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,population,Total,Total,944039,personnes,projected
+2026,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",population,Total,Total,995243,personnes,projected
+2027,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",population,Total,Total,1005694,personnes,projected
+2028,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",population,Total,Total,1017100,personnes,projected
+2029,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,733858,personnes,projected
+2030,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,745233,personnes,projected
+2031,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,756484,personnes,projected
+2032,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,767458,personnes,projected
+2033,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,778216,personnes,projected
+2034,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,788758,personnes,projected
+2035,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,798868,personnes,projected
+2036,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,808794,personnes,projected
+2037,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,818411,personnes,projected
+2038,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,827690,personnes,projected
+2039,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,836690,personnes,projected
+2040,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,845352,personnes,projected
+2041,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,853490,personnes,projected
+2042,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,861165,personnes,projected
+2043,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,868378,personnes,projected
+2044,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,875221,personnes,projected
+2045,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,881817,personnes,projected
+2046,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,888074,personnes,projected
+2047,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,894116,personnes,projected
+2048,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,899818,personnes,projected
+2049,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,905150,personnes,projected
+2050,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,910359,personnes,projected
+2051,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,915198,personnes,projected
+2052,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,919698,personnes,projected
+2053,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,923983,personnes,projected
+2054,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,927989,personnes,projected
+2055,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,931719,personnes,projected
+2056,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,935171,personnes,projected
+2057,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,938407,personnes,projected
+2058,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,941427,personnes,projected
+2059,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,944170,personnes,projected
+2060,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,946759,personnes,projected
+2061,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,949224,personnes,projected
+2062,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,951628,personnes,projected
+2063,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,953785,personnes,projected
+2064,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,955911,personnes,projected
+2065,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,957883,personnes,projected
+2066,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,959763,personnes,projected
+2067,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,961520,personnes,projected
+2068,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,963153,personnes,projected
+2069,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,964693,personnes,projected
+2070,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,population,Total,Total,966018,personnes,projected
+2026,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",population,Total,Total,995243,personnes,projected
+2027,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",population,Total,Total,1005694,personnes,projected
+2028,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",population,Total,Total,1017100,personnes,projected
+2029,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,733858,personnes,projected
+2030,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,745233,personnes,projected
+2031,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,756485,personnes,projected
+2032,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,767521,personnes,projected
+2033,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,778342,personnes,projected
+2034,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,788977,personnes,projected
+2035,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,799242,personnes,projected
+2036,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,809354,personnes,projected
+2037,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,819126,personnes,projected
+2038,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,828744,personnes,projected
+2039,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,838115,personnes,projected
+2040,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,847178,personnes,projected
+2041,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,855810,personnes,projected
+2042,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,864041,personnes,projected
+2043,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,871994,personnes,projected
+2044,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,879639,personnes,projected
+2045,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,887037,personnes,projected
+2046,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,894282,personnes,projected
+2047,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,901310,personnes,projected
+2048,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,908123,personnes,projected
+2049,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,914720,personnes,projected
+2050,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,921132,personnes,projected
+2051,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,927390,personnes,projected
+2052,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,933370,personnes,projected
+2053,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,939196,personnes,projected
+2054,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,944899,personnes,projected
+2055,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,950386,personnes,projected
+2056,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,955719,personnes,projected
+2057,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,960837,personnes,projected
+2058,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,965923,personnes,projected
+2059,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,970824,personnes,projected
+2060,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,975602,personnes,projected
+2061,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,980381,personnes,projected
+2062,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,985159,personnes,projected
+2063,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,989875,personnes,projected
+2064,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,994592,personnes,projected
+2065,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,999308,personnes,projected
+2066,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,1004025,personnes,projected
+2067,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,1008587,personnes,projected
+2068,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,1013211,personnes,projected
+2069,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,1017927,personnes,projected
+2070,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,population,Total,Total,1022428,personnes,projected
+2026,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",population,Total,Total,995243,personnes,projected
+2027,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",population,Total,Total,1005694,personnes,projected
+2028,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",population,Total,Total,1017100,personnes,projected
+2029,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,733858,personnes,projected
+2030,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,745234,personnes,projected
+2031,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,756547,personnes,projected
+2032,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,767583,personnes,projected
+2033,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,778558,personnes,projected
+2034,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,789378,personnes,projected
+2035,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,799952,personnes,projected
+2036,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,810279,personnes,projected
+2037,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,820452,personnes,projected
+2038,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,830440,personnes,projected
+2039,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,840274,personnes,projected
+2040,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,849923,personnes,projected
+2041,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,859264,personnes,projected
+2042,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,868265,personnes,projected
+2043,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,876990,personnes,projected
+2044,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,885436,personnes,projected
+2045,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,893790,personnes,projected
+2046,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,901929,personnes,projected
+2047,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,910036,personnes,projected
+2048,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,917836,personnes,projected
+2049,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,925543,personnes,projected
+2050,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,933157,personnes,projected
+2051,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,940617,personnes,projected
+2052,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,947862,personnes,projected
+2053,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,955014,personnes,projected
+2054,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,962042,personnes,projected
+2055,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,968947,personnes,projected
+2056,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,975760,personnes,projected
+2057,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,982357,personnes,projected
+2058,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,988954,personnes,projected
+2059,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,995428,personnes,projected
+2060,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,1001748,personnes,projected
+2061,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,1008160,personnes,projected
+2062,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,1014634,personnes,projected
+2063,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,1021015,personnes,projected
+2064,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,1027489,personnes,projected
+2065,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,1033962,personnes,projected
+2066,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,1040498,personnes,projected
+2067,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,1046971,personnes,projected
+2068,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,1053445,personnes,projected
+2069,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,1060042,personnes,projected
+2070,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,population,Total,Total,1066516,personnes,projected
+2070,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",prod_growth_pct,Total,Total,0.4,%,projected
+2070,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",prod_growth_pct,Total,Total,0.6,%,projected
+2070,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",prod_growth_pct,Total,Total,1.1,%,projected
+2070,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",prod_growth_pct,Total,Total,1.3,%,projected
+2025,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,22,%,projected
+2026,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,22.5,%,projected
+2027,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,23.1,%,projected
+2028,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,23.6,%,projected
+2029,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,24.1,%,projected
+2030,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,24.7,%,projected
+2031,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,25.2,%,projected
+2032,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,25.7,%,projected
+2033,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,26.2,%,projected
+2034,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,26.7,%,projected
+2035,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,27.2,%,projected
+2036,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,27.6,%,projected
+2037,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,28,%,projected
+2038,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,28.5,%,projected
+2039,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,28.8,%,projected
+2040,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,29.2,%,projected
+2041,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,29.7,%,projected
+2042,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,30.1,%,projected
+2043,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,30.6,%,projected
+2044,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,31,%,projected
+2045,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,31.5,%,projected
+2046,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,32.1,%,projected
+2047,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,32.7,%,projected
+2048,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,33.2,%,projected
+2049,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,33.7,%,projected
+2050,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,34.2,%,projected
+2051,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,34.8,%,projected
+2052,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,35.4,%,projected
+2053,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,36,%,projected
+2054,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,36.7,%,projected
+2055,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,37.4,%,projected
+2056,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,38.2,%,projected
+2057,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,38.9,%,projected
+2058,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,39.6,%,projected
+2059,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,40.3,%,projected
+2060,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,41,%,projected
+2061,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,41.8,%,projected
+2062,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,42.5,%,projected
+2063,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,43.3,%,projected
+2064,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,44,%,projected
+2065,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,44.8,%,projected
+2066,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,45.5,%,projected
+2067,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,46.1,%,projected
+2068,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,46.6,%,projected
+2069,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,47.2,%,projected
+2070,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_15_64,Total,Total,47.9,%,projected
+2025,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,23.9,%,projected
+2026,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,24.4,%,projected
+2027,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,25,%,projected
+2028,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,25.6,%,projected
+2029,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,26.1,%,projected
+2030,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,26.8,%,projected
+2031,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,27.3,%,projected
+2032,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,27.9,%,projected
+2033,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,28.4,%,projected
+2034,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,28.9,%,projected
+2035,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,29.4,%,projected
+2036,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,29.9,%,projected
+2037,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,30.3,%,projected
+2038,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,30.8,%,projected
+2039,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,31.1,%,projected
+2040,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,31.5,%,projected
+2041,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,31.9,%,projected
+2042,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,32.3,%,projected
+2043,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,32.8,%,projected
+2044,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,33.3,%,projected
+2045,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,33.8,%,projected
+2046,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,34.4,%,projected
+2047,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,35,%,projected
+2048,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,35.7,%,projected
+2049,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,36.2,%,projected
+2050,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,36.8,%,projected
+2051,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,37.4,%,projected
+2052,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,38.1,%,projected
+2053,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,38.8,%,projected
+2054,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,39.6,%,projected
+2055,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,40.4,%,projected
+2056,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,41.2,%,projected
+2057,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,41.9,%,projected
+2058,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,42.8,%,projected
+2059,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,43.5,%,projected
+2060,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,44.3,%,projected
+2061,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,45.1,%,projected
+2062,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,46,%,projected
+2063,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,46.8,%,projected
+2064,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,47.6,%,projected
+2065,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,48.4,%,projected
+2066,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,49.2,%,projected
+2067,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,49.8,%,projected
+2068,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,50.4,%,projected
+2069,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,51,%,projected
+2070,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),ratio_dependance_65_20_64,Total,Total,51.7,%,projected
+2025,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,6777,personnes,projected
+2026,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,7192,personnes,projected
+2027,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,7779,personnes,projected
+2028,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,8363,personnes,projected
+2029,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,8947,personnes,projected
+2030,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,9536,personnes,projected
+2031,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,10116,personnes,projected
+2032,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,9907,personnes,projected
+2033,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,9526,personnes,projected
+2034,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,9180,personnes,projected
+2035,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,8852,personnes,projected
+2036,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,8651,personnes,projected
+2037,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,8349,personnes,projected
+2038,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,8054,personnes,projected
+2039,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,7775,personnes,projected
+2040,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,7506,personnes,projected
+2041,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,7245,personnes,projected
+2042,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,6990,personnes,projected
+2043,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,6731,personnes,projected
+2044,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,6488,personnes,projected
+2045,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,6246,personnes,projected
+2046,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,6009,personnes,projected
+2047,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,5779,personnes,projected
+2048,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,5552,personnes,projected
+2049,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,5337,personnes,projected
+2050,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,5138,personnes,projected
+2051,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,4938,personnes,projected
+2052,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,4750,personnes,projected
+2053,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,4579,personnes,projected
+2054,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,4444,personnes,projected
+2055,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,4314,personnes,projected
+2056,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,4151,personnes,projected
+2057,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,4083,personnes,projected
+2058,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,3953,personnes,projected
+2059,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,3849,personnes,projected
+2060,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,3777,personnes,projected
+2061,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,3694,personnes,projected
+2062,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,3625,personnes,projected
+2063,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,3522,personnes,projected
+2064,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,3460,personnes,projected
+2065,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,3398,personnes,projected
+2066,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,3258,personnes,projected
+2067,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,3213,personnes,projected
+2068,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,3155,personnes,projected
+2069,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,3130,personnes,projected
+2070,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_migratoire,Total,Total,3083,personnes,projected
+2000,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,5400,personnes,observed
+2001,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,5050,personnes,observed
+2002,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,4250,personnes,observed
+2003,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,6700,personnes,observed
+2004,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,6200,personnes,observed
+2005,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,7900,personnes,observed
+2006,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,7100,personnes,observed
+2007,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,7612,personnes,observed
+2008,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,9701,personnes,observed
+2009,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,8566,personnes,observed
+2010,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,9963,personnes,observed
+2011,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,12824,personnes,observed
+2012,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,12186,personnes,observed
+2013,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,12641,personnes,observed
+2014,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,13278,personnes,observed
+2015,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,13291,personnes,observed
+2016,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,11529,personnes,observed
+2017,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,12459,personnes,observed
+2018,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,12615,personnes,observed
+2019,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,13022,personnes,observed
+2020,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,9470,personnes,observed
+2021,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,11577,personnes,observed
+2022,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,16252,personnes,observed
+2023,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,12265,personnes,observed
+2024,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,11269,personnes,observed
+2025,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_migratoire,Total,Total,9887,personnes,observed
+2026,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",solde_migratoire,Total,Total,13778,personnes,projected
+2027,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",solde_migratoire,Total,Total,14481,personnes,projected
+2028,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",solde_migratoire,Total,Total,15253,personnes,projected
+2029,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,9712,personnes,projected
+2030,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,9336,personnes,projected
+2031,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,9143,personnes,projected
+2032,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,8929,personnes,projected
+2033,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,8718,personnes,projected
+2034,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,8478,personnes,projected
+2035,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,8082,personnes,projected
+2036,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,7779,personnes,projected
+2037,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,7460,personnes,projected
+2038,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,7203,personnes,projected
+2039,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,6980,personnes,projected
+2040,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,6523,personnes,projected
+2041,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,6134,personnes,projected
+2042,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,5799,personnes,projected
+2043,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,5523,personnes,projected
+2044,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,5302,personnes,projected
+2045,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,5111,personnes,projected
+2046,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,4953,personnes,projected
+2047,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,4811,personnes,projected
+2048,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,4663,personnes,projected
+2049,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,4546,personnes,projected
+2050,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,4443,personnes,projected
+2051,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,4353,personnes,projected
+2052,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,4265,personnes,projected
+2053,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,4189,personnes,projected
+2054,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,4112,personnes,projected
+2055,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,4030,personnes,projected
+2056,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3963,personnes,projected
+2057,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3884,personnes,projected
+2058,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3818,personnes,projected
+2059,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3748,personnes,projected
+2060,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3686,personnes,projected
+2061,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3641,personnes,projected
+2062,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3591,personnes,projected
+2063,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3550,personnes,projected
+2064,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3507,personnes,projected
+2065,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3464,personnes,projected
+2066,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3430,personnes,projected
+2067,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3392,personnes,projected
+2068,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3355,personnes,projected
+2069,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3317,personnes,projected
+2070,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_migratoire,Total,Total,3284,personnes,projected
+2026,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",solde_migratoire,Total,Total,13778,personnes,projected
+2027,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",solde_migratoire,Total,Total,14481,personnes,projected
+2028,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",solde_migratoire,Total,Total,15253,personnes,projected
+2029,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,9712,personnes,projected
+2030,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,9343,personnes,projected
+2031,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,9177,personnes,projected
+2032,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,9001,personnes,projected
+2033,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,8835,personnes,projected
+2034,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,8642,personnes,projected
+2035,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,8291,personnes,projected
+2036,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,8033,personnes,projected
+2037,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,7760,personnes,projected
+2038,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,7546,personnes,projected
+2039,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,7369,personnes,projected
+2040,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,6954,personnes,projected
+2041,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,6600,personnes,projected
+2042,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,6281,personnes,projected
+2043,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,6014,personnes,projected
+2044,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,5799,personnes,projected
+2045,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,5613,personnes,projected
+2046,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,5460,personnes,projected
+2047,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,5323,personnes,projected
+2048,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,5174,personnes,projected
+2049,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,5057,personnes,projected
+2050,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4953,personnes,projected
+2051,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4866,personnes,projected
+2052,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4778,personnes,projected
+2053,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4700,personnes,projected
+2054,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4622,personnes,projected
+2055,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4535,personnes,projected
+2056,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4463,personnes,projected
+2057,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4377,personnes,projected
+2058,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4305,personnes,projected
+2059,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4227,personnes,projected
+2060,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4159,personnes,projected
+2061,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4110,personnes,projected
+2062,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4053,personnes,projected
+2063,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,4007,personnes,projected
+2064,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,3958,personnes,projected
+2065,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,3908,personnes,projected
+2066,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,3868,personnes,projected
+2067,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,3823,personnes,projected
+2068,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,3779,personnes,projected
+2069,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,3732,personnes,projected
+2070,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_migratoire,Total,Total,3692,personnes,projected
+2026,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",solde_migratoire,Total,Total,13778,personnes,projected
+2027,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",solde_migratoire,Total,Total,14481,personnes,projected
+2028,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",solde_migratoire,Total,Total,15253,personnes,projected
+2029,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,9712,personnes,projected
+2030,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,9345,personnes,projected
+2031,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,9192,personnes,projected
+2032,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,9038,personnes,projected
+2033,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,8898,personnes,projected
+2034,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,8739,personnes,projected
+2035,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,8423,personnes,projected
+2036,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,8204,personnes,projected
+2037,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,7975,personnes,projected
+2038,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,7811,personnes,projected
+2039,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,7689,personnes,projected
+2040,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,7359,personnes,projected
+2041,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,7086,personnes,projected
+2042,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6836,personnes,projected
+2043,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6634,personnes,projected
+2044,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6486,personnes,projected
+2045,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6367,personnes,projected
+2046,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6284,personnes,projected
+2047,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6216,personnes,projected
+2048,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6129,personnes,projected
+2049,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6081,personnes,projected
+2050,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6048,personnes,projected
+2051,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6033,personnes,projected
+2052,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6016,personnes,projected
+2053,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6013,personnes,projected
+2054,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6006,personnes,projected
+2055,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,5985,personnes,projected
+2056,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,5981,personnes,projected
+2057,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,5952,personnes,projected
+2058,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,5943,personnes,projected
+2059,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,5922,personnes,projected
+2060,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,5911,personnes,projected
+2061,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,5931,personnes,projected
+2062,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,5939,personnes,projected
+2063,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,5961,personnes,projected
+2064,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,5977,personnes,projected
+2065,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,5992,personnes,projected
+2066,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6020,personnes,projected
+2067,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6037,personnes,projected
+2068,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6054,personnes,projected
+2069,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6064,personnes,projected
+2070,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_migratoire,Total,Total,6084,personnes,projected
+2026,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",solde_migratoire,Total,Total,13778,personnes,projected
+2027,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",solde_migratoire,Total,Total,14481,personnes,projected
+2028,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",solde_migratoire,Total,Total,15253,personnes,projected
+2029,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,9712,personnes,projected
+2030,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,9352,personnes,projected
+2031,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,9228,personnes,projected
+2032,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,9112,personnes,projected
+2033,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,9020,personnes,projected
+2034,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,8910,personnes,projected
+2035,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,8641,personnes,projected
+2036,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,8478,personnes,projected
+2037,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,8301,personnes,projected
+2038,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,8194,personnes,projected
+2039,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,8134,personnes,projected
+2040,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7890,personnes,projected
+2041,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7697,personnes,projected
+2042,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7501,personnes,projected
+2043,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7341,personnes,projected
+2044,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7233,personnes,projected
+2045,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7152,personnes,projected
+2046,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7106,personnes,projected
+2047,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7074,personnes,projected
+2048,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7016,personnes,projected
+2049,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7000,personnes,projected
+2050,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7000,personnes,projected
+2051,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7020,personnes,projected
+2052,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7036,personnes,projected
+2053,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7063,personnes,projected
+2054,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7087,personnes,projected
+2055,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7090,personnes,projected
+2056,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7112,personnes,projected
+2057,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7102,personnes,projected
+2058,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7110,personnes,projected
+2059,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7104,personnes,projected
+2060,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7108,personnes,projected
+2061,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7151,personnes,projected
+2062,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7178,personnes,projected
+2063,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7221,personnes,projected
+2064,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7256,personnes,projected
+2065,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7288,personnes,projected
+2066,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7334,personnes,projected
+2067,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7369,personnes,projected
+2068,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7399,personnes,projected
+2069,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7421,personnes,projected
+2070,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_migratoire,Total,Total,7454,personnes,projected
+2025,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,2150,personnes,projected
+2026,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1756,personnes,projected
+2027,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1782,personnes,projected
+2028,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1806,personnes,projected
+2029,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1826,personnes,projected
+2030,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1840,personnes,projected
+2031,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1850,personnes,projected
+2032,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1852,personnes,projected
+2033,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1844,personnes,projected
+2034,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1828,personnes,projected
+2035,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1755,personnes,projected
+2036,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1679,personnes,projected
+2037,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1603,personnes,projected
+2038,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1527,personnes,projected
+2039,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1451,personnes,projected
+2040,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1374,personnes,projected
+2041,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1290,personnes,projected
+2042,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1199,personnes,projected
+2043,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,1102,personnes,projected
+2044,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,995,personnes,projected
+2045,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,875,personnes,projected
+2046,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,746,personnes,projected
+2047,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,605,personnes,projected
+2048,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,455,personnes,projected
+2049,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,297,personnes,projected
+2050,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,130,personnes,projected
+2051,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-45,personnes,projected
+2052,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-226,personnes,projected
+2053,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-410,personnes,projected
+2054,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-597,personnes,projected
+2055,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-783,personnes,projected
+2056,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-963,personnes,projected
+2057,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-1137,personnes,projected
+2058,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-1296,personnes,projected
+2059,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-1442,personnes,projected
+2060,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-1572,personnes,projected
+2061,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-1684,personnes,projected
+2062,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-1781,personnes,projected
+2063,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-1863,personnes,projected
+2064,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-1932,personnes,projected
+2065,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-1993,personnes,projected
+2066,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-2049,personnes,projected
+2067,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-2103,personnes,projected
+2068,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-2157,personnes,projected
+2069,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-2213,personnes,projected
+2070,Eurostat (EUROPOP2025),EUROPOP2025,Eurostat Baseline (EUROPOP2025),solde_naturel,Total,Total,-2274,personnes,projected
+2000,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1969,personnes,observed
+2001,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1740,personnes,observed
+2002,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1601,personnes,observed
+2003,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1250,personnes,observed
+2004,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1874,personnes,observed
+2005,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1750,personnes,observed
+2006,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1748,personnes,observed
+2007,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1611,personnes,observed
+2008,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,2001,personnes,observed
+2009,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1983,personnes,observed
+2010,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,2114,personnes,observed
+2011,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1820,personnes,observed
+2012,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,2150,personnes,observed
+2013,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,2293,personnes,observed
+2014,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,2229,personnes,observed
+2015,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,2132,personnes,observed
+2016,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,2083,personnes,observed
+2017,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1911,personnes,observed
+2018,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1956,personnes,observed
+2019,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1947,personnes,observed
+2020,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1850,personnes,observed
+2021,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,2201,personnes,observed
+2022,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,2046,personnes,observed
+2023,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1889,personnes,observed
+2024,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,1988,personnes,observed
+2025,STATEC (Observé),OBS,Observé (STATEC LUSTAT),solde_naturel,Total,Total,2043,personnes,observed
+2026,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",solde_naturel,Total,Total,290506,personnes,projected
+2027,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",solde_naturel,Total,Total,-4030,personnes,projected
+2028,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",solde_naturel,Total,Total,-3847,personnes,projected
+2029,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-292954,personnes,projected
+2030,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,2040,personnes,projected
+2031,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,2047,personnes,projected
+2032,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,1953,personnes,projected
+2033,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,1979,personnes,projected
+2034,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,1849,personnes,projected
+2035,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,1845,personnes,projected
+2036,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,1839,personnes,projected
+2037,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,1819,personnes,projected
+2038,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,1737,personnes,projected
+2039,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,1651,personnes,projected
+2040,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,1647,personnes,projected
+2041,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,1449,personnes,projected
+2042,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,1291,personnes,projected
+2043,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,1167,personnes,projected
+2044,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,1017,personnes,projected
+2045,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,870,personnes,projected
+2046,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,658,personnes,projected
+2047,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,614,personnes,projected
+2048,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,393,personnes,projected
+2049,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,170,personnes,projected
+2050,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,58,personnes,projected
+2051,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-129,personnes,projected
+2052,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-412,personnes,projected
+2053,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-582,personnes,projected
+2054,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-814,personnes,projected
+2055,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-1009,personnes,projected
+2056,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-1157,personnes,projected
+2057,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-1356,personnes,projected
+2058,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-1506,personnes,projected
+2059,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-1621,personnes,projected
+2060,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-1806,personnes,projected
+2061,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-1884,personnes,projected
+2062,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-1895,personnes,projected
+2063,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-2009,personnes,projected
+2064,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-2089,personnes,projected
+2065,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-2138,personnes,projected
+2066,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-2228,personnes,projected
+2067,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-2344,personnes,projected
+2068,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-2368,personnes,projected
+2069,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-2393,personnes,projected
+2070,STATEC (Analyses 02/26),SC1,Scénario 1 : Faible productivité,solde_naturel,Total,Total,-2667,personnes,projected
+2026,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",solde_naturel,Total,Total,290506,personnes,projected
+2027,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",solde_naturel,Total,Total,-4030,personnes,projected
+2028,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",solde_naturel,Total,Total,-3847,personnes,projected
+2029,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-292954,personnes,projected
+2030,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,2032,personnes,projected
+2031,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,2074,personnes,projected
+2032,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,1973,personnes,projected
+2033,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,1923,personnes,projected
+2034,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,1900,personnes,projected
+2035,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,1819,personnes,projected
+2036,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,1893,personnes,projected
+2037,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,1857,personnes,projected
+2038,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,1733,personnes,projected
+2039,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,1631,personnes,projected
+2040,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,1708,personnes,projected
+2041,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,1538,personnes,projected
+2042,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,1394,personnes,projected
+2043,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,1199,personnes,projected
+2044,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,1044,personnes,projected
+2045,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,983,personnes,projected
+2046,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,797,personnes,projected
+2047,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,719,personnes,projected
+2048,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,528,personnes,projected
+2049,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,275,personnes,projected
+2050,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,256,personnes,projected
+2051,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-27,personnes,projected
+2052,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-278,personnes,projected
+2053,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-415,personnes,projected
+2054,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-616,personnes,projected
+2055,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-805,personnes,projected
+2056,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-1011,personnes,projected
+2057,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-1141,personnes,projected
+2058,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-1285,personnes,projected
+2059,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-1484,personnes,projected
+2060,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-1570,personnes,projected
+2061,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-1645,personnes,projected
+2062,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-1649,personnes,projected
+2063,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-1850,personnes,projected
+2064,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-1832,personnes,projected
+2065,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-1936,personnes,projected
+2066,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-1988,personnes,projected
+2067,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-2066,personnes,projected
+2068,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-2146,personnes,projected
+2069,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-2192,personnes,projected
+2070,STATEC (Analyses 02/26),SC2,Scénario 2 : Investissement intensif,solde_naturel,Total,Total,-2367,personnes,projected
+2026,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",solde_naturel,Total,Total,290506,personnes,projected
+2027,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",solde_naturel,Total,Total,-4030,personnes,projected
+2028,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",solde_naturel,Total,Total,-3847,personnes,projected
+2029,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-292954,personnes,projected
+2030,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,2030,personnes,projected
+2031,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,2060,personnes,projected
+2032,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1998,personnes,projected
+2033,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1923,personnes,projected
+2034,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1896,personnes,projected
+2035,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1842,personnes,projected
+2036,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1908,personnes,projected
+2037,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1797,personnes,projected
+2038,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1807,personnes,projected
+2039,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1682,personnes,projected
+2040,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1704,personnes,projected
+2041,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1546,personnes,projected
+2042,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1395,personnes,projected
+2043,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1319,personnes,projected
+2044,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1159,personnes,projected
+2045,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,1031,personnes,projected
+2046,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,961,personnes,projected
+2047,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,812,personnes,projected
+2048,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,684,personnes,projected
+2049,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,516,personnes,projected
+2050,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,364,personnes,projected
+2051,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,225,personnes,projected
+2052,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-36,personnes,projected
+2053,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-187,personnes,projected
+2054,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-303,personnes,projected
+2055,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-498,personnes,projected
+2056,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-648,personnes,projected
+2057,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-834,personnes,projected
+2058,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-857,personnes,projected
+2059,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-1021,personnes,projected
+2060,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-1133,personnes,projected
+2061,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-1152,personnes,projected
+2062,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-1161,personnes,projected
+2063,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-1245,personnes,projected
+2064,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-1260,personnes,projected
+2065,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-1276,personnes,projected
+2066,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-1303,personnes,projected
+2067,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-1475,personnes,projected
+2068,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-1430,personnes,projected
+2069,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-1348,personnes,projected
+2070,STATEC (Analyses 02/26),SC3,Scénario 3 : Innovation importée,solde_naturel,Total,Total,-1583,personnes,projected
+2026,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",solde_naturel,Total,Total,290506,personnes,projected
+2027,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",solde_naturel,Total,Total,-4030,personnes,projected
+2028,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",solde_naturel,Total,Total,-3847,personnes,projected
+2029,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-292954,personnes,projected
+2030,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,2024,personnes,projected
+2031,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,2085,personnes,projected
+2032,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1924,personnes,projected
+2033,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1955,personnes,projected
+2034,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1910,personnes,projected
+2035,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1933,personnes,projected
+2036,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1849,personnes,projected
+2037,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1872,personnes,projected
+2038,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1794,personnes,projected
+2039,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1700,personnes,projected
+2040,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1759,personnes,projected
+2041,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1644,personnes,projected
+2042,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1500,personnes,projected
+2043,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1384,personnes,projected
+2044,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1213,personnes,projected
+2045,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1202,personnes,projected
+2046,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1033,personnes,projected
+2047,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,1033,personnes,projected
+2048,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,784,personnes,projected
+2049,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,707,personnes,projected
+2050,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,614,personnes,projected
+2051,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,440,personnes,projected
+2052,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,209,personnes,projected
+2053,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,89,personnes,projected
+2054,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-59,personnes,projected
+2055,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-185,personnes,projected
+2056,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-299,personnes,projected
+2057,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-505,personnes,projected
+2058,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-513,personnes,projected
+2059,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-630,personnes,projected
+2060,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-788,personnes,projected
+2061,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-739,personnes,projected
+2062,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-704,personnes,projected
+2063,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-840,personnes,projected
+2064,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-782,personnes,projected
+2065,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-815,personnes,projected
+2066,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-798,personnes,projected
+2067,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-896,personnes,projected
+2068,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-925,personnes,projected
+2069,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-824,personnes,projected
+2070,STATEC (Analyses 02/26),SC4,Scénario 4 : Forte productivité,solde_naturel,Total,Total,-980,personnes,projected
+2070,STATEC (Analyses 02/26),SC1,"Scénario 1 : Faible productivité, faible investissement",wage_ratio_ppa_pct,Total,Total,109,% (PPA),projected
+2070,STATEC (Analyses 02/26),SC2,"Scénario 2 : Faible productivité, fort investissement",wage_ratio_ppa_pct,Total,Total,118,% (PPA),projected
+2070,STATEC (Analyses 02/26),SC3,"Scénario 3 : Forte productivité, faible investissement",wage_ratio_ppa_pct,Total,Total,142,% (PPA),projected
+2070,STATEC (Analyses 02/26),SC4,"Scénario 4 : Forte productivité, fort investissement",wage_ratio_ppa_pct,Total,Total,152,% (PPA),projected

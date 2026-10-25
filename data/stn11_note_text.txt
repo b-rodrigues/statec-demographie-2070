@@ -1,0 +1,229 @@
+                                                                                                  N° 11
+                                                                                                16/04/26
+
+
+
+
+Projections démographiques du
+Luxembourg : vers un million
+d’habitants d’ici 2070
+Le Luxembourg continue de grandir. Selon les nouvelles projections démographiques publiées par le
+STATEC, la population du pays pourrait avoisiner le cap du million d’habitants à l’horizon 2070. À l’occasion
+de la publication des projections démographiques européennes, le STATEC dévoile quatre scénarios
+d’évolution de la population.
+
+
+
+
+Points clés
+    •   La population du Luxembourg pourrait avoisiner le million d’habitants d’ici 2070, selon
+        les projections du STATEC (944 000 dans le scénario bas, plus d’un million dans les
+        scénarios élevés) ainsi que celles d’EUROSTAT (962 500).
+
+
+    •   Eurostat anticipe une phase de croissance démographique soutenue jusqu’au milieu
+        du siècle avant un ralentissement progressif, une trajectoire comparable aux scénarios
+        de faible productivité du STATEC.
+
+
+
+    •   Les projections du STATEC se distinguent par leur sous-jacent économique. Là où
+        Eurostat projette les flux migratoires en prolongeant les tendances passées, le STATEC
+        les relie directement aux fondamentaux de l’économie luxembourgeoise : plus la
+        croissance et les salaires sont attractifs par rapport aux pays voisins, plus le solde
+        migratoire est élevé.
+
+
+
+    •   La migration resterait le principal moteur de la croissance démographique
+        luxembourgeoise sur l’horizon de prévision ; elle a contribué à environ 80% de
+        l’augmentation de la population au cours des dernières décennies.
+
+
+
+
+1 | STATNEWS
+Une croissance démographique soutenue, mais qui pourrait
+ralentir
+  GRAPHIQUE 1 : ÉVOLUTION DE LA POPULATION
+
+
+
+
+ Sources : STATEC, Eurostat
+
+ Note de lecture : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC
+ publiées le 24 février 2026. Les scénarios 1 à 4 sont ceux du STATEC tandis qu’EUROPOP2025 correspond à la projection d’EUROSTAT
+
+
+Au Luxembourg, croissance économique et croissance démographique sont étroitement liées. Le modèle du STATEC
+reflète cette réalité : le solde migratoire y est déterminé en fonction de l'attractivité relative des revenus
+luxembourgeois par rapport aux pays voisins, elle-même pilotée par les gains de productivité. Sur cette base, quatre
+scénarios sont présentés, allant du plus pessimiste (scénario 1, faible productivité) au plus optimiste (scénario 4,
+forte productivité). En 2070, la population atteindrait 944 000 habitants dans le scénario 1, 966 000 dans le
+scénario 2, 1 022 000 dans le scénario 3 et 1 067 000 dans le scénario 4. La population est actuellement d’environ
+691 000 habitants au 31 décembre 2025.
+
+Sur la période allant d’aujourd’hui jusqu’au milieu du siècle, l’ensemble des projections, qu’elles proviennent du
+STATEC ou d’EUROSTAT, indiquent une phase de croissance démographique. La dynamique diverge à partir du milieu
+des années 2050. Dans les projections du STATEC, la population continue de croître dans les scénarios de
+productivité plus élevée pour dépasser le million d’habitants en 2070 (scénarios 3 et 4). Dans les scénarios plus
+pessimistes (scénarios 1 et 2), la trajectoire reste très proche de celle projetée par EUROSTAT. En effet, Eurostat
+anticipe une quasi-stagnation de la population à partir du milieu des années 2050 et la population atteindrait les
+962 500 personnes en 2070 (avec une dynamique presque identique à celle du scénario 2 du STATEC).
+
+
+
+
+2 | STATNEWS
+La migration, principal moteur de la croissance démographique
+  GRAPHIQUE 2 : ÉVOLUTION DU SOLDE MIGRATOIRE
+
+
+
+
+ Sources : STATEC, Eurostat
+
+ Note de lecture : « Observé + Projections à moyen-terme » correspond aux données observées ainsi qu’à celles issues des projections du STATEC
+ publiées le 24 février 2026. Les scénarios 1 à 4 sont ceux du STATEC tandis qu’EUROPOP2025 correspond à la projection d’EUROSTAT
+
+
+
+
+Les différences observées entre les résultats du STATEC et ceux d’EUROSTAT sont expliquées principalement par la
+projection du solde migratoire (bien que de légères différences soient aussi observées pour la fécondité et la
+mortalité), pour lequel les deux institutions suivent des approches fondamentalement différentes. EUROSTAT
+adopte une approche basée sur les tendances passées : le solde migratoire est estimé à partir de la moyenne des
+flux observés au cours des dix dernières années, ajustée vers une valeur de long terme commune à l’ensemble des
+pays de l’UE. Cette méthode, robuste pour des pays à démographie « standard », ne capture pas le lien étroit qui
+existe au Luxembourg entre conjoncture économique et flux migratoires : elle peut conduire à des révisions lorsque
+les années récentes de référence sont inhabituelles (comme lors des années COVID ou de forte croissance). Le
+STATEC intègre au contraire le solde migratoire dans son modèle éco-démographique : les flux de travailleurs
+étrangers répondent à l’attractivité relative des revenus luxembourgeois, elle-même déterminée par les gains de
+productivité par rapport aux pays voisins. Cette approche ancre les projections migratoires dans des fondamentaux
+économiques et les rend moins sensibles aux chocs ponctuels, ce qui se traduit par une plus grande stabilité des
+prévisions d’une publication à l’autre.
+
+Dans les scénarios du STATEC, le solde migratoire se situerait entre 3 300 et 7 500 personnes en 2070, selon le
+scénario retenu. La projection d'EUROSTAT suit une trajectoire intermédiaire : après un pic d'environ 10 000
+personnes en 2031, le solde diminuerait progressivement pour atteindre un peu plus de 3 000 personnes en 2070,
+un niveau proche du scénario bas du STATEC.
+
+
+
+
+3 | STATNEWS
+Une fécondité en légère hausse, mais loin du seuil de
+remplacement
+ GRAPHIQUE 3 : PROJECTION DE LA FÉCONDITÉ
+                                                 En matière de fécondité, le STATEC est un peu plus
+                                                 optimiste qu’EUROSTAT, comme le montre le
+                                                 graphique 3. EUROSTAT prévoit dans un premier
+                                                 temps une légère diminution de l’Indice
+                                                 Conjoncturel de Fécondité (ICF), passant de 1.25
+                                                 en 2024 à 1.21 en 2026, avant un redressement
+                                                 progressif. Le STATEC, quant à lui, anticipe une
+                                                 augmentation graduelle de l’ICF dès 2025, qui
+                                                 atteindrait 1.50 enfant par femme en 2070 (contre
+                                                 1.41 pour EUROSTAT). Malgré cet écart, les deux
+                                                 institutions s’accordent sur le fait que le
+                                                 Luxembourg resterait en dessous du seuil de
+                                                 remplacement des générations (2.1 enfants par
+Sources : STATEC, Eurostat                       femme) sur toute la période de projection.
+
+
+
+
+Vers une espérance de vie de près de 90 ans en 2070
+                                                 Les hypothèses de mortalité sont en revanche
+ GRAPHIQUE 4 : ESPÉRANCE DE VIE À LA NAISSANCE
+                                                 relativement proches, comme le montre
+                                                 l’évolution de l’espérance de vie à la naissance.
+                                                 En 2070, l’espérance de vie à la naissance des
+                                                 femmes serait de 90.3 ans pour le STATEC et de
+                                                 89.9 ans pour EUROSTAT. Pour les hommes, elle
+                                                 s’élèverait à 86.7 ans pour le STATEC et 86.0 ans
+                                                 pour EUROSTAT. Ces écarts modestes (à peine
+                                                 0.4 à 0.7 an selon le sexe) témoignent
+                                                 d’hypothèses de mortalité convergentes entre les
+                                                 deux institutions, toutes deux basées sur une
+                                                 poursuite de l’allongement tendanciel de
+                                                 l’espérance de vie. Le STATEC projette une
+                                                 progression légèrement plus rapide, ce qui se
+                                                 traduit par une espérance de vie un peu plus
+                                                 élevée à long terme.
+
+
+
+
+Sources : STATEC, Eurostat
+
+
+
+
+4 | STATNEWS
+Un vieillissement inévitable, mais atténué par l’immigration
+  GRAPHIQUE 5 : PYRAMIDE DES ÂGES
+                                                                             Les pyramides des âges illustrent une
+                                                                             transformation structurelle profonde de la
+                                                                             population luxembourgeoise. En 2025, la structure
+                                                                             est relativement équilibrée, reflétant les apports
+                                                                             migratoires des décennies passées, avec une
+                                                                             prédominance des tranches d’âge actives (25–60
+                                                                             ans). En 2070, les deux projections (STATEC et
+                                                                             EUROSTAT) s’accordent sur un vieillissement
+                                                                             marqué de la population : la part des 65 ans et
+                                                                             plus augmenterait significativement, l’âge moyen
+                                                                             passant d’environ 40 ans aujourd’hui à près de 46–
+                                                                             48 ans en 2070. Ce vieillissement est toutefois plus
+                                                                             prononcé dans la projection EUROSTAT, où le
+                                                                             solde migratoire plus faible en fin de période
+                                                                             limite l’apport de travailleurs jeunes. Les scénarios
+                                                                             du STATEC à forte productivité (scénarios 3 et 4)
+                                                                             maintiennent une structure par âge légèrement
+                                                                             plus favorable grâce à une immigration plus
+                                                                             soutenue.
+
+
+
+
+ Sources : STATEC, Eurostat
+
+ Note de lecture : Les couleurs claires correspondent à 2025, les couleurs
+ foncées à 2070
+
+
+
+
+ Le STATEC a le plaisir de vous inviter à un séminaire économique qui se tiendra le 13 mai à 11h00. À cette
+     occasion, il présentera un modèle de projections de long terme spécifiquement développé pour le
+                                                Luxembourg.
+
+
+Le Luxembourg en 2070 : un million d’habitants, mais une croissance qui ralentit
+Mercredi, le 13 mai 2026 l 11:00 heures
+STATEC - Salle Alan Turing
+12, boulevard du Jazz
+L-4370 Belvaux
+Participer au séminaire économique en ligne : https://gd.lu/3MkM5B
+ou Participer en présentiel
+
+
+
+
+5 | STATNEWS
+Pour en savoir plus
+Bureau de presse |📞 +352 247-88455 | ✉️ press@statec.etat.lu
+statistiques.lu
+                                                                             La reproduction totale ou partielle du
+Cette publication a été réalisée par Gabriel Gomes et François Peltier.      présent bulletin d’information est
+Le STATEC tient à remercier tous les collaborateurs qui ont contribué à la   autorisée à condition d’en citer la
+réalisation de cette parution.                                               source.
+
+Restez connectés ! Inscrivez-vous à notre newsletter
+
+
+
+
+   6 | STATNEWS
+
